@@ -37,10 +37,15 @@ _ALTS = np.arange(ALT_MIN, ALT_MAX + 0.5 * ALT_STEP, ALT_STEP)
 _LATS = np.arange(LAT_MIN, LAT_MAX + 0.5 * LAT_STEP, LAT_STEP)
 
 
+def _jd_to_datetime64(jd):
+    """Julian date(s) to numpy datetime64 in seconds (UTC)."""
+    unix_s = (np.atleast_1d(np.asarray(jd, dtype=float)) - 2440587.5) * 86400.0
+    return np.round(unix_s).astype("int64").astype("datetime64[s]")
+
+
 def _indices(times_s, jd0):
-    """Historical F10.7, F10.7a and Ap for a list of Julian dates."""
-    dates = np.array([np.datetime64("1970-01-01T00:00") + np.timedelta64(int(t), "s")
-                      for t in times_s], dtype="datetime64[s]")
+    """Historical F10.7, F10.7a and Ap at simulated times (s) after the epoch jd0."""
+    dates = _jd_to_datetime64(jd0 + np.asarray(times_s, dtype=float) / 86400.0)
     f107s, f107as, aps = get_f107_ap(dates)
     return (np.atleast_1d(np.asarray(f107s, dtype=float)),
             np.atleast_1d(np.asarray(f107as, dtype=float)),
@@ -76,8 +81,7 @@ class NrlmsisAtm:
         f107s, f107as, aps = _indices(times, self.jd0)
         rho = np.empty((len(times), len(self.lats), len(self.alts)), dtype=float)
         for k in range(len(times)):
-            dates = np.array([np.datetime64("1970-01-01T00:00")
-                              + np.timedelta64(int(times[k]), "s")], dtype="datetime64[s]")
+            dates = _jd_to_datetime64(self.jd0 + times[k] / 86400.0)
             ap7 = np.atleast_2d(np.asarray(aps[k], dtype=float))
             out = pymsis.calculate(dates, self.lats, [0.0], self.alts,
                                    f107s=[f107s[k]], f107as=[f107as[k]],

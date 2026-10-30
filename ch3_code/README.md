@@ -33,3 +33,7 @@ Run (from the folder that contains the .py files)
     python3 grid_ch3.py 1,6,8,10,13,15       one JSON line per run (geometry index, sail area, t120)
 
 reproduce_base.py prints one JSON line with t120, the difference from the reported value, the lowest perigee and the versions used. grid_ch3.py prints one JSON line per run; t120_yr is null when the 120 km threshold is not reached within 25 years.
+
+Note on earlier NRLMSIS results
+- logs/t8b_atmosphere_impact.json and logs/atm_impact.out were produced before nrlmsis_atm.py was corrected. The table builder used dates from 1970-01-01 instead of the simulation epoch (2026-01-01), so those numbers are not valid and must be regenerated.
+- The F10.7 and Ap history needed by nrlmsis_atm.py is downloaded from celestrak.org at first use, so this step needs network access to that host.
