@@ -1,0 +1,5 @@
+Baseline reproduction (Model A, full_prop.propagate), run in the thesis sandbox on 3 parallel jobs over 2 cores.
+python 3.13.17, numpy 2.5.3, scipy 1.18.1, rtol 1e-9, perigee 250 km, F10.7 130, Ap 10, Cd 2.2, epoch 2026-01-01 00:00 UT.
+{"case": "tiny", "t120_yr": 0.2935, "expected_yr": 0.2935, "rel_diff_percent": -0.009, "hp_min_km": 118.99, "wall_s": 4.0}
+{"case": "natural", "t120_yr": 7.5041, "expected_yr": 7.5, "rel_diff_percent": 0.055, "hp_min_km": 119.5, "wall_s": 83.9}
+{"case": "sail140", "t120_yr": 11.9016, "expected_yr": 11.9, "rel_diff_percent": 0.014, "hp_min_km": 122.72, "wall_s": 130.2}

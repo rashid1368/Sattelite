@@ -1,0 +1,24 @@
+=== A. Model B: osculating vs mean-element initialisation ===
+  osculating: a=24396.137 km  e=0.728312  hp=250.0 km
+  mean      : a=24310.788 km  e=0.727250  hp=252.63 km
+  da = 85348.72 km (osculating higher), de = +0.001062
+  osculating (what lifetime_days uses by default): t175=60.748 yr  t120=60.770 yr (17.9 s)
+  mean (what mean_gto_elements docstring prescribes): t175=64.350 yr  t120=64.369 yr (18.2 s)
+
+=== B. Model B monotonicity of lifetime vs sail area (bisection validity) ===
+   A=   0.0 m2  am=0.00639  t120=   60.770 yr
+   A=  40.0 m2  am=0.02622  t120=   14.818 yr
+   A=  80.0 m2  am=0.04597  t120=    8.452 yr
+   A= 140.0 m2  am=0.07545  t120=    5.150 yr
+   A= 200.0 m2  am=0.10476  t120=    3.709 yr
+   A= 300.0 m2  am=0.15321  t120=    2.536 yr
+   A= 400.0 m2  am=0.20120  t120=    1.931 yr
+
+=== C. T5: Sun/Moon linear-interpolation error over 25 yr (thesis claims Sun 2.48 km, Moon 1.27 km) ===
+  Sun : max 2.484 km  rms 1.765 km
+  Moon: max 1.270 km  rms 0.814 km
+  thesis line 824 claims: Sun max 2.48 km rms 1.76 km; Moon max 1.27 km rms 0.81 km
+
+=== D. drag vs SRP at perigee (thesis line 819: 'more than 1000x') ===
+  a_drag=6.8339e-05 m/s^2   a_srp=2.5341e-19 m/s^2   ratio=269681496755784.3
+  perigee speed 10194.9 m/s ; Earth rotation at perigee 483.3 m/s = 4.74% of v

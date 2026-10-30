@@ -1,0 +1,32 @@
+{
+  "test": "atmosphere_impact_NRLMSIS_vs_exponential",
+  "recs": [
+    {
+      "case": "tiny",
+      "atmosphere": "NRLMSIS 2.0",
+      "t120_yr": 0.292,
+      "expected_exp_yr": 0.2935,
+      "rel_diff_percent": -0.5,
+      "hp_min_km": 120.02,
+      "wall_s": 31.3
+    },
+    {
+      "case": "natural",
+      "atmosphere": "NRLMSIS 2.0",
+      "t120_yr": 17.6626,
+      "expected_exp_yr": 7.5,
+      "rel_diff_percent": 135.5,
+      "hp_min_km": 120.84,
+      "wall_s": 4003.2
+    },
+    {
+      "case": "sail140",
+      "atmosphere": "NRLMSIS 2.0",
+      "t120_yr": null,
+      "expected_exp_yr": 11.9,
+      "rel_diff_percent": null,
+      "hp_min_km": 243.53,
+      "wall_s": 819.2
+    }
+  ]
+}

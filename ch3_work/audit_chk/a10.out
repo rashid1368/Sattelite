@@ -1,0 +1,21 @@
+=== A. Attribution of the 8x: full model vs third-body-only vs SRP-only (omega=0,Omega=0) ===
+  full (2body+J2+drag+moon+sun+SRP)          t120 = 7.4950 yr  (262.3 s)
+  no SRP (2body+J2+drag+moon+sun)            t120 = 12.9427 yr  (535.9 s)
+  no third body, no SRP (2body+J2+drag)      t120 = inf yr  (469.2 s)
+
+=== B. T4 tolerance convergence reproduced on the short case (thesis says 0.8%) ===
+  rtol=1e-09: t120 = 0.293475 yr  (7.6 s)
+  rtol=1e-10: t120 = 0.291181 yr  (8.7 s)
+  rtol=1e-11: t120 = 0.324161 yr  (10.8 s)
+
+=== C. Model B quadrature convergence (N_QUAD) ===
+  n_quad=   256: t120 = 5.1499 yr
+  n_quad=  1024: t120 = 5.1499 yr
+  n_quad=  4096: t120 = 5.1499 yr
+  n_quad= 16384: t120 = 5.1499 yr
+
+=== D. Model B dt_max_days sensitivity ===
+  dt_max_days= 4.0: t120 = 5.1499 yr
+  dt_max_days= 2.0: t120 = 5.1499 yr
+  dt_max_days= 1.0: t120 = 5.1499 yr
+  dt_max_days= 0.5: t120 = 5.1499 yr

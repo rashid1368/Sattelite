@@ -1,0 +1,529 @@
+applied
+sciences
+
+Article
+
+De-Orbit Maneuver Demonstration Results of Micro-Satellite
+ALE-1 with a Separable Drag Sail
+
+Kohei Takeda 1, Toshinori Kuwahara 1,* , Takumi Saito 1 , Shinya Fujita 1, Yoshihiko Shibuya 2,
+Hiromune Ishii 2, Lena Okajima 2 and Tetsuya Kaneko 3
+
+                                            1 Department of Aerospace Engineering, Tohoku University, Sendai 980-8579, Japan
+                                            2 ALE Co., Ltd., Tokyo 105-0012, Japan
+                                            3 Nakashimada Engineering Works, Ltd., Hirokawa 834-0196, Japan
+
+                                            * Correspondence: toshinori.kuwahara.b3@tohoku.ac.jp
+
+Citation: Takeda, K.; Kuwahara, T.;         Abstract: ALE-1, a micro-satellite created for the demonstration of artificial shooting stars, required
+Saito, T.; Fujita, S.; Shibuya, Y.; Ishii,  orbital descent before mission execution due to safety aspects in orbit. ALE-1 utilized a drag sail called
+H.; Okajima, L.; Kaneko, T. De-Orbit        SDOM (Separable De-Orbit Mechanism) for a passive de-orbit maneuver, which was successfully
+Maneuver Demonstration Results of           completed, lowering the orbit from about 500 km down to about 400 km. This paper summarizes
+Micro-Satellite ALE-1 with a                the detailed history of satellite operation and the results of the de-orbit maneuver demonstration
+Separable Drag Sail. Appl. Sci. 2023,       during the past three years. Although the SDOM sail faced difficulty in keeping the desired deployed
+13, 7737. https://doi.org/                  shape of the drag sail due to mechanical troubles, by letting the sail be a drag flag instead, it could
+10.3390/app13137737                         still deliver a meaningful de-orbit performance to allow the satellite to successfully lower the orbit
+                                            as planned. The de-orbit effect of the drag flag was evaluated using comparisons between orbit
+Academic Editors: Lorenzo Olivieri,         propagation simulations and the actual orbit transition flight data provided in the form of TLE
+Kanjuro Makihara and Leonardo               (Two-Line Element) sets. Through this study, it is demonstrated that the SDOM can provide orbit
+Barilaro                                    transfer capabilities for satellites. Furthermore, the de-orbit performance of the drag flag can be
+                                            evaluated, which could be an important reference for the future implementation of de-orbit devices
+Received: 31 May 2023                       to solve space debris problems.
+Revised: 19 June 2023
+Accepted: 28 June 2023                      Keywords: micro-satellite; drag sail; de-orbit; time-of-flight camera
+Published: 30 June 2023
+                                            1. Introduction
+Copyright: © 2023 by the authors.                 ALE-1 is a micro-satellite jointly developed by Tohoku University and ALE Co.,
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article      Ltd. (Tokyo, Japan), and it was launched by Japanese Epsilon Launch Vehicle No. 4 on
+distributed under the terms and             18 January 2019 as part of the first implementation of JAXA's Innovative Satellite Technol-
+conditions of the Creative Commons          ogy Demonstration Program [1,2]. The mission of ALE-1 is to demonstrate the technology
+Attribution (CC BY) license (https://       of artificial shooting star generation, and it is still operational in orbit. ALE-1 required a
+creativecommons.org/licenses/by/            descent of about 100 km from the initial orbit altitude of about 500 km due to safety aspects
+4.0/).                                      in orbit, which was successfully accomplished with a passive drag sail de-orbit device
+                                            called Separable De-Orbit Mechanism (SDOM). SDOM is a passive de-orbit system that
+                                            uses atmospheric drag in the low Earth orbit, and it was jointly developed by Nakashimada
+                                            Engineering Works Ltd. and Tohoku University. Although it takes a long time to de-orbit,
+                                            it is a simple thin-film deployment system that is actuated by mechanical strain energy,
+                                            and it is expected to be a solution to the space debris problem, which has been a significant
+                                            concern in recent years [3,4].
+
+                                                  We have reported on the development and operational progress of SDOM and ALE-1
+                                            in various ways. In particular, in 2022, we published a paper on the status of system trouble
+                                            that occurred in SDOM and its impact on the orbit descent [5]. Two of the four corners of
+                                            the square-shaped drag sail of SDOM were unexpectedly loosened, resulting in a drag flag.
+                                            This system trouble seemed to decrease SDOM's performance as a de-orbit mechanism,
+                                            and we discussed the prediction of a possible significant delay in the orbit descent.
+
+Appl. Sci. 2023, 13, 7737. https://doi.org/10.3390/app13137737  https://www.mdpi.com/journal/applsci
+Appl. Sci. 2023, 13, 7737                                                                      2 of 11
+
+                                 Despite the trouble, however, SDOM was subsequently able to fulfill its role in orbit
+                           descent and revealed that the effect of the trouble was minimal. Moreover, SDOM was
+                           successfully separated from the ALE-1 satellite at the end of 2022 as intended, allowing the
+                           micro-satellite to stay in the target orbit for a longer time period. In this paper, we review
+                           the history and results of the orbital operation of ALE-1 in terms of various aspects and
+                           evaluate the descent performance of the SDOM based on the comparisons between orbit
+                           propagation simulations and the actual orbit transition record provided in the form of TLE
+                           (Two-Line Element) history.
+
+                           2. Mission and System
+                           2.1. ALE-1
+
+                                 Figure 1 shows the appearance of the flight model of the micro-satellite ALE-1 together
+                           with the positions of the related components, and Table 1 provides its specifications. The
+                           main mission of ALE-1 is to demonstrate the technology of an "artificial shooting star"
+                           generation by ejecting small metal pellets from orbit to Earth, where interaction with the
+                           atmosphere will cause a luminous phenomenon. This technological demonstration has
+                           two aspects: entertainment and scientific observation. The entertainment aspect involves
+                           the development of a service that allows people to enjoy shooting stars from any ground
+                           position at any given time. The scientific observation aspect aims to gather data on luminous
+                           phenomena in the upper atmosphere, which can be used to investigate the characteristics
+                           of the upper atmosphere and the re-entry behavior of small objects [6­9].
+
+                           Table 1. Specifications of ALE-1.
+
+                           Satellite  Parameters                                   Values
+                           SDOM
+                                                          Mass [kg]                 68.16
+                                                     Dimensions [mm]          440 × 500 × 539
+
+                                                          Mass [kg]                  3.88
+                                      Dimensions [mm] (Stored configuration)  277 × 211 × 222
+
+                                                       Film size [mm]           2500 × 2500
+                                               Thickness of the film [µm]             25
+
+                           Figure 1. Micro-satellite ALE-1 and its component configuration.
+
+                                 In order to prevent collisions with other spacecraft in orbit, it is crucial to ensure that
+                           the pellets are carefully ejected. This is especially important for the International Space
+                           Station (ISS), which operates at an altitude of 400 km and houses critical experimental
+                           facilities and astronauts. To minimize the risk of any pellet impact with the ISS, ALE-1
+                           needed to transfer from its initial orbit at an altitude of 500 km to a lower altitude below
+                           400 km prior to commencing its main mission [10­12].
+Appl. Sci. 2023, 13, 7737                                                                                                                                              3 of 11
+
+                                 As the orbit transfer device, we installed an SDOM, which will be described in detail
+                           in the next section. The SDOM utilized a sail to increase the atmospheric drag to lower
+                           the orbit altitude and separated the sail section after ALE-1 had descended about 100 km,
+                           allowing it to remain in the lowered orbit for an extended period.
+
+                           2.2. SDOM: Separable De-Orbit Mechanism
+                                 SDOM is a passive de-orbit system that was specifically developed for ALE-1. This
+
+                           system uses an aluminized polyimide thin film as an atmospheric drag sail and represents
+                           a new model of the de-orbit mechanism (DOM) that Nakashimada Engineering Works,
+                           Ltd. and Tohoku University have been collaboratively developing since 2010 [13,14]. The
+                           appearance of the deployed DOM is illustrated in Figure 2. The SDOM system drags
+                           down satellites using the atmospheric drag that acts on the thin film, allowing satellites to
+                           re-enter the Earth's atmosphere. Several models of DOM have been already operated in
+                           orbit, providing us with important engineering findings [15,16].
+
+                                 SDOM consists of the following components:
+                           · A cylindrical container to ensure safety during rocket launch;
+                           · A thin film deployment mechanism that acts as a drag sail to lower the orbit;
+                           · A boom to keep the thin film away from the satellite so that it does not block the
+
+                                 antenna or solar panels;
+                           · A system to separate the drag sail from the container after reaching a predetermined
+
+                                 target altitude.
+
+                           Figure 2. Deployed configuration of DOM: De-Orbit Mechanism.
+
+                                 SDOM is designed to have five operational phases to ensure its proper functioning, as
+                           depicted in Figure 3 [5]. Phase 0 represents the safe storage of all components within the
+                           cylindrical body without deployment. In phase 1, the lid is opened. In phase 2, the boom is
+                           extended to position the drag sail mechanism 2.5 m away from the satellite's main structure.
+                           In phase 3, a 2.5 m × 2.5 m thin film is deployed to initiate de-orbit. Upon reaching a
+                           predetermined target altitude (in the case of ALE-1, less than 400 km), the film and boom
+                           are separated on command from the ground station to prolong the satellite's orbital lifetime
+                           at that altitude (phase 4). The cylindrical container remains attached to the satellite body.
+Appl. Sci. 2023, 13, 7737  4 of 11
+
+                           Figure 3. Operational phases of SDOM.
+                           3. History of Operation
+                           3.1. Mission History
+
+                                 In this section, the operational history of ALE-1 and SDOM is discussed using images
+                           from the TOF (Time-of-Flight) camera onboard ALE-1. The mission history is shown in
+                           Figure 4, and the corresponding TLE history of ALE-1 is shown in Figure 5.
+
+                           Figure 4. Mission history of ALE-1 and SDOM.
+
+                           Figure 5. Orbital altitude history of ALE-1 based on TLE: Two-Line Element. The semi-major axis of
+                           the orbit is plotted together with the mission history.
+
+                                 The separated SDOM sail is unlikely to generate additional space debris, as its area-to-
+                           mass ratio is large enough to de-orbit itself for a very short orbital period, ultimately being
+                           burned up during the re-entry. One reference for this technology is the 1U-sized CubeSat
+                           FREEDOM, which was operated in 2017 by Nakashimada Engineering Works, Ltd. and
+                           Tohoku University [17]. FREEDOM carried a DOM with a film size of 1.5 m × 1.5 m. Based
+Appl. Sci. 2023, 13, 7737                                                                                                                                              5 of 11
+
+                           on the orbit history of FREEDOM, it took about 22 days to re-enter the Earth's atmosphere
+                           from an altitude of 400 km [13]. According to this background, the separated part of the
+                           SDOM is expected to re-enter the atmosphere within a few days.
+
+                                 A detailed description of the mechanisms and satellite subsystems of ALE-1 can be
+                           found in [7,18,19]. Each phase transition is initiated by stored commands that are uplinked
+                           from the ground station after the required status checks for each phase transition have been
+                           verified [11].
+
+                                 After ALE-1 entered orbit on 18 January 2019, the satellite was operated and underwent
+                           orbital functional verification. The SDOM mission started on 11 June 2019 when its lid
+                           was opened. Shortly thereafter, the boom extension was initiated, but it could not be
+                           confirmed as intended. After 5 months of regular observations, the boom extension was
+                           finally confirmed on 6 November 2019, which initiated phase 2. The deployment of the
+                           thin film was postponed for an additional 50 days to allow for the detailed evaluation of
+                           the gravity gradient effects acting on the satellite system. The film was then deployed on
+                           25 December 2019 [5].
+
+                                 Based on the initial estimation, ALE-1 with the SDOM deployed was expected to
+                           descend to the ISS orbital altitude in about 650 days [18]; in contrast with the estimation,
+                           however, the deployed SDOM experienced a series of problems. On 28 December 2019, one
+                           of the film's four corner connections was found to be damaged, which left only half the area
+                           of the film effective for drag. Approximately two weeks later, another corner connection
+                           was lost, effectively changing the film from a drag sail to a drag flag. This issue is discussed
+                           in more detail in the next section. In addition, between 20 April 2020 and 27 May 2020, a
+                           gas leak occurred from a tank installed for the artificial shooting star mission; the gas leak
+                           was caused by a malfunction of the gas output control system, and the malfunction was
+                           resolved when the control system was restarted. After that, operations went smoothly, and
+                           on 27 July 2022, when the orbital altitude was confirmed to be below 400 km, the sail section
+                           of SDOM was separated from ALE-1. The SDOM separation was observed by the DMC
+                           (DOM Monitoring Camera) as illustrated in Figure 6. ALE-1 completed its descent, albeit
+                           about a year later than predicted, and is still flying today, maintaining its orbital altitude.
+
+                           Figure 6. The separation of the boom and film of SDOM, as observed by DMC. (a) Before SDOM is
+                           separated. (b) After SDOM is separated.
+
+                           3.2. Trouble of SDOM
+
+                                 The SDOM system broke two of the film's four corner connections in late 2019 and
+                           early 2020, effectively changing the film from a drag sail to a drag flag; the exact reason
+                           for the broken connections in these corners is still unknown. However, based on the
+                           observations, it is more likely that the Dyneema wires in the connections were untangled
+                           rather than severed. This situation could be observed by the DMC, as illustrated in Figure 7.
+                           The DMC was originally installed to monitor the conditions of the SDOM lid and boom
+                           extension.
+
+                                 ALE-1 is also equipped with a camera, called the Time-of-Flight (TOF) Camera System,
+                           for observing the SDOM film. This camera system collects distance information to the sail
+                           surface and downlinks the data to the ground to allow analyses to obtain better insight
+Appl. Sci. 2023, 13, 7737                                                                                                                                              6 of 11
+
+                           into the three-dimensional dynamic behavior of the boom and drag sail in space [20]. In
+                           fact, we reported the results of our estimation of the shape of the SDOM when deployed in
+                           space in 2022 [21].
+
+                           Figure 7. Disconnected SDOM film and its relative attitude as observed by DMC.
+
+                                 Now, the SDOM film with the two missing connections exhibited a characteristic
+                           behavior that was observed by the onboard cameras. It was determined that the film was
+                           exhibiting small movements around an axis through the remaining connections. Most of the
+                           time, the film remained on the opposite side of the DOM deployment plane in relation to
+                           the satellite, but there were instances where it was observed to move to the front side of the
+                           deployment plane. Figure 7 captured the film at the moment it unintentionally entered the
+                           field of view of the DMC while being positioned on the front side of the DOM deployment
+                           plane. The photograph clearly shows that one corner of the film is disconnected; the
+                           subsequent DMC photograph did not show the film at all. From this investigation, it was
+                           determined that the film can freely move around depending on the relative motion between
+                           the satellite's main structure.
+
+                                 Although the SDOM unintentionally became a drag flag, the orbital history shows
+                           that it was nevertheless effective for the orbital descent. This suggests that the SDOM, as it
+                           trailed like a cloak, experienced a certain level of atmospheric drag, which was expected to
+                           reduce the velocity of ALE-1. In this study, we examine the impact of this drag flag on the
+                           orbital descent by comparing the descent simulations and orbital history.
+
+                           4. Investigation on Orbital Decent
+                           4.1. Parameters of Orbit Analysis
+
+                                 We performed numerical simulations on the trajectory of ALE-1 with the SDOM
+                           film deployment. In general, the perturbed acceleration of a flying object in the upper
+                           atmosphere can be described by the following equation:
+
+                           adrag  =  -  1  CD    A  vr2el                                                  (1)
+                                        2        m
+
+                           where  is the atmospheric density, CD is the drag coefficient, A is the cross-sectional area
+                           of the satellite, m is the mass of the satellite, and vrel is the relative velocity against the
+                           atmosphere. The mass of ALE-1 is 68.16 kg (65.29 kg after SDOM separation), as shown
+
+                           in Table 1, which is measured before launch. The CD is a dimensionless quantity; for a
+                           satellite, it is commonly set to be 2.2 [22]. Although A is 6.25 m2 at maximum when SDOM
+
+                           is deployed, the cross-sectional area value cannot be measured in the situation because the
+
+                           film is in a drag flag state. In addition, because CD varies with the shape of the drag flag as
+                           well as the angles of attack, it is difficult to make a reliable assumption on the value of CD.
+                           It is also difficult to calculate the CD due to the unknown shape of the drag flag for the long
+                           period of the orbit transfer. Thus, CD and A need to be handled as unknown parameters,
+                           which act as the limitation of the analysis.
+Appl. Sci. 2023, 13, 7737                                                                                      7 of 11
+
+                                 According to this background, we decided to use the combination of these parameters
+                           CD × A as an evaluation index. The range of CD A for the simulation analysis is determined
+                           based on the traditional fixed value of CD = 2.2 and the mean cross-sectional area of ALE-1.
+                           The mean cross-sectional area of a tumbling satellite can be approximated as the sum of
+                           the projected areas in the six orthogonal directions (plus and minus directions in each of
+                           the three orthogonal axes) divided by four. As this value is about 3.4 m2 for ALE-1 with
+                           the fully deployed SDOM and about 0.4 m2 without SDOM, we set CD Aave to be in the
+                           approximate range of 0.80­7.43.
+
+                                 For the initial orbit conditions, the TLE of ALE-1 on 28 May 2020 was used. The
+                           reason for not using the TLE immediately after the SDOM deployment is to avoid the
+                           influence of the gas leak, which caused an instantaneous increase in orbit altitude. Orbit
+                           propagation was performed by using the fourth-order RungeKutta method, with the solar
+                           and lunar mass perturbations, atmospheric drag, solar radiation pressure, and Earth gravity
+                           field being based on a non-spherical central body model [23]. The environmental models
+                           applied to the simulations are listed in Table 2, and the parameters used are summarized in
+                           Table 3. The atmospheric density model was calculated based on the parameters available
+                           on 1 February 2023. The simulator used for the analysis is the MEVIµS system, which was
+                           developed by our research team [24,25].
+
+                           Table 2. Environmental models of the orbit analysis.
+
+                                Environment                       Model                          References
+
+                            Earth gravity model  EGM-08 (degree, order) = (40,40)                 Ref. [22]
+                           Sun and Moon model                     DE431                          Ref. [22,23]
+
+                            Atmosphere model                 NRLMSISE-00                          Ref. [26]
+
+                           Table 3. Parameters of the orbit analysis.
+
+                                   Items                               Parameters                   Value      References
+                           Atmospheric drag
+                                                                             CD                        -        Ref. [22]
+                             Solar radiation                               A [m2]                      -              -
+                               Time system                                                        Variable
+                           Satellite properties                             F10.7                 Variable      Ref. [26]
+                                                                        F10.7 81 days                           Ref. [26]
+                                                                                                      1.0
+                                                                   cR [-] (reflectivity)           4.54 E-6     Ref. [22]
+                                                     Psrp [N/m2] (solar-radiation pressure)                     Ref. [22]
+                                                                                                     37.0
+                                                             AT [s] (delta atomic time)                         Ref. [27]
+                                                                                                    65.29
+                                                 Mass of satellite [kg] (after SDOM separation)  0.80 to 7.43         -
+                                                                         CDA [m2]                                     -
+
+                           4.2. Evaluation of SDOM De-Orbiting Capability
+
+                                 The results of the overall analysis are shown in Figure 8 together with the orbit altitude
+                           information of ALE-1 based on the TLE. In 2020, the orbit of ALE-1 with CD A = 3.0 m2
+                           was in good agreement with the TLE. However, in 2021, the descent began to accelerate,
+                           causing the orbit to significantly change from CD A = 1.5 m2 to A = 4.0 m2 over the course
+                           of the year until the SDOM was finally separated. It is worth noting that the CD A of the
+                           drag flag increased as the orbital altitude decreased. This result is a very important finding
+
+                           on the de-orbiting performance of a drag flag attached to a satellite in low Earth orbit (LEO).
+                           The value of CD A = 4.0 m2 is corresponding to a mean cross-sectional area of A = 1.8 m2
+                           if the drag coefficient CD is approximated as 2.2.
+
+                                 As discussed in Section 3.2, the SDOM was observed to be freely moving around a
+
+                           single axis, fluttering like a flag. Even in this state, the drag flag delivered a de-orbiting
+                           effect on the order of CD A = 3.0 m2 to 4.0 m2, or approximately 22 to 29% of the possible
+                           maximum value of the scenario where the drag sail is always set vertical to the velocity
+Appl. Sci. 2023, 13, 7737                                                                                                                                              8 of 11
+
+                           vector, and approximately 41 to 54% of the mean value of the scenario where the satellite is
+                           freely tumbling.
+
+                                 This result indicates that the shape of the de-orbiting film does not necessarily need to
+                           be fixed as a flat surface, as was regarded as the requirement so far worldwide; instead, a
+                           trailing drag flag can be about up to half as effective as a flat drag sail in LEO in the case
+                           of ALE-1 implementation. This new finding can open up breakthrough opportunities for
+                           more effective ways of implementing PMD (Post-Mission Disposal) devices in terms of
+                           their simplicity, size, mass, and reliability.
+
+                           Figure 8. Comparison between the flight data and orbit propagation simulations.
+
+                                 The trailing drag flag is expected to move backwards with the increase in atmo-
+                           spheric density and is expected to stabilize in a cloak-like manner, resulting in a smaller
+                           effective cross-sectional area; in other words,  and A may be inversely related. The
+                           above-mentioned increasing effective cross-sectional area along the descent of the orbit
+                           can suggest that the complex behavior of the drag flag in the rarefied atmosphere may
+                           have resulted in a three-dimensional shape, which in turn resulted in the increasing mean
+                           atmospheric perturbation. It was also reported in the past study that even a flat surface
+                           that is parallel to the velocity vector delivers a non-zero atmospheric drag coefficient due
+                           to the thermochemical properties of the upper atmosphere [28]. It can be that this effect
+                           also helped the drag flag to achieve the above-mentioned de-orbiting performance. Details
+                           on this topic needs to be investigated further in the future.
+
+                           5. Conclusions
+
+                                 ALE-1, the technology demonstration satellite for artificial shooting star generation,
+                           successfully conducted an orbital descent maneuver from an initial orbit of about 500 km
+                           down to about 400 km with the help of an SDOM system. ALE-1 also succeeded at
+                           remaining in the target orbit for a longer period to conduct its mission by separating the
+                           DOM. In addition, ALE-1 also succeeded at obtaining camera images of several different
+                           configurations of the SDOM during the orbital operation.
+
+                                 The SDOM, however, experienced mechanical troubles in space, and the drag sail
+                           resulted in a drag flag; nevertheless, the orbit of the ALE-1 was able to be lowered as
+                           planned, although it took longer than expected, indicating that the drag flag shape has
+                           an effective de-orbiting performance. Consequently, a comprehensive investigation was
+Appl. Sci. 2023, 13, 7737                                                                                                                                              9 of 11
+
+                           conducted on the de-orbiting capabilities of the drag flag by comparing orbital propagation
+                           simulation results and the flight data of the satellite altitude over the past three years
+                           of operation. A combination of parameters CD A was used to evaluate the de-orbiting
+                           performance of the SDOM, which can be regarded as the mean values of the drag coefficient
+                           multiplied by the cross-sectional area. In this way, the mean de-orbiting performance could
+                           be evaluated without an explicit analysis on the drag coefficient, which can be affected by
+                           the shape of the fluttering drag flag in the rarefied atmosphere in the orbit. Through the
+                           investigation, the following points can be found:
+
+                           · The CD A of the drag flag increased as the orbital altitude decreased;
+                           · The CD A of the drag flag was estimated to be ranging from 3.0 to 4.0, which corre-
+
+                                 sponds to about 22 to 29% of the CD A of the fully deployed DOM and 39 to 51% of
+                                 the CD A of a tumbling satellite with the deployed DOM;
+                           · Drag flags can be effective de-orbit devices and can provide breakthroughs for future
+                                 PMD devices to solve space debris problems.
+
+                                 The exact behaviors of the drag flag and drag sail attached to satellites are subject
+                           to further investigations; the above findings, however, indicate that materials in different
+                           shapes than sails, such as threads, tapes, and mantles, may have similar de-orbiting
+                           performances and can be utilized for future PMD devices to solve space debris problems.
+                           In addition, de-orbiting devices based on these various shapes can have possibilities to
+                           be implemented more mechanically efficiently, resulting in more lightweight and small
+                           solutions. It is therefore also possible that significantly larger and higher performance
+                           de-orbiting devices can be developed with reduced mass and envelope.
+
+                                 From the satellite system design point of view, the developed de-orbiting device SDOM
+                           system has several superior benefits compared with the traditional methods of de-orbiting
+                           using thruster systems. Firstly, SDOM's only 4 kg of mass is favorable for micro-satellites
+                           with a mass of approximately 100 kg or less. Secondly, it does not contain hazardous
+                           materials such as propellant and can be handled very safely on the ground, during the
+                           launch, and even possibly inside manned spacecraft. Finally, it does not necessitate active
+                           attitude control or power consumption during the de-orbiting as demonstrated in this
+                           study; hence, it can ensure that the satellite can de-orbit, even if the satellite is no longer
+                           operational after the activation of the device, which is of great benefit as a de-orbiting device.
+                           The authors sincerely hope that this research's results can contribute to the enhancement of
+                           future peaceful space utilization.
+
+                           Author Contributions: Conceptualization, K.T. and T.K. (Toshinori Kuwahara); methodology, K.T.;
+                           software, K.T.; validation, T.S., Y.S., S.F., and T.K. (Toshinori Kuwahara); investigation, H.I. and T.K.
+                           (Tetsuya Kaneko); resources, Y.S. and T.K. (Tetsuya Kaneko); writing--original draft preparation,
+                           K.T.; writing--review and editing, T.K. (Toshinori Kuwahara); visualization, K.T.; supervision, T.K.
+                           (Toshinori Kuwahara); project administration, T.K. (Toshinori Kuwahara); funding acquisition, T.K.
+                           (Toshinori Kuwahara), H.I. and L.O. All authors have read and agreed to the published version of
+                           the manuscript.
+
+                           Funding: This research received no external funding.
+
+                           Institutional Review Board Statement: Not applicable.
+
+                           Informed Consent Statement: Not applicable.
+
+                           Data Availability Statement: Not applicable.
+
+                           Acknowledgments: This project is supported by the Innovative Satellite Technology Demonstration
+                           Program of JAXA.
+
+                           Conflicts of Interest: The authors declare no conflict of interest.
+Appl. Sci. 2023, 13, 7737  10 of 11
+
+References
+
+1. Innovative Satellite Technology Demonstration Program. Available online: http://www.kenkai.jaxa.jp/eng/research/innovative/
+       innovative.html (accessed on 1 February 2023).
+
+2. Morita, Y.; Imoto, T.; Tokudome, S.; Ohtsuka, H. First Launch in Months: Japan's Epsilon Launcher and Its Evolution. Trans.
+       JSASS Aerosp. Technol. Jpn. 2014, 12, 21­28. [CrossRef] [PubMed]
+
+3. Kuwahara, T.; Yoshida, K.; Sakamoto, Y.; Tomioka, Y.; Fukuda, K.; Fukuyama, M.; Tanabe, Y.; Shibuya, Y. Qualification results of a
+       sail deployment mechanism for active prevention and reduction of space debries. Proc. Int. Astronaut. Congr. 2012, 4, 2565­2570.
+
+4. Kuwahara, T.; Yoshida, K.; Sakamoto, Y.; Tomioka, Y.; Fukuda, K.; Sugimura, N. A series of de-orbit mechanism for active
+       prevention and reduction of space debris. Proc. Int. Astronaut. Congr. 2013, 3, 2230­2234.
+
+5. Pala, A.; Kuwahara, T.; Takeda, K.; Shibuya, Y.; Sato, Y.; Fujita, S.; Suzuki, D.; Kaneko, T. Orbital Maneuver Evaluation of
+       Micro-satellite ALE-1 with a Separable Drag Sail. In Proceedings of the 2022 IEEE/SICE International Symposium on System
+       Integration (SII), Narvik, Norway, 9­12 January 2022 ; pp. 877­881.
+
+6. Fujita, S.; Sato, Y.; Kuwahara, T.; Sakamoto, Y.; Shibuya, Y.; Kamachi, K. Double Fail-Safe Attitude Control System for Artificial
+       Meteor Microsatellite ALE-1. Trans. JSASS Aerosp. Technol. Jpn. 2021, 19, 9­16. [CrossRef]
+
+7. Tangdhanakanond, P.; Kuwahara, T.; Shibuya, Y.; Honda, T.; Pala, A.; Fujita, S.; Sato, Y.; Shibuya T.; Kamachi, K. Structural Design
+       and Verification of Aeronomy Study Satellite ALE-1. Trans. JSASS Aerosp. Technol. Jpn. 2021, 19, 42­51.
+
+8. Konaka, M.; Fujita, S.; Sato, Y.; Shibuya, T.; Kuwahara, T.; Kamachi, K. Evaluation of thermal analysis of orbital environment of
+       microsatellite ALE-1. In Proceedings of the 69th International Astronautical Congress: Involving Everyone, IAC 2018, Bremen,
+       Germany, 1­5 October 2018 .
+
+9. Shibuya, T.; Kuwahara, T.; Tangdhanakanond, P.; Shibuya, Y.; Fujita, S.; Sato, Y.; Hanyu, K.; Murata, Y.; Matsushita, T.; Kamachi,
+       K. Thermal Design and Evaluation of the Microsatellite ALE-1. Trans. JSASS Aerosp. Technol. Jpn. 2021, 19, 821­830. [CrossRef]
+
+10. Shibuya, Y.; Kuwahara, T.; Sato, Y.; Fujita, S.; Watanabe, H.; Mitsuhashi, Y. Orbit Design and Analysis of Artificial Meteors
+       Generating Micro-satellites. In Proceedings of the International Astronautical Congress, IAC 2021, Dubai, United Arab Emirates,
+       25­29 October 2021; Volume B4.
+
+11. Shibuya, Y.; Sato, Y.; Tomio, H.; Kuwahara, T.; Fujita, S.; Kamachi, K.; Watanabe, H. Development and Demonstration of the
+       Mission Control System for Artificial Meteor Generating Micro-satellites. In Proceedings of the 2021 IEEE/SICE International
+       Symposium on System Integration (SII), Iwaki, Japan, 11­14 January 2021 ; pp. 531­536.
+
+12. Honda, T.; Kuwahara, T.; Fujita, S.; Pala, A.; Shibuya, Y.; Sato, Y.; Kamachi, K. High Precision Orbit Determination Method Based
+       on GPS Flight Data for ALE-1. Trans. JSASS Aerosp. Technol. Jpn. 2021, 19, 744­752. [CrossRef]
+
+13. Uto, H.; Kuwahara, T.; Honda, T. Orbit Verification Results of the De-Orbit Mechanism Demonstration CubeSat FREEDOM. Trans.
+       JSASS Aerosp. Technol. Jpn. 2019, 17, 295­300. [CrossRef]
+
+14. Tomioka, Y.; Yoshida, K.; Sakamoto, Y.; Kuwahara, T.; Fukuda, K.; Sugimura, N. Lessons learned on structural design of 50 kg
+       micro-satellites based on three real-life micro-satellite projects. In Proceedings of the 2012 IEEE/SICE International Symposium
+       on System Integration (SII), Fukuoka, Japan, 16­18 December 2012 ; pp. 319­324.
+
+15. Kuwahara, T.; Yoshida, K.; Sakamoto, Y.; Tomioka, Y.; Fukuda, K.; Tanabe, Y.; Fukuyama, M. A sail deployment mechanism for
+       active prevention and reduction of space debries. Proc. Int. Astronaut. Congr. 2011, 3, 2178­2184.
+
+16. Kuwahara, T.; Yoshida, K.; Sakamoto, Y.; Takahashi, Y.; Kurihara, J.; Yamakawa, H.; Takada, A. A Japanese microsatellite bus
+       system for international scientific missions. Proc. Int. Astronaut. Congr. 2011, 5, 3699­3706.
+
+17. Mogi, T.; Kuwahara, T.; Uto, H. Structural Design of De-orbit Mechanism Demonstration CubeSat FREEDOM. Trans. JSASS
+       Aerosp. Technol. Jpn. 2016, 14, 61­68. [CrossRef] [PubMed]
+
+18. Pala, A.; Kuwahara, T.; Honda, T.; Uto, H.; Kaneko, T.; Potier, A.; Tangdhanakanond, P.; Fujita, S.; Shibuya, Y.; Sato, Y.; et al. System
+       Design, Development and Ground Verification of a Separable De-Orbit Mechanism for the Orbital Manoeuvre of Micro-Satellite
+       ALE-1. Trans. JSASS Aerosp. Technol. Jpn. 2021, 19, 360­367. [CrossRef]
+
+19. Pala, A.; Kuwahara, T.; Saito, T.; Uto, H.; Shibuya, Y. Space Demonstration of Boom Extension and De-orbit Sail Deployment of
+       the Separable De-orbit Mechanism of Micro-satellite ALE-1. Trans. JSASS Aerosp. Technol. Jpn. 2022, 20, 65­72. [CrossRef]
+
+20. Potier, A.; Kuwahara, T.; Pala, A.; Fujita, S.; Sato, Y.; Shibuya, Y.; Tomio, H.; Tangdhanakanond, P.; Honda, T.; Shibuya, T.; et al.
+       Time-of-Flight Monitoring Camera System of the De-orbiting Drag Sail for Microsatellite ALE-1. Trans. JSASS Aerosp. Technol. Jpn.
+       2021, 19, 774­783. [CrossRef]
+
+21. Kuwahara, T.; Pala, A.; Potier, A.; Shibuya, Y.; Sato, Y.; Fujita, S.; Suzuki, D.; Kaneko, T. Orbital Demonstration of Gossamer
+       Structure Shape Estimation using Time-of-Flight Camera System. In Proceedings of the 2022 IEEE/SICE International Symposium
+       on System Integration (SII), Narvik, Norway, 9­12 January 2022; pp. 882­886.
+
+22. Vallado, D.A.; McClain, W.D. Fundamentals of Astrodynamics and Applications, 4th ed.; Microcosm Press: Portland, OR, USA, 2013;
+       pp. 517­729.
+
+23. Montenbruck, O.; Gill, E. Satellite Orbits; Springer: Berlin/Heidelberg, Germany, 2005; pp. 53­116.
+24. Tomioka, Y.; Yoshida, K.; Sakamoto, Y.; Kuwahara, T.; Fukuda, K.; Sugimura, N.; Fukuyama, M.; Shibuya, Y. Establish the
+
+       environment to support cost-effective and rapid development of micro-satellites. Proc. Int. Astronaut. Congr. 2012, 10, 8470­8477.
+25. Kuwahara, T.; Fukuda, K.; Sugimura, N.; Hashimoto, T.; Sakamoto, Y.; Yoshida, K. Low-Cost Simulation and Verification
+
+       Environment for Micro-Satellites. Trans. JSASS Aerosp. Technol. Jpn. 2016, 14, 83­88. [CrossRef] [PubMed]
+Appl. Sci. 2023, 13, 7737  11 of 11
+
+26. Picone, J.M.; Hedin, A.E.; Drob, D.P. NRLMSISE-00 empirical model of the atmosphere: Statistical comparisons and scientific
+       issues. J. Geophys. Res. Space Phys. 2002, 107, 15­16. [CrossRef]
+
+27. National Geospatial-Intelligence Agency Office of Geomatics. Available online: https://earth-info.nga.mil/ (accessed on 1
+       February 2023).
+
+28. Fujita, K.; Noda, A. Rarefied Aerodynamics of a Super Low Altitude Test Satellite. In Proceedings of the 41st AIAA Thermophysics
+       Conference, San Antonio, TX, USA, 22­25 June 2009 ; pp. 1­10.
+
+Disclaimer/Publisher's Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
