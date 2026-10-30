@@ -82,7 +82,7 @@ def propagate(hp0_km, argp_deg=0.0, a_sail=0.0, sail_factor=1.0, deploy_day=0.0,
                inc_deg=27.0, ha_km=35786.0, am_nat=None, am_sail=None,
                am_srp_nat=None, am_srp_sail=None,
                f107_series=None, ap_series=None, sample_step_s=None, atm_model=None,
-               event_km=(175.0, 120.0)):
+               event_km=(175.0, 120.0), max_step_s=np.inf):
     """Model A propagation of the osculating state.
 
     Returns dict: peri_t_yr, peri_hp_km (every perigee passage), t_stop_yr {km: years or inf}.
@@ -106,6 +106,10 @@ def propagate(hp0_km, argp_deg=0.0, a_sail=0.0, sail_factor=1.0, deploy_day=0.0,
                            exponential model, i.e. the published Chapter 3 results.
       event_km           : radius thresholds (km) whose first inbound crossing is
                            recorded. The default reproduces the published results.
+      max_step_s         : upper bound on the integrator step (s). The default (inf) is
+                           the published setting. A bound of a few minutes makes every
+                           perigee passage resolved, so that the radius event cannot be
+                           missed (see Section 3-7 and README).
     """
     t_max = t_max_yr * YR_S
     S, M = tables(t_max, jd0)
@@ -241,17 +245,24 @@ def propagate(hp0_km, argp_deg=0.0, a_sail=0.0, sail_factor=1.0, deploy_day=0.0,
 
     y0 = initial_state(hp0_km, argp_deg, raan_deg, inc_deg=inc_deg, ha_km=ha_km)
     t_eval = None if sample_step_s is None else np.arange(0.0, t_max + 1e-6, sample_step_s)
-    sol = solve_ivp(rhs, (0.0, t_max), y0, method="DOP853", rtol=rtol,
+    sol = solve_ivp(rhs, (0.0, t_max), y0, method="DOP853", rtol=rtol, max_step=max_step_s,
                     atol=np.array([atol_r] * 3 + [atol_v] * 3), events=evs, t_eval=t_eval)
     pt = sol.t_events[0]
     pr = np.linalg.norm(sol.y_events[0][:, :3], axis=1) if len(pt) else np.array([])
     keep = pt > 1.0
     peri_t_yr = pt[keep] / YR_S
     peri_hp = (pr[keep] - RE) / 1e3
+    # Lifetime to a radius threshold: the first perigee passage below the threshold
+    # (the definition of Section 3-6). The radius event is a fallback: it can miss a
+    # shallow dip below the threshold near perigee, which lasts only seconds, and then
+    # fires one or more orbits late (see README, note on the event test).
     t_stop = {}
     for k, km in enumerate(event_km):
         tk = sol.t_events[k + 1]
-        t_stop[km] = float(tk[0] / YR_S) if len(tk) else float("inf")
+        t_radius = float(tk[0] / YR_S) if len(tk) else float("inf")
+        below = np.nonzero(peri_hp < km)[0]
+        t_perigee = float(peri_t_yr[below[0]]) if len(below) else float("inf")
+        t_stop[km] = min(t_perigee, t_radius)
     out = dict(peri_t_yr=peri_t_yr, peri_hp_km=peri_hp, t_stop_yr=t_stop, status=sol.status,
                t_end_yr=float(sol.t[-1] / YR_S))
     if sample_step_s is not None:

@@ -3,21 +3,25 @@
 
 The baseline model of decay_sim.rho_atm is the exponential form of Chen et al. (2024).
 Test T7 (density_compare.py) showed that this model overestimates the density of
-NRLMSIS 2.0 by a factor of about 1.3 to 2.9 in the 200-300 km band, and by about
-2.4 to 2.9 in the 350-550 km band that the ALE-1 flight data of Takeda et al. (2023)
-occupy. A flight-data validation (test T8) therefore cannot use the exponential model:
-the drag area would have to absorb an error of nearly a factor of three and the
-comparison would no longer test the propagator.
+NRLMSIS 2.0 by a factor of about 1.2 to 2.3 in the 200-300 km band (local-time mean,
+F10.7 = 70 to 200). Above about 450 km the sign reverses for F10.7 = 130: the
+exponential density is then lower than the NRLMSIS local-time mean (factor 0.8 to 1.2
+in 450-550 km), because its scale height is too large there. The comparison is therefore
+height-dependent and is reported in Section 3-9-3 of the thesis (density_compare.py).
 
 This module provides the empirical density field as a time-dependent table:
     rho(altitude, latitude, t)
-built from pymsis (NRLMSIS 2.0) with the historical daily F10.7, F10.7 81-day average
-and Ap indices. The table is rebuilt every `rebuild_days` of simulated time, so a
-multi-year propagation follows the real solar and geomagnetic history.
+built from pymsis (NRLMSIS 2.0) on an (altitude, latitude) grid. Two choices make the
+table a diurnal mean suitable for a multi-year lifetime:
+  - the density is averaged over local time (24 longitudes at one UT instant), because
+    a satellite samples all local times over its life and the diurnal bulge is large;
+  - the table is rebuilt every `rebuild_days` of simulated time. Either F10.7/Ap are
+    held constant (f107, ap arguments; the same indices as the exponential model, so the
+    two atmospheres can be compared like for like) or the historical indices of the
+    simulated date are used (needs the celestrak.org data file, downloaded by pymsis).
 
-The field is pre-computed on an (altitude, latitude) grid and interpolated
-bilinearly inside the right-hand side of the propagator. No call to pymsis is made
-during integration.
+The field is pre-computed on the (altitude, latitude) grid and interpolated bilinearly
+inside the right-hand side of the propagator. No call to pymsis is made during integration.
 
 Sign convention: the returned density is in kg/m^3 and the altitude is geodetic, in km.
 """
@@ -26,15 +30,16 @@ import pymsis
 from pymsis.utils import get_f107_ap
 
 # Altitude grid (km). The drag is negligible below 100 km and above 600 km for the
-# cases of interest; the exponential model is used outside the band if requested.
+# cases of interest.
 ALT_MIN, ALT_MAX, ALT_STEP = 100.0, 600.0, 2.0
-# Latitude grid (deg). NRLMSIS density varies strongly with latitude: the equatorial
-# bulge and the diurnal bulge make the density at 400 km roughly a factor of two
-# higher at 400 km local midnight than at 400 km local noon.
+# Latitude grid (deg).
 LAT_MIN, LAT_MAX, LAT_STEP = -90.0, 90.0, 15.0
+# Longitudes used for the local-time average (one per 15 degrees = one per hour).
+N_LON = 24
 
 _ALTS = np.arange(ALT_MIN, ALT_MAX + 0.5 * ALT_STEP, ALT_STEP)
 _LATS = np.arange(LAT_MIN, LAT_MAX + 0.5 * LAT_STEP, LAT_STEP)
+_LONS = np.arange(N_LON) * 360.0 / N_LON
 
 
 def _jd_to_datetime64(jd):
@@ -57,38 +62,48 @@ class NrlmsisAtm:
 
     Parameters
     ----------
-    jd0        : Julian date of the simulation epoch (ds.JD_EPOCH by default)
+    jd0          : Julian date of the simulation epoch (ds.JD_EPOCH by default)
     rebuild_days : interval of simulated time between table rebuilds
+    f107, ap     : constant solar flux and Ap index; if both are None the historical
+                   indices of each simulated date are used
     alt_grid, lat_grid : optional override of the tabulation grid
     """
 
-    def __init__(self, jd0, rebuild_days=30.0, alt_grid=None, lat_grid=None):
+    def __init__(self, jd0, rebuild_days=30.0, f107=None, ap=None, alt_grid=None, lat_grid=None):
+        if (f107 is None) != (ap is None):
+            raise ValueError("give both f107 and ap, or neither")
         self.jd0 = float(jd0)
         self.rebuild_days = float(rebuild_days)
+        self.f107 = None if f107 is None else float(f107)
+        self.ap = None if ap is None else float(ap)
         self.alts = _ALTS if alt_grid is None else np.asarray(alt_grid, dtype=float)
         self.lats = _LATS if lat_grid is None else np.asarray(lat_grid, dtype=float)
         self._t_tab = None      # simulated times of the tabulated fields
         self._rho_tab = None    # (n_tab, n_lat, n_alt)
         self._next_build = None
+        self._i_rho = [v.name for v in pymsis.Variable].index("MASS_DENSITY")
 
     # -- table construction ------------------------------------------------
     def _build(self, t0, t1):
-        """Build the density tables covering simulated times [t0, t1]."""
+        """Build the local-time-averaged density tables covering simulated times [t0, t1]."""
         step = self.rebuild_days * 86400.0
         n = max(1, int(np.ceil((t1 - t0) / step)))
         times = t0 + np.arange(n + 1) * step
-        jds = self.jd0 + times / 86400.0
-        f107s, f107as, aps = _indices(times, self.jd0)
+        if self.f107 is None:
+            f107s, f107as, aps = _indices(times, self.jd0)
+        else:
+            f107s = np.full(len(times), self.f107)
+            f107as = f107s.copy()
+            aps = np.full(len(times), self.ap)
         rho = np.empty((len(times), len(self.lats), len(self.alts)), dtype=float)
         for k in range(len(times)):
             dates = _jd_to_datetime64(self.jd0 + times[k] / 86400.0)
-            ap7 = np.atleast_2d(np.asarray(aps[k], dtype=float))
-            out = pymsis.calculate(dates, self.lats, [0.0], self.alts,
-                                   f107s=[f107s[k]], f107as=[f107as[k]],
-                                   aps=ap7, version=2.0)
-            arr = np.squeeze(np.asarray(out))          # (n_lat, n_alt, n_var)
-            names = [v.name for v in pymsis.Variable]
-            rho[k] = arr[:, :, names.index("MASS_DENSITY")]
+            ap7 = np.full((1, 7), float(aps[k]))
+            # grid mode: output shape (1, n_lon, n_lat, n_alt, n_var)
+            out = pymsis.calculate(dates, _LONS, self.lats, self.alts,
+                                   f107s=[f107s[k]], f107as=[f107as[k]], aps=ap7, version=2.0)
+            arr = np.asarray(out)[0]
+            rho[k] = arr[:, :, :, self._i_rho].mean(axis=0)     # mean over local time
         return times, rho
 
     def _ensure(self, t):
