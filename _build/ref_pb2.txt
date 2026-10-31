@@ -1,0 +1,4 @@
+884 style=Body Text pb=False text='در مجموع، نتیجه\u200cی اصلی این فصل آن است که'
+885 style=RefHeadingCenter pb=False text=''
+886 style=RefHeadingCenter pb=False text=''
+887 style=RefHeadingCenter pb=False text='منابع و مأخذ'

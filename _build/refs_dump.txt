@@ -1,0 +1,65 @@
+[896] <RefHeadingCenter> منابع انگلیسی
+
+[897] <RefEN> Carvalho, J. P. S., Vilhena de Moraes, R., & Prado, A. F. B. A. (2023). Analysis of the orbital evolution of space debris using a solar sail and natural forces. arXiv. https://arxiv.org/abs/2307.08170
+
+[898] <RefEN> Chen, J., Chen, S., Qin, Y., Zhu, Z., & Zhang, J. (2024). Aerodynamic analysis of deorbit drag sail for CubeSat using DSMC method. Aerospace, 11(4), 315. https://doi.org/10.3390/aerospace11040315
+
+[899] <RefEN> Colombo, C. (2019). Long-term evolution of highly-elliptical orbits: Luni-solar perturbation effects for stability and re-entry. Frontiers in Astronomy and Space Sciences, 6, 34. https://doi.org/10.3389/fspas.2019.00034
+
+[900] <RefEN> Emmert, J. T., Drob, D. P., Picone, J. M., Siskind, D. E., Jones, M., Jr., Mlynczak, M. G., Bernath, P. F., Chu, X., Doornbos, E., Funke, B., Goncharenko, L. P., Hervig, M. E., Schwartz, M. J., Sheese, P. E., Vargas, F., Williams, B. P., & Yuan, T. (2021). NRLMSIS 2.0: A whole-atmosphere empirical model of temperature and neutral species densities. Earth and Space Science, 8(3), e2020EA001321. https://doi.org/10.1029/2020EA001321
+
+[901] <RefEN> European Space Agency. (2020, June 19). ADEO artist impression [Image]. ESA Multimedia. https://www.esa.int/ESA_Multimedia/Images/2020/06/ADEO_artist_impression
+
+[902] <RefEN> European Space Agency. (2023, January 25). ADEO-N2 deployment in orbit [Photograph]. ESA Multimedia. https://www.esa.int/ESA_Multimedia/Images/2023/01/ADEO-N2_Deployment_in_Orbit
+
+[903] <RefEN> Galles, M. A. (2021). Passive disposal of launch vehicle stages in geostationary transfer orbits leveraging small satellite technologies [Master’s thesis, California Polytechnic State University]. https://doi.org/10.15368/theses.2021.69
+
+[904] <RefEN> Hairer, E., Nørsett, S. P., & Wanner, G. (1993). Solving ordinary differential equations I: Nonstiff problems (2nd rev. ed.). Springer.
+
+[905] <RefEN> Hale, T. (2023). An attitude-independent parachute for de-orbiting inoperative satellites. In 74th International Astronautical Congress, IAC-23,E2,2,9,x80581. https://iafastro.directory/iac/archive/browse/IAC-23/E2/2/80581/
+
+[906] <RefEN> Inter-Agency Space Debris Coordination Committee. (2025). IADC space debris mitigation guidelines (IADC-02-01, Rev. 4). https://www.unoosa.org/res/oosadoc/data/documents/2025/aac_105c_12025crp/aac_105c_12025crp_9_0_html/AC105_C1_2025_CRP09E.pdf
+
+[907] <RefEN> International Organization for Standardization. (2023). Space systems: Space debris mitigation requirements (ISO Standard No. 24113:2023). https://iteh.es/catalog/standards/iso/da7ab736-7bd1-4f45-af19-93304d34b9c2/iso-24113-2023
+
+[908] <RefEN> Kaula, W. M. (1966). Theory of satellite geodesy. Blaisdell.
+
+[909] <RefEN> McKay, M. D., Beckman, R. J., & Conover, W. J. (2000). A comparison of three methods for selecting values of input variables in the analysis of output from a computer code (Original work published 1979). Technometrics, 42(1), 55–61. https://www.jstor.org/stable/1271432
+
+[910] <RefEN> Meeus, J. (1998). Astronomical algorithms (2nd ed.). Willmann-Bell.
+
+[911] <RefEN> Montenbruck, O., & Gill, E. (2000). Satellite orbits: Models, methods and applications. Springer. https://doi.org/10.1007/978-3-642-58351-3
+
+[912] <RefEN> NASA/Goddard Space Flight Center Scientific Visualization Studio. (2011, December 7). NASA SVS 3828: Solar Dynamics Observatory AIA 304 Å still [Image]. https://svs.gsfc.nasa.gov/3828
+
+[913] <RefEN> National Aeronautics and Space Administration. (2010, June 14). Sunset over the Indian Ocean [Photograph ISS023-E-57948]. NASA Earth Observatory. https://science.nasa.gov/earth/earth-observatory/sunset-from-the-international-space-station-44267/
+
+[914] <RefEN> National Aeronautics and Space Administration. (2015, October 28). Centaur upper stage [Photograph; photo credit NASA/Jim Grossmann]. https://www.nasa.gov/image-article/centaur-upper-stage-cygnus-oa-4/
+
+[915] <RefEN> Nemiroff, R., & Bonnell, J. (2011, January 28). APOD: 2011 January 28 - NanoSail-D [Illustration]. NASA Science. https://science.nasa.gov/image-article/apod-2011-january-28-nanosail-d/
+
+[916] <RefEN> Niccolai, L., & Mengali, G. (2024). Performance estimate of a spin-stabilized drag sail for spacecraft deorbiting. Applied Sciences, 14(2), 612. https://doi.org/10.3390/app14020612
+
+[917] <RefEN> Proietti, S., Flores, R., Fantino, E., & Pontani, M. (2021). Long-term orbit dynamics of decommissioned geostationary satellites. arXiv. https://arxiv.org/abs/2104.01240
+
+[918] <RefEN> Puttich, G., Hofmann, L., Milánkovich, D., Killian, M., Hoffmann, F., Kolb, J., Joo, S. Y., Petermichl, T., López-Corrales, X., & Pfeiffer, E. K. (2025). Verification and demonstration results of ADEO drag sail subsystems. In 9th European Conference on Space Debris (SDC9), Bonn. https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/352/SDC9-paper352.pdf
+
+[919] <RefEN> San Juan, J. F., Letizia, F., & Lara, M. (2024). A parametric study of orbital lifetime based on semi-analytical integration: The case of INTEGRAL. In 29th International Symposium on Space Flight Dynamics (ISSFD). https://issfd.org/ISSFD_2024/ISSFD2024_20-23.pdf
+
+[920] <RefEN> Shampine, L. F., & Reichelt, M. W. (1997). The MATLAB ODE suite. SIAM Journal on Scientific Computing, 18(1), 1–22.
+
+[921] <RefEN> Skoulidou, D. K., Rosengren, A. J., Tsiganis, K., & Voyatzis, G. (2018). Dynamical lifetime survey of geostationary transfer orbits. Celestial Mechanics and Dynamical Astronomy, 130, Article 77. https://doi.org/10.1007/s10569-018-9865-1
+
+[922] <RefEN> Stokes, H. (2025). Update on the ISO space debris mitigation standards. In 9th European Conference on Space Debris (SDC9), Bonn. https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/385/SDC9-paper385.pdf
+
+[923] <RefEN> Takeda, K., Kuwahara, T., Saito, T., Fujita, S., Shibuya, Y., Ishii, H., Okajima, L., & Kaneko, T. (2023). De-orbit maneuver demonstration results of micro-satellite ALE-1 with a separable drag sail. Applied Sciences, 13(13), 7737. https://doi.org/10.3390/app13137737
+
+[924] <RefEN> Talu, T., Alessi, E. M., & Tommei, G. (2021). On the dominant lunisolar perturbations for long-term eccentricity variation: The case of Molniya satellite orbits. Universe, 7(12), 482. https://doi.org/10.3390/universe7120482
+
+[925] <RefEN> Tresaco, E., Carvalho, J. P. S., Vilhena de Moraes, R., & da Silva Neto, C. J. (2025). Orbital dynamics of space debris considering natural perturbations and resonance effects. The European Physical Journal Special Topics, 234(25), 7947–7956. https://doi.org/10.1140/epjs/s11734-025-01913-4
+
+[926] <RefEN> Vallado, D. A. (2013). Fundamentals of astrodynamics and applications (4th ed.). Microcosm Press.
+
+[927] <RefEN> Virtanen, P., Gommers, R., Oliphant, T. E., Haberland, M., Reddy, T., Cournapeau, D., Burovski, E., Peterson, P., Weckesser, W., Bright, J., van der Walt, S. J., Brett, M., Wilson, J., Millman, K. J., Mayorov, N., Nelson, A. R. J., Jones, E., Kern, R., Larson, E., . . . SciPy 1.0 Contributors. (2020). SciPy 1.0: Fundamental algorithms for scientific computing in Python. Nature Methods, 17(3), 261–272. https://doi.org/10.1038/s41592-019-0686-2
+
+[928] <RefEN> Wang, Y., & Gurfil, P. (2017). The role of solar apsidal resonance in the evolution of geostationary transfer orbits. Advances in Space Research, 59(8), 2101–2116. https://doi.org/10.1016/j.asr.2017.01.038

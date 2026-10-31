@@ -1,0 +1,7 @@
+para 897 style=Heading 11 name=_Ref08101 text='فصل پنجم\nنتیجه\u200cگیری و پیشنهادات'
+para 898 style=Heading 21 name=_Ref08102 text='۵-۱ مقدمه و خلاصه\u200cی پژوهش'
+para 908 style=Body Text name=_Ref08112 text='این نتیجه با پیشینه\u200cی پژوهش همسو است، اما آن را دقیق\u200cتر می\u200cکند. اسکولی'
+TOC 185: 'فصل پنجم: نتیجه\u200cگیری و پیشنهادات\t3'
+   instr [' PAGEREF _Ref08101 \\h ']
+TOC 186: '۵-۱ مقدمه و خلاصه\u200cی پژوهش\t3'
+   instr [' PAGEREF _Ref08102 \\h ']

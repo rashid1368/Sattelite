@@ -1,0 +1,4 @@
+{"tag": "ale1_nominal_f107_90", "area_m2": 3.4, "f107": 90.0, "t400_days": 310.9, "t175_days": 355.1, "t120_days": 355.1, "wall_s": 46.4}
+{"tag": "ale1_nominal_f107_130", "area_m2": 3.4, "f107": 130.0, "t400_days": 159.7, "t175_days": 187.8, "t120_days": 187.9, "wall_s": 26.3}
+{"tag": "ale1_asflown_f107_90", "area_m2": 1.8, "f107": 90.0, "t400_days": 587.5, "t175_days": 670.6, "t120_days": 670.8, "wall_s": 115.5}
+{"tag": "ale1_asflown_f107_130", "area_m2": 1.8, "f107": 130.0, "t400_days": 302.2, "t175_days": 354.7, "t120_days": 354.9, "wall_s": 52.3}

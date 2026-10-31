@@ -1,0 +1,35 @@
+v8: bookmarkStart=255 bookmarkEnd=255
+  dup names: {}
+  dup ids: {}
+  zero-length bookmarks: 9
+  paragraphs with paraId: 1884  dup paraId: 0
+  exists _Ref08101: False
+  exists _Ref08102: False
+  exists _Ref07008: True
+  exists _Ref00167: True
+v9: bookmarkStart=337 bookmarkEnd=337
+  dup names: {}
+  dup ids: {}
+  zero-length bookmarks: 9
+  paragraphs with paraId: 1977  dup paraId: 0
+  exists _Ref08101: True
+  exists _Ref08102: True
+  exists _Ref07008: True
+  exists _Ref00167: False
+COM v8: Bookmark count=0
+  first 20: []
+  Exists _Ref08101: False
+  Exists _Ref08102: False
+  Exists _Ref07008: True
+  Exists _Ref00167: True
+  _Ref07008 page=107 text='فصل چهارم\x0bتجزیه و تحلیل داده\u200cها (یافته\u200cه'
+  _Ref00167 page=124 text='\r\rمنابع و مأخذ'
+COM v9: Bookmark count=0
+  first 20: []
+  Exists _Ref08101: True
+  Exists _Ref08102: True
+  Exists _Ref07008: True
+  Exists _Ref00167: False
+  _Ref08101 page=125 text='فصل پنجم\x0bنتیجه\u200cگیری و پیشنهادات'
+  _Ref08102 page=126 text='۵-۱ مقدمه و خلاصه\u200cی پژوهش'
+  _Ref07008 page=108 text='فصل چهارم\x0bتجزیه و تحلیل داده\u200cها (یافته\u200cه'

@@ -1,0 +1,672 @@
+[
+ {
+  "i": 1,
+  "page": 17,
+  "text": "۱ ‎space debris‎"
+ },
+ {
+  "i": 2,
+  "page": 17,
+  "text": "۲ ‎IADC‎"
+ },
+ {
+  "i": 3,
+  "page": 17,
+  "text": "۳ ‎geostationary transfer orbit (GTO)‎"
+ },
+ {
+  "i": 4,
+  "page": 17,
+  "text": "۴ ‎separated upper stage: the launch-veh"
+ },
+ {
+  "i": 5,
+  "page": 17,
+  "text": "۵ ‎area-to-mass ratio‎"
+ },
+ {
+  "i": 6,
+  "page": 18,
+  "text": "۱ ‎atmospheric drag‎"
+ },
+ {
+  "i": 7,
+  "page": 19,
+  "text": "۲ ‎drag sails‎"
+ },
+ {
+  "i": 8,
+  "page": 19,
+  "text": "۳ ‎Takeda et al.‎"
+ },
+ {
+  "i": 9,
+  "page": 19,
+  "text": "۱ ‎Puttich et al.‎"
+ },
+ {
+  "i": 10,
+  "page": 19,
+  "text": "۲ ‎CubeSat‎"
+ },
+ {
+  "i": 11,
+  "page": 23,
+  "text": "۱ ‎second zonal harmonic coefficient of "
+ },
+ {
+  "i": 12,
+  "page": 23,
+  "text": "۲ ‎Wang and Gurfil‎"
+ },
+ {
+  "i": 13,
+  "page": 23,
+  "text": "۳ ‎low Earth orbit (LEO)‎"
+ },
+ {
+  "i": 14,
+  "page": 23,
+  "text": "۴ ‎orbital lifetime‎"
+ },
+ {
+  "i": 15,
+  "page": 23,
+  "text": "۵ ‎Skoulidou et al.‎"
+ },
+ {
+  "i": 16,
+  "page": 23,
+  "text": "۶ ‎Wang and Gurfil‎"
+ },
+ {
+  "i": 17,
+  "page": 23,
+  "text": "۷ ‎ALE-1 micro-satellite with a separabl"
+ },
+ {
+  "i": 18,
+  "page": 24,
+  "text": "۸ ‎Takeda et al.‎"
+ },
+ {
+  "i": 19,
+  "page": 24,
+  "text": "۱ ‎tumbling‎"
+ },
+ {
+  "i": 20,
+  "page": 24,
+  "text": "۲ ‎NRLMSIS empirical atmosphere model‎"
+ },
+ {
+  "i": 21,
+  "page": 24,
+  "text": "۳ ‎Emmert et al.‎"
+ },
+ {
+  "i": 22,
+  "page": 25,
+  "text": "۴ ‎Vallado‎"
+ },
+ {
+  "i": 23,
+  "page": 25,
+  "text": "۱ ‎Colombo‎"
+ },
+ {
+  "i": 24,
+  "page": 25,
+  "text": "۲ ‎Tresaco et al.‎"
+ },
+ {
+  "i": 25,
+  "page": 25,
+  "text": "۳ ‎Carvalho et al.‎"
+ },
+ {
+  "i": 26,
+  "page": 26,
+  "text": "۴ ‎graveyard orbit‎"
+ },
+ {
+  "i": 27,
+  "page": 26,
+  "text": "۵ ‎Hale‎"
+ },
+ {
+  "i": 28,
+  "page": 27,
+  "text": "۱ ‎Skoulidou et al.‎"
+ },
+ {
+  "i": 29,
+  "page": 27,
+  "text": "۱ ‎direct simulation Monte Carlo (DSMC)‎"
+ },
+ {
+  "i": 30,
+  "page": 27,
+  "text": "۲ ‎Chen et al.‎"
+ },
+ {
+  "i": 31,
+  "page": 27,
+  "text": "۳ ‎Niccolai and Mengali‎"
+ },
+ {
+  "i": 32,
+  "page": 27,
+  "text": "۴ ‎Puttich et al.‎"
+ },
+ {
+  "i": 33,
+  "page": 28,
+  "text": "۵ ‎Inter-Agency Space Debris Coordinatio"
+ },
+ {
+  "i": 34,
+  "page": 28,
+  "text": "۶ ‎ISO‎"
+ },
+ {
+  "i": 35,
+  "page": 28,
+  "text": "۷ ‎IADC‎"
+ },
+ {
+  "i": 36,
+  "page": 28,
+  "text": "۸ ‎Latin hypercube sampling (LHS)‎"
+ },
+ {
+  "i": 37,
+  "page": 28,
+  "text": "۹ ‎McKay et al.‎"
+ },
+ {
+  "i": 38,
+  "page": 28,
+  "text": "۱۰ ‎Talu et al.‎"
+ },
+ {
+  "i": 39,
+  "page": 29,
+  "text": "۱ ‎Takeda et al.‎"
+ },
+ {
+  "i": 40,
+  "page": 29,
+  "text": "۲ ‎IADC‎"
+ },
+ {
+  "i": 41,
+  "page": 30,
+  "text": "۱ ‎ISO‎"
+ },
+ {
+  "i": 42,
+  "page": 33,
+  "text": "۱ ‎IADC‎"
+ },
+ {
+  "i": 43,
+  "page": 35,
+  "text": "۱ ‎Meeus‎"
+ },
+ {
+  "i": 44,
+  "page": 36,
+  "text": "۱ ‎Emmert et al.‎"
+ },
+ {
+  "i": 45,
+  "page": 36,
+  "text": "۲ ‎DRAMA (Debris Risk Assessment and Mit"
+ },
+ {
+  "i": 46,
+  "page": 36,
+  "text": "۳ ‎GMAT (General Mission Analysis Tool)‎"
+ },
+ {
+  "i": 47,
+  "page": 38,
+  "text": "۱ ‎Takeda et al.‎"
+ },
+ {
+  "i": 48,
+  "page": 40,
+  "text": "۱ ‎Hairer et al.‎"
+ },
+ {
+  "i": 49,
+  "page": 40,
+  "text": "۲ ‎MATLAB‎"
+ },
+ {
+  "i": 50,
+  "page": 40,
+  "text": "۳ ‎Python‎"
+ },
+ {
+  "i": 51,
+  "page": 45,
+  "text": "۱ ‎IADC‎"
+ },
+ {
+  "i": 52,
+  "page": 45,
+  "text": "۲ ‎Skoulidou et al.‎"
+ },
+ {
+  "i": 53,
+  "page": 45,
+  "text": "۳ ‎IADC-02-01‎"
+ },
+ {
+  "i": 54,
+  "page": 45,
+  "text": "۴ ‎IADC‎"
+ },
+ {
+  "i": 55,
+  "page": 46,
+  "text": "۱ ‎ISO‎"
+ },
+ {
+  "i": 56,
+  "page": 46,
+  "text": "۲ ‎Stokes‎"
+ },
+ {
+  "i": 57,
+  "page": 46,
+  "text": "۳ ‎IADC‎"
+ },
+ {
+  "i": 58,
+  "page": 49,
+  "text": "۱ ‎Vallado‎"
+ },
+ {
+  "i": 59,
+  "page": 49,
+  "text": "۲ ‎Montenbruck and Gill‎"
+ },
+ {
+  "i": 60,
+  "page": 49,
+  "text": "۱ علوی‌پور و همکاران"
+ },
+ {
+  "i": 61,
+  "page": 50,
+  "text": "۲ معانی و همکاران"
+ },
+ {
+  "i": 62,
+  "page": 50,
+  "text": "۱ امجدی‌فرد و خوش‌سیما"
+ },
+ {
+  "i": 63,
+  "page": 50,
+  "text": "۲ ‎Colombo‎"
+ },
+ {
+  "i": 64,
+  "page": 50,
+  "text": "۳ ‎Colombo‎"
+ },
+ {
+  "i": 65,
+  "page": 50,
+  "text": "۴ ‎Talu et al.‎"
+ },
+ {
+  "i": 66,
+  "page": 51,
+  "text": "۵ ‎Wang and Gurfil‎"
+ },
+ {
+  "i": 67,
+  "page": 51,
+  "text": "۱ ‎Skoulidou et al.‎"
+ },
+ {
+  "i": 68,
+  "page": 51,
+  "text": "۲ ‎Proietti et al.‎"
+ },
+ {
+  "i": 69,
+  "page": 51,
+  "text": "۳ ‎Tresaco et al.‎"
+ },
+ {
+  "i": 70,
+  "page": 52,
+  "text": "۱ ‎Kaula‎"
+ },
+ {
+  "i": 71,
+  "page": 53,
+  "text": "۲ ‎Wang and Gurfil‎"
+ },
+ {
+  "i": 72,
+  "page": 53,
+  "text": "۱ ‎Kepler equation‎"
+ },
+ {
+  "i": 73,
+  "page": 53,
+  "text": "۲ ‎Montenbruck and Gill‎"
+ },
+ {
+  "i": 74,
+  "page": 55,
+  "text": "۱ ‎Knudsen number‎"
+ },
+ {
+  "i": 75,
+  "page": 56,
+  "text": "۱ ‎Vallado‎"
+ },
+ {
+  "i": 76,
+  "page": 56,
+  "text": "۲ ‎Emmert et al.‎"
+ },
+ {
+  "i": 77,
+  "page": 58,
+  "text": "۱ ‎Kaula‎"
+ },
+ {
+  "i": 78,
+  "page": 58,
+  "text": "۱ ‎Colombo‎"
+ },
+ {
+  "i": 79,
+  "page": 60,
+  "text": "۱ ‎Carvalho et al.‎"
+ },
+ {
+  "i": 80,
+  "page": 62,
+  "text": "۱ ‎thermosphere‎"
+ },
+ {
+  "i": 81,
+  "page": 63,
+  "text": "۲ ‎exospheric temperature‎"
+ },
+ {
+  "i": 82,
+  "page": 63,
+  "text": "۱ ‎atomic oxygen‎"
+ },
+ {
+  "i": 83,
+  "page": 63,
+  "text": "۲ ‎diurnal bulge‎"
+ },
+ {
+  "i": 84,
+  "page": 63,
+  "text": "۳ ‎geomagnetic storms‎"
+ },
+ {
+  "i": 85,
+  "page": 63,
+  "text": "۴ ‎NRLMSIS 2.0‎"
+ },
+ {
+  "i": 86,
+  "page": 64,
+  "text": "۵ ‎Emmert et al.‎"
+ },
+ {
+  "i": 87,
+  "page": 64,
+  "text": "۶ ‎drag sail‎"
+ },
+ {
+  "i": 88,
+  "page": 65,
+  "text": "۱ ‎Niccolai and Mengali‎"
+ },
+ {
+  "i": 89,
+  "page": 65,
+  "text": "۲ ‎Hale‎"
+ },
+ {
+  "i": 90,
+  "page": 66,
+  "text": "۱ ‎Chen et al.‎"
+ },
+ {
+  "i": 91,
+  "page": 67,
+  "text": "۱ ‎Galles‎"
+ },
+ {
+  "i": 92,
+  "page": 67,
+  "text": "۲ گزرپور و امیری‌آتشگاه"
+ },
+ {
+  "i": 93,
+  "page": 68,
+  "text": "۱ ‎Takeda et al.‎"
+ },
+ {
+  "i": 94,
+  "page": 68,
+  "text": "۲ ‎ADEO‎"
+ },
+ {
+  "i": 95,
+  "page": 68,
+  "text": "۳ ‎Puttich et al.‎"
+ },
+ {
+  "i": 96,
+  "page": 70,
+  "text": "۱ ‎Niccolai and Mengali‎"
+ },
+ {
+  "i": 97,
+  "page": 70,
+  "text": "۱ ‎Hale‎"
+ },
+ {
+  "i": 98,
+  "page": 71,
+  "text": "۲ ساداتی و همکاران"
+ },
+ {
+  "i": 99,
+  "page": 71,
+  "text": "۳ کوثری و بگلری"
+ },
+ {
+  "i": 100,
+  "page": 71,
+  "text": "۴ ‎Puttich et al.‎"
+ },
+ {
+  "i": 101,
+  "page": 71,
+  "text": "۵ ‎IADC‎"
+ },
+ {
+  "i": 102,
+  "page": 71,
+  "text": "۶ ‎ISO‎"
+ },
+ {
+  "i": 103,
+  "page": 72,
+  "text": "۱ ‎Hairer et al.‎"
+ },
+ {
+  "i": 104,
+  "page": 72,
+  "text": "۲ ‎SciPy‎"
+ },
+ {
+  "i": 105,
+  "page": 72,
+  "text": "۳ ‎Virtanen et al.‎"
+ },
+ {
+  "i": 106,
+  "page": 72,
+  "text": "۴ ‎Shampine and Reichelt‎"
+ },
+ {
+  "i": 107,
+  "page": 73,
+  "text": "۵ ‎Montenbruck and Gill‎"
+ },
+ {
+  "i": 108,
+  "page": 73,
+  "text": "۶ ‎Vallado‎"
+ },
+ {
+  "i": 109,
+  "page": 73,
+  "text": "۱ ‎McKay et al.‎"
+ },
+ {
+  "i": 110,
+  "page": 74,
+  "text": "۱ ‎Hairer et al.‎"
+ },
+ {
+  "i": 111,
+  "page": 74,
+  "text": "۲ ‎Meeus‎"
+ },
+ {
+  "i": 112,
+  "page": 75,
+  "text": "۳ ‎ephemeris‎"
+ },
+ {
+  "i": 113,
+  "page": 76,
+  "text": "۱ ‎verification‎"
+ },
+ {
+  "i": 114,
+  "page": 76,
+  "text": "۲ ‎validation‎"
+ },
+ {
+  "i": 115,
+  "page": 76,
+  "text": "۳ ‎San Juan et al.‎"
+ },
+ {
+  "i": 116,
+  "page": 77,
+  "text": "۴ ‎Skoulidou et al.‎"
+ },
+ {
+  "i": 117,
+  "page": 89,
+  "text": "۱ ‎Puttich et al.‎"
+ },
+ {
+  "i": 118,
+  "page": 89,
+  "text": "۲ ‎Takeda et al.‎"
+ },
+ {
+  "i": 119,
+  "page": 90,
+  "text": "۱ ‎Cauchy projected-area formula‎"
+ },
+ {
+  "i": 120,
+  "page": 90,
+  "text": "۲ ‎Hale‎"
+ },
+ {
+  "i": 121,
+  "page": 90,
+  "text": "۳ ‎Niccolai and Mengali‎"
+ },
+ {
+  "i": 122,
+  "page": 92,
+  "text": "۱ ‎Galles‎"
+ },
+ {
+  "i": 123,
+  "page": 94,
+  "text": "۱ ‎Colombo‎"
+ },
+ {
+  "i": 124,
+  "page": 94,
+  "text": "۲ ‎Talu et al.‎"
+ },
+ {
+  "i": 125,
+  "page": 94,
+  "text": "۳ ‎Wang and Gurfil‎"
+ },
+ {
+  "i": 126,
+  "page": 95,
+  "text": "۴ ‎Chen et al.‎"
+ },
+ {
+  "i": 127,
+  "page": 96,
+  "text": "۱ ‎Vallado‎"
+ },
+ {
+  "i": 128,
+  "page": 96,
+  "text": "۲ ‎Montenbruck and Gill‎"
+ },
+ {
+  "i": 129,
+  "page": 97,
+  "text": "۳ ‎Montenbruck and Gill‎"
+ },
+ {
+  "i": 130,
+  "page": 97,
+  "text": "۴ ‎Virtanen et al.‎"
+ },
+ {
+  "i": 131,
+  "page": 97,
+  "text": "۵ ‎Hairer et al.‎"
+ },
+ {
+  "i": 132,
+  "page": 97,
+  "text": "۱ ‎Meeus‎"
+ },
+ {
+  "i": 133,
+  "page": 98,
+  "text": "۲ ‎orbit averaging‎"
+ },
+ {
+  "i": 134,
+  "page": 98,
+  "text": "۳ ‎San Juan et al.‎"
+ }
+]
