@@ -14,6 +14,7 @@ python3 ch3_code/v10/patch_extra6.py
 python3 ch3_code/v10/patch_extra7.py
 python3 ch3_code/v10/patch_extra8.py
 python3 ch3_code/v10/patch_extra9.py
+python3 ch3_code/v10/patch_extra10.py
 python3 ch3_code/v10/patch_matlab.py
 python3 ch3_code/v10/patch_end.py
 echo "draft rebuilt: _build/thesis_v10_draft.docx"
