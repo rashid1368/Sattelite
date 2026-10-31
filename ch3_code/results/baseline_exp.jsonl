@@ -1,0 +1,5 @@
+{"mode": "exp", "case": "tiny", "t120_yr": 0.29118, "hp_min": 118.994, "t_max": 25.0, "wall_s": 11.0}
+{"mode": "exp", "case": "natural", "t120_yr": 7.49247, "hp_min": 119.504, "t_max": 25.0, "wall_s": 137.3}
+{"mode": "exp", "case": "sail140", "t120_yr": 11.90164, "hp_min": 122.718, "t_max": 25.0, "wall_s": 209.5}
+{"mode": "exp", "case": "natural270", "t120_yr": null, "hp_min": 224.226, "t_max": 25.0, "wall_s": 338.6}
+{"mode": "exp", "case": "j2drag100", "t120_yr": 60.35972, "hp_min": 121.927, "t_max": 100.0, "wall_s": 829.2}

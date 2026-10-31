@@ -1,0 +1,3 @@
+{"mode": "nrlmsis", "case": "tiny", "t120_yr": 0.29126, "hp_min": 120.303, "t_max": 25.0, "wall_s": 18.4}
+{"mode": "nrlmsis", "case": "natural", "t120_yr": 5.5502, "hp_min": 120.002, "t_max": 25.0, "wall_s": 842.9}
+{"mode": "nrlmsis", "case": "natural270", "t120_yr": null, "hp_min": 219.708, "t_max": 25.0, "wall_s": 554.0}

@@ -1,0 +1,12 @@
+perigees: 43138 t_end: 25.0 status: 0
+t=  0.0 yr  hp= 249.330 km
+t=  1.0 yr  hp= 387.701 km
+t=  2.0 yr  hp= 309.773 km
+t=  5.0 yr  hp= 298.981 km
+t= 10.0 yr  hp= 322.273 km
+t= 15.0 yr  hp= 308.742 km
+t= 20.0 yr  hp= 371.368 km
+t= 24.9 yr  hp= 450.710 km
+hp min 248.7651722947201 hp max 454.50894839344824 at t 24.99982297604259
+
+[exited with code 0]
