@@ -4,3 +4,4 @@
 {"mode": "exp", "tag": "sweep", "omega": 270.0, "raan": 0.0, "area": 40.0, "t_max": 100.0, "t120_yr": 48.03196, "hp_min": 129.49, "wall_s": 709.1}
 {"mode": "exp", "tag": "sweep", "omega": 270.0, "raan": 0.0, "area": 100.0, "t_max": 100.0, "t120_yr": 26.788, "hp_min": 147.108, "wall_s": 374.8}
 {"mode": "exp", "tag": "sweep", "omega": 270.0, "raan": 0.0, "area": 120.0, "t_max": 100.0, "t120_yr": 25.62713, "hp_min": 138.477, "wall_s": 366.3}
+{"mode": "exp", "tag": "sweep", "omega": 270.0, "raan": 0.0, "area": 130.0, "t_max": 100.0, "t120_yr": null, "hp_min": 248.765, "wall_s": 1460.1}
