@@ -1,8 +1,0 @@
-70 style=TocEntry ind=None text=۱-۶ فرضیه‌های پژوهش	18
-71 style=TocEntry ind=None text=۱-۶-۱ فرضیه‌ی اصلی	18
-72 style=TocEntry ind=None text=۱-۶-۲ فرضیه‌های جزئی	18
-73 style=TocEntry ind=None text=۱-۶-۳ روش آزمون فرضیه‌ها	18
-173 style=TocEntry ind=None text=فصل چهارم: تجزیه و تحلیل داده‌ها (یافته‌ها)	93
-174 style=TocEntry ind=None text=۴-۱ مقدمه	94
-176 style=TocEntry ind=None text=۴-۲-۱ آزمون همگرایی و استقلال از گام زمانی	95
-184 style=TocEntry ind=None text=۴-۹ جمع‌بندی فصل	109

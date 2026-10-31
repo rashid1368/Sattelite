@@ -1,6 +1,0 @@
-797 style=Heading 21 pageBreakBefore=False text='۳-۱۱ جمع\u200cبندی فصل'
-798 style=First Paragraph pageBreakBefore=False text='این فصل روش پیاده\u200cسازی فناوری ماهواره\u200cی کوچک و مدل'
-799 style=Normal pageBreakBefore=False text=''
-   run0 br=['page']
-800 style=Heading 11 pageBreakBefore=True text='فصل چهارم\nتجزیه و تحلیل داده\u200cها (یافته\u200cها)'
-   run1 br=[None]

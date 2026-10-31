@@ -1,2 +1,0 @@
-887 style=RefHeadingCenter text='منابع و مأخذ'
-  pStyle {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': 'RefHeadingCenter'}

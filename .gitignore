@@ -1,1 +1,5 @@
 __pycache__/
+
+# Local build outputs (test docx variants, figure renders); not tracked
+_build/
+ch3_code/_build/
