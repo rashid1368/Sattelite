@@ -1,0 +1,6 @@
+{"mode": "nrlmsis", "tag": "sweep", "omega": 270.0, "raan": 0.0, "area": 400.0, "t_max": 25.0, "t120_yr": 9.1424, "hp_min": 136.029, "wall_s": 363.2}
+{"mode": "nrlmsis", "tag": "sweep", "omega": 270.0, "raan": 0.0, "area": 300.0, "t_max": 25.0, "t120_yr": 16.98838, "hp_min": 149.859, "wall_s": 530.6}
+{"mode": "nrlmsis", "tag": "sweep", "omega": 270.0, "raan": 0.0, "area": 250.0, "t_max": 25.0, "t120_yr": 24.45564, "hp_min": 136.203, "wall_s": 652.9}
+{"mode": "exp", "tag": "sweep", "omega": 270.0, "raan": 0.0, "area": 40.0, "t_max": 100.0, "t120_yr": 48.03196, "hp_min": 129.49, "wall_s": 709.1}
+{"mode": "exp", "tag": "sweep", "omega": 270.0, "raan": 0.0, "area": 100.0, "t_max": 100.0, "t120_yr": 26.788, "hp_min": 147.108, "wall_s": 374.8}
+{"mode": "exp", "tag": "sweep", "omega": 270.0, "raan": 0.0, "area": 120.0, "t_max": 100.0, "t120_yr": 25.62713, "hp_min": 138.477, "wall_s": 366.3}
