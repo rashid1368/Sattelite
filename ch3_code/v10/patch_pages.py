@@ -8,6 +8,7 @@ import docx
 from docx_util import W, ptext
 
 DRAFT, PDF = sys.argv[1], sys.argv[2]
+PHYSICAL = "--physical" in sys.argv  # continuous numbering from page 1 (IranDoc layout)
 d = docx.Document(DRAFT)
 body = d.element.body
 
@@ -25,9 +26,9 @@ for p in range(1, n_pages + 1):
     for l in reversed(lines[-4:]):
         if re.fullmatch(r"[0-9۰-۹]+", l):
             num = int(l.translate(str.maketrans("۰۱۲۳۴۵۶۷۸۹", "0123456789"))); break
-    page_num[p] = num
+    page_num[p] = p if PHYSICAL else num
 
-BODY_FIRST_PAGE = next((p for p in range(1, n_pages + 1) if page_num.get(p) == 1 and "فصلاول" in page_text[p]), 15)
+BODY_FIRST_PAGE = next((p for p in range(1, n_pages + 1) if (PHYSICAL or page_num.get(p) == 1) and page_text[p].startswith("فصلاول")), 15) if PHYSICAL else next((p for p in range(1, n_pages + 1) if page_num.get(p) == 1 and "فصلاول" in page_text[p]), 15)
 
 bm_para = {}
 for p in body.iter(W + "p"):
