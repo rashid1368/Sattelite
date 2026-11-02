@@ -1,0 +1,208 @@
+===== ppt/slides/slide2.xml =====
+  id=1 name= prst=ellipse
+  id=3 name=Shape 1 prst=ellipse
+  id=4 name=Shape 2 prst=ellipse
+  id=5 name=Shape 3 prst=ellipse
+  id=6 name=Image 0 prst=rect
+  id=7 name=Text 4 prst=rect
+  id=8 name=Text 5 prst=rect
+  id=10 name=A02_z_3 prst=rect
+  id=11 name=A03_f_4b prst=roundRect
+  id=12 name=A03_f_5 prst=rect
+  id=13 name=A03_f_6b prst=roundRect
+  id=14 name=A03_f_7 prst=rect
+  id=15 name=A03_f_8b prst=roundRect
+  id=16 name=A03_f_9 prst=rect
+  id=17 name=A04_f_10b prst=roundRect
+  id=18 name=A04_f_11 prst=rect
+  id=19 name=A04_f_12b prst=roundRect
+  id=20 name=A04_f_13 prst=rect
+  id=21 name=A05_f_14 prst=rect
+  adj: ['<a:gd name="adj" fmla="val 24000"/>', '<a:gd name="adj" fmla="val 24000"/>', '<a:gd name="adj" fmla="val 24000"/>', '<a:gd name="adj" fmla="val 11429"/>', '<a:gd name="adj" fmla="val 11429"/>']
+===== ppt/slides/slide5.xml =====
+  id=1 name= prst=ellipse
+  id=3 name=Shape 1 prst=ellipse
+  id=4 name=Shape 2 prst=ellipse
+  id=5 name=Shape 3 prst=ellipse
+  id=6 name=Image 0 prst=rect
+  id=7 name=Text 4 prst=rect
+  id=8 name=Text 5 prst=rect
+  id=9 name=Text 6 prst=rect
+  id=10 name=A01_z_61b prst=roundRect
+  id=11 name=A01_z_62c prst=ellipse
+  id=12 name=A01_z_62i prst=rect
+  id=13 name=Text 9 prst=rect
+  id=14 name=A01_z_63 prst=rect
+  id=15 name=A02_f_64 prst=line
+  id=16 name=A02_wr_65 prst=line
+  id=17 name=A02_f_66 prst=rect
+  id=18 name=A03_f_67 prst=line
+  id=19 name=A03_z_68b prst=roundRect
+  id=20 name=A03_z_69 prst=rect
+  id=21 name=A03_z_70x prst=roundRect
+  id=22 name=A03_z_71 prst=rect
+  id=23 name=A03_z_72 prst=rect
+  id=24 name=A03_z_73y prst=roundRect
+  id=25 name=A03_z_74 prst=rect
+  id=26 name=A03_z_75 prst=rect
+  id=27 name=A04_f_76 prst=line
+  id=28 name=A04_z_77b prst=roundRect
+  id=29 name=A04_z_78 prst=rect
+  id=30 name=A04_z_79x prst=roundRect
+  id=31 name=A04_z_80 prst=rect
+  id=32 name=A04_z_81 prst=rect
+  id=33 name=A04_z_82y prst=roundRect
+  id=34 name=A04_z_83 prst=rect
+  id=35 name=A04_z_84 prst=rect
+  id=36 name=A05_f_85 prst=line
+  id=37 name=A05_z_86b prst=roundRect
+  id=38 name=A05_z_87 prst=rect
+  id=39 name=A05_z_88x prst=roundRect
+  id=40 name=A05_z_89 prst=rect
+  id=41 name=A05_z_90 prst=rect
+  id=42 name=A05_z_91y prst=roundRect
+  id=43 name=A05_z_92 prst=rect
+  id=44 name=A05_z_93 prst=rect
+  adj: ['<a:gd name="adj" fmla="val 7742"/>', '<a:gd name="adj" fmla="val 4364"/>', '<a:gd name="adj" fmla="val 28571"/>', '<a:gd name="adj" fmla="val 28571"/>', '<a:gd name="adj" fmla="val 4364"/>', '<a:gd name="adj" fmla="val 28571"/>', '<a:gd name="adj" fmla="val 28571"/>', '<a:gd name="adj" fmla="val 4364"/>', '<a:gd name="adj" fmla="val 28571"/>', '<a:gd name="adj" fmla="val 28571"/>']
+===== ppt/slides/slide6.xml =====
+  id=1 name= prst=ellipse
+  id=3 name=Shape 1 prst=ellipse
+  id=4 name=Shape 2 prst=ellipse
+  id=5 name=Shape 3 prst=ellipse
+  id=6 name=Image 0 prst=rect
+  id=7 name=Text 4 prst=rect
+  id=8 name=Text 5 prst=rect
+  id=9 name=Text 6 prst=rect
+  id=10 name=Shape 7 prst=roundRect
+  id=11 name=Text 8 prst=rect
+  id=12 name=A01_z_94b prst=roundRect
+  id=13 name=A01_z_95 prst=rect
+  id=14 name=A02_z_96b prst=roundRect
+  id=15 name=A02_z_97 prst=rect
+  id=16 name=A03_z_98b prst=roundRect
+  id=17 name=A03_z_99 prst=rect
+  id=18 name=A04_f_100 prst=line
+  id=19 name=A05_f_101 prst=line
+  id=20 name=A06_f_102 prst=line
+  id=21 name=A04_f_103t prst=ellipse
+  id=22 name=A04_f_104 prst=rect
+  id=23 name=A05_f_105t prst=ellipse
+  id=24 name=A05_f_106 prst=rect
+  id=25 name=A06_f_107t prst=ellipse
+  id=26 name=A06_f_108 prst=rect
+  id=27 name=A05_f_109 prst=rect
+  id=28 name=A07_f_110b prst=roundRect
+  id=29 name=A07_f_111 prst=rect
+  id=30 name=A07_f_112 prst=rect
+  id=31 name=A08_f_113b prst=roundRect
+  id=32 name=A08_f_114c prst=ellipse
+  id=33 name=A08_f_115 prst=rect
+  id=34 name=A08_f_116 prst=rect
+  id=35 name=A08_f_117 prst=rect
+  id=36 name=A09_f_118b prst=roundRect
+  id=37 name=A09_f_119c prst=ellipse
+  id=38 name=A09_f_120 prst=rect
+  id=39 name=A09_f_121 prst=rect
+  id=40 name=A09_f_122 prst=rect
+  id=41 name=A10_f_123b prst=roundRect
+  id=42 name=A10_f_124c prst=ellipse
+  id=43 name=A10_f_125 prst=rect
+  id=44 name=A10_f_126 prst=rect
+  id=45 name=A10_f_127 prst=rect
+  adj: ['<a:gd name="adj" fmla="val 2202"/>', '<a:gd name="adj" fmla="val 12632"/>', '<a:gd name="adj" fmla="val 12632"/>', '<a:gd name="adj" fmla="val 12632"/>', '<a:gd name="adj" fmla="val 6857"/>', '<a:gd name="adj" fmla="val 11650"/>', '<a:gd name="adj" fmla="val 11650"/>', '<a:gd name="adj" fmla="val 11650"/>']
+===== ppt/slides/slide7.xml =====
+  id=1 name= prst=ellipse
+  id=3 name=Shape 1 prst=ellipse
+  id=4 name=Shape 2 prst=ellipse
+  id=5 name=Shape 3 prst=ellipse
+  id=6 name=Image 0 prst=rect
+  id=7 name=Text 4 prst=rect
+  id=8 name=Text 5 prst=rect
+  id=9 name=Text 6 prst=rect
+  id=10 name=Shape 7 prst=roundRect
+  id=11 name=Text 8 prst=rect
+  id=12 name=Shape 9 prst=roundRect
+  id=13 name=Text 10 prst=rect
+  id=14 name=Text 11 prst=rect
+  id=15 name=A01_z_128b prst=roundRect
+  id=16 name=A01_z_129i prst=rect
+  id=17 name=A01_z_130 prst=rect
+  id=18 name=A01_z_131 prst=rect
+  id=19 name=A02_wl_132b prst=roundRect
+  id=20 name=A02_wl_133 prst=rect
+  id=21 name=A03_wr_134b prst=roundRect
+  id=22 name=A03_wr_135 prst=rect
+  id=23 name=A03_wr_136 prst=rect
+  id=24 name=A04_z_137b prst=roundRect
+  id=25 name=A04_z_138i prst=rect
+  id=26 name=A04_z_139 prst=rect
+  id=27 name=A04_z_140 prst=rect
+  id=28 name=A05_wl_141b prst=roundRect
+  id=29 name=A05_wl_142 prst=rect
+  id=30 name=A06_wr_143b prst=roundRect
+  id=31 name=A06_wr_144 prst=rect
+  id=32 name=A06_wr_145 prst=rect
+  id=33 name=A07_z_146b prst=roundRect
+  id=34 name=A07_z_147i prst=rect
+  id=35 name=A07_z_148 prst=rect
+  id=36 name=A07_z_149 prst=rect
+  id=37 name=A08_wl_150b prst=roundRect
+  id=38 name=A08_wl_151 prst=rect
+  id=39 name=A09_wr_152b prst=roundRect
+  id=40 name=A09_wr_153 prst=rect
+  id=41 name=A09_wr_154 prst=rect
+  adj: ['<a:gd name="adj" fmla="val 24000"/>', '<a:gd name="adj" fmla="val 24000"/>', '<a:gd name="adj" fmla="val 7742"/>', '<a:gd name="adj" fmla="val 7742"/>', '<a:gd name="adj" fmla="val 7742"/>', '<a:gd name="adj" fmla="val 7742"/>', '<a:gd name="adj" fmla="val 7742"/>', '<a:gd name="adj" fmla="val 7742"/>', '<a:gd name="adj" fmla="val 7742"/>', '<a:gd name="adj" fmla="val 7742"/>', '<a:gd name="adj"
+===== ppt/slides/slide11.xml =====
+  id=1 name= prst=ellipse
+  id=3 name=Shape 1 prst=ellipse
+  id=4 name=Shape 2 prst=ellipse
+  id=5 name=Shape 3 prst=ellipse
+  id=6 name=Image 0 prst=rect
+  id=7 name=Text 4 prst=rect
+  id=8 name=Text 5 prst=rect
+  id=9 name=Text 6 prst=rect
+  id=10 name=A01_z_280b prst=roundRect
+  id=11 name=A01_z_281i prst=rect
+  id=12 name=A01_z_282 prst=rect
+  id=13 name=A02_f_283 prst=line
+  id=14 name=A02_z_284b prst=roundRect
+  id=15 name=A02_z_285i prst=rect
+  id=16 name=A02_z_286 prst=rect
+  id=17 name=A03_f_287 prst=line
+  id=18 name=A03_z_288b prst=roundRect
+  id=19 name=A03_z_289i prst=rect
+  id=20 name=A03_z_290 prst=rect
+  id=21 name=Text 15 prst=rect
+  id=22 name=A04_f_291 prst=rect
+  id=24 name=Shape 17 prst=line
+  id=25 name=Text 18 prst=rect
+  id=26 name=Text 19 prst=rect
+  id=27 name=A05_f_292 prst=rect
+  id=28 name=A05_wl_293 prst=roundRect
+  id=29 name=A05_f_294 prst=rect
+  id=30 name=A06_f_295 prst=rect
+  id=31 name=A06_wl_296 prst=roundRect
+  id=32 name=A06_f_297 prst=rect
+  id=33 name=A07_f_298 prst=rect
+  id=34 name=A07_wr_299 prst=roundRect
+  id=35 name=A07_f_300 prst=rect
+  id=36 name=A08_f_301 prst=rect
+  id=37 name=A08_wl_302 prst=roundRect
+  id=38 name=A08_f_303 prst=rect
+  id=39 name=A09_z_304b prst=roundRect
+  id=40 name=A09_z_305i prst=rect
+  id=41 name=A09_z_306 prst=rect
+  adj: ['<a:gd name="adj" fmla="val 17143"/>', '<a:gd name="adj" fmla="val 17143"/>', '<a:gd name="adj" fmla="val 17143"/>', '<a:gd name="adj" fmla="val 16129"/>', '<a:gd name="adj" fmla="val 16129"/>', '<a:gd name="adj" fmla="val 16129"/>', '<a:gd name="adj" fmla="val 16129"/>', '<a:gd name="adj" fmla="val 16667"/>']
+===== ppt/slides/slide19.xml =====
+  id=1 name= prst=ellipse
+  id=3 name=Shape 1 prst=ellipse
+  id=4 name=Shape 2 prst=ellipse
+  id=5 name=Shape 3 prst=ellipse
+  id=6 name=A01_z_489c prst=ellipse
+  id=7 name=A01_z_489i prst=rect
+  id=8 name=A02_z_490 prst=rect
+  id=9 name=A03_f_491 prst=rect
+  id=10 name=A03_f_492 prst=rect
+  id=11 name=A04_z_493b prst=roundRect
+  id=12 name=A04_z_494 prst=rect
+  adj: ['<a:gd name="adj" fmla="val 17143"/>']

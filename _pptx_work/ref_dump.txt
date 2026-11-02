@@ -1,0 +1,1762 @@
+SLIDE SIZE: 12192000 6858000 13.333333333333334 x 7.5 in
+N SLIDES: 19
+======================================================================
+SLIDE 1  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.50,-1.50) size=(4.00x4.00)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(11.20,5.20) size=(3.40x3.40)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(10.60,5.00) size=(0.50x0.50)
+      fill=solid rgb=D9674A
+  [PICTURE (13)] name='A01_z_1' pos=(3.57,1.63) size=(6.20x4.25)
+      fill n/a
+======================================================================
+SLIDE 2  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.30,-1.30) size=(3.60x3.60)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(10.90,4.90) size=(3.60x3.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.00,0.60) size=(0.60x0.60)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(0.90,6.30) size=(0.40x0.40)
+      fill=solid rgb=E9B44C
+  [PICTURE (13)] name='Image 0' pos=(6.31,0.35) size=(0.72x1.00)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(2.50,1.42) size=(8.33x0.38)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('دانشگاه علوم پزشکی آزاد اسلامی تهران', 'Tahoma', 16.0, True, '263238')]
+  [TEXT_BOX (17)] name='Text 5' pos=(2.50,1.80) size=(8.33x0.34)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('دانشکده بهزیستی و علوم اجتماعی سلامت', 'Tahoma', 13.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='A02_z_3' pos=(1.40,2.67) size=(10.53x1.40)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('بررسی رابطه بین آسیب\u200cهای دوران کودکی و سبک\u200cهای هویتی با میانجی\u200cگری سبک\u200cهای حل تعارض', 'Tahoma', 30.0, True, '0F5257')]
+  [AUTO_SHAPE (1)] name='A03_f_4b' pos=(8.35,4.55) size=(2.50x0.50)
+      fill=solid rgb=FBECE7
+  [TEXT_BOX (17)] name='A03_f_5' pos=(8.45,4.55) size=(2.30x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('آسیب\u200cهای دوران کودکی', 'Tahoma', 13.0, True, 'D9674A')]
+  [AUTO_SHAPE (1)] name='A03_f_6b' pos=(5.42,4.55) size=(2.50x0.50)
+      fill=solid rgb=E6F2F1
+  [TEXT_BOX (17)] name='A03_f_7' pos=(5.52,4.55) size=(2.30x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('سبک\u200cهای حل تعارض', 'Tahoma', 13.0, True, '2A9D8F')]
+  [AUTO_SHAPE (1)] name='A03_f_8b' pos=(2.49,4.55) size=(2.50x0.50)
+      fill=solid rgb=EFEAF3
+  [TEXT_BOX (17)] name='A03_f_9' pos=(2.59,4.55) size=(2.30x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('سبک\u200cهای هویتی', 'Tahoma', 13.0, True, '6D597A')]
+  [AUTO_SHAPE (1)] name='A04_f_10b' pos=(6.75,5.45) size=(3.90x1.05)
+      fill=solid rgb=F4F6F7
+  [TEXT_BOX (17)] name='A04_f_11' pos=(6.85,5.50) size=(3.70x0.95)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('استاد راهنما', 'Tahoma', 12.0, None, '6B7B83')]
+      L0 align=CENTER (2) :: [('سرکار خانم دکتر فاطمه حسنی', 'Tahoma', 16.0, True, '263238')]
+  [AUTO_SHAPE (1)] name='A04_f_12b' pos=(2.68,5.45) size=(3.90x1.05)
+      fill=solid rgb=F4F6F7
+  [TEXT_BOX (17)] name='A04_f_13' pos=(2.78,5.50) size=(3.70x0.95)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('نگارش', 'Tahoma', 12.0, None, '6B7B83')]
+      L0 align=CENTER (2) :: [('پریسا باقری', 'Tahoma', 16.0, True, '263238')]
+  [TEXT_BOX (17)] name='A05_f_14' pos=(5.17,6.70) size=(3.00x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('پاییز ۱۴۰۵', 'Tahoma', 13.0, None, '6B7B83')]
+======================================================================
+SLIDE 3  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.10,6.05) size=(2.60x2.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(1.15,6.70) size=(0.45x0.45)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.55,-0.35) size=(1.10x1.10)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(11.95,0.38) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='Image 0' pos=(12.11,0.54) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(0.60,0.36) size=(11.15x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('بیان مسئله', 'Tahoma', 28.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 5' pos=(0.50,7.02) size=(1.20x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۳ / ۱۹', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 6' pos=(6.30,7.02) size=(6.50x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دفاع از پایان\u200cنامه کارشناسی ارشد روانشناسی بالینی  |  پریسا باقری', 'Tahoma', 10.0, None, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A01_f_15b' pos=(8.75,1.35) size=(4.05x3.00)
+      fill=solid rgb=FBECE7
+  [AUTO_SHAPE (1)] name='A01_f_16c' pos=(12.05,1.55) size=(0.60x0.60)
+      fill=solid rgb=D9674A
+  [PICTURE (13)] name='A01_f_16i' pos=(12.18,1.68) size=(0.34x0.34)
+      fill n/a
+  [TEXT_BOX (17)] name='A01_f_17' pos=(8.95,1.55) size=(2.95x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('آسیب\u200cهای دوران کودکی', 'Tahoma', 17.0, True, 'D9674A')]
+  [TEXT_BOX (17)] name='A01_f_18' pos=(8.95,2.30) size=(3.65x1.90)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دوران کودکی: مرحله حساس شکل\u200cگیری دلبستگی، تنظیم هیجانی و تصویر از خود', 'Tahoma', 13.5, None, '263238')]
+      L0 align=RIGHT (3) :: [('غفلت، طلاق والدین و سوءرفتار → اثرات بلندمدت شناختی، هیجانی و رفتاری', 'Tahoma', 13.5, None, '263238')]
+  [AUTO_SHAPE (1)] name='A02_f_19b' pos=(4.65,1.35) size=(4.05x3.00)
+      fill=solid rgb=E6F2F1
+  [AUTO_SHAPE (1)] name='A02_f_20c' pos=(7.95,1.55) size=(0.60x0.60)
+      fill=solid rgb=2A9D8F
+  [PICTURE (13)] name='A02_f_20i' pos=(8.08,1.68) size=(0.34x0.34)
+      fill n/a
+  [TEXT_BOX (17)] name='A02_f_21' pos=(4.85,1.55) size=(2.95x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('سبک\u200cهای حل تعارض', 'Tahoma', 17.0, True, '2A9D8F')]
+  [TEXT_BOX (17)] name='A02_f_22' pos=(4.85,2.30) size=(3.65x1.90)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('تجربه تروما در کودکی → الگوهای مقابله\u200cای ناکارآمد در بزرگسالی', 'Tahoma', 13.5, None, '263238')]
+      L0 align=RIGHT (3) :: [('رشد در خانواده\u200cهای پرتعارض → سبک\u200cهای اجتنابی یا پرخاشگرانه', 'Tahoma', 13.5, None, '263238')]
+  [AUTO_SHAPE (1)] name='A03_f_23b' pos=(0.55,1.35) size=(4.05x3.00)
+      fill=solid rgb=EFEAF3
+  [AUTO_SHAPE (1)] name='A03_f_24c' pos=(3.85,1.55) size=(0.60x0.60)
+      fill=solid rgb=6D597A
+  [PICTURE (13)] name='A03_f_24i' pos=(3.98,1.68) size=(0.34x0.34)
+      fill n/a
+  [TEXT_BOX (17)] name='A03_f_25' pos=(0.75,1.55) size=(2.95x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('سبک\u200cهای هویتی', 'Tahoma', 17.0, True, '6D597A')]
+  [TEXT_BOX (17)] name='A03_f_26' pos=(0.75,2.30) size=(3.65x1.90)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('سبک\u200cهای هویتی برزونسکی: اطلاعاتی، هنجاری، سردرگم/اجتنابی', 'Tahoma', 13.5, None, '263238')]
+      L0 align=RIGHT (3) :: [('هویت سردرگم ↔ راهبردهای ناسازگارانه در موقعیت\u200cهای بین\u200cفردی', 'Tahoma', 13.5, None, '263238')]
+  [AUTO_SHAPE (1)] name='A02_f_27' pos=(8.45,2.85) size=(0.27x0.00)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A03_f_28' pos=(4.35,2.85) size=(0.27x0.00)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A04_f_29b' pos=(7.35,4.65) size=(5.45x1.95)
+      fill=solid rgb=FBF3E1
+  [AUTO_SHAPE (1)] name='A04_f_30c' pos=(12.00,4.82) size=(0.60x0.60)
+      fill=solid rgb=E9B44C
+  [PICTURE (13)] name='A04_f_30i' pos=(12.13,4.95) size=(0.34x0.34)
+      fill n/a
+  [TEXT_BOX (17)] name='A04_f_31' pos=(7.55,4.82) size=(4.30x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('خلأ پژوهشی', 'Tahoma', 17.0, True, '9A6B12')]
+  [TEXT_BOX (17)] name='A04_f_32' pos=(7.55,5.48) size=(5.05x1.05)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('بیشتر پژوهش\u200cها فقط رابطه دوجانبه دو متغیر را بررسی کرده\u200cاند؛ نقش میانجی سبک\u200cهای حل تعارض در مدل\u200cهای سه\u200cمتغیره کمتر آزموده شده است', 'Tahoma', 13.5, None, '263238')]
+  [AUTO_SHAPE (1)] name='A05_f_33b' pos=(0.55,4.65) size=(6.55x1.95)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='A05_f_34c' pos=(6.30,4.82) size=(0.60x0.60)
+      fill=solid rgb=FFFFFF
+  [PICTURE (13)] name='A05_f_34i' pos=(6.43,4.95) size=(0.34x0.34)
+      fill n/a
+  [TEXT_BOX (17)] name='A05_f_35' pos=(0.75,4.82) size=(5.40x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('پرسش اصلی پژوهش', 'Tahoma', 17.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A05_f_36' pos=(0.75,5.48) size=(6.15x1.05)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('آیا بین آسیب\u200cهای دوران کودکی و سبک\u200cهای هویتی رابطه معناداری وجود دارد و آیا سبک\u200cهای حل تعارض می\u200cتوانند این رابطه را میانجی\u200cگری کنند؟', 'Tahoma', 14.0, None, 'FFFFFF')]
+======================================================================
+SLIDE 4  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.10,6.05) size=(2.60x2.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(1.15,6.70) size=(0.45x0.45)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.55,-0.35) size=(1.10x1.10)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(11.95,0.38) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='Image 0' pos=(12.11,0.54) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(0.60,0.36) size=(11.15x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('اهمیت و ضرورت پژوهش', 'Tahoma', 28.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 5' pos=(0.50,7.02) size=(1.20x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۴ / ۱۹', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 6' pos=(6.30,7.02) size=(6.50x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دفاع از پایان\u200cنامه کارشناسی ارشد روانشناسی بالینی  |  پریسا باقری', 'Tahoma', 10.0, None, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A01_z_37b' pos=(8.90,1.40) size=(3.90x2.55)
+      fill=solid rgb=FBECE7
+  [AUTO_SHAPE (1)] name='A01_z_38c' pos=(11.95,1.65) size=(0.62x0.62)
+      fill=solid rgb=D9674A
+  [PICTURE (13)] name='A01_z_38i' pos=(12.09,1.79) size=(0.35x0.35)
+      fill n/a
+  [TEXT_BOX (17)] name='A01_z_39' pos=(9.10,1.65) size=(2.75x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('عامل خطر کلیدی', 'Tahoma', 17.0, True, 'D9674A')]
+  [TEXT_BOX (17)] name='A01_z_40' pos=(9.15,2.40) size=(3.40x1.40)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('آسیب\u200cهای کودکی از مهم\u200cترین عوامل خطر در تحول شخصیت، رفتار اجتماعی و سلامت روان بزرگسالی', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A02_z_41b' pos=(4.70,1.40) size=(3.90x2.55)
+      fill=solid rgb=EFEAF3
+  [AUTO_SHAPE (1)] name='A02_z_42c' pos=(7.75,1.65) size=(0.62x0.62)
+      fill=solid rgb=6D597A
+  [PICTURE (13)] name='A02_z_42i' pos=(7.89,1.79) size=(0.35x0.35)
+      fill n/a
+  [TEXT_BOX (17)] name='A02_z_43' pos=(4.90,1.65) size=(2.75x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('پنهان و نادیده\u200cگرفته', 'Tahoma', 17.0, True, '6D597A')]
+  [TEXT_BOX (17)] name='A02_z_44' pos=(4.95,2.40) size=(3.40x1.40)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('بروز خاموش و مزمن؛ بسیاری از مراجعان پیوند علائم خود با تجربیات اولیه را نمی\u200cشناسند', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A03_z_45b' pos=(0.50,1.40) size=(3.90x2.55)
+      fill=solid rgb=E6F2F1
+  [AUTO_SHAPE (1)] name='A03_z_46c' pos=(3.55,1.65) size=(0.62x0.62)
+      fill=solid rgb=2A9D8F
+  [PICTURE (13)] name='A03_z_46i' pos=(3.69,1.79) size=(0.35x0.35)
+      fill n/a
+  [TEXT_BOX (17)] name='A03_z_47' pos=(0.70,1.65) size=(2.75x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('راهگشای درمان بالینی', 'Tahoma', 17.0, True, '2A9D8F')]
+  [TEXT_BOX (17)] name='A03_z_48' pos=(0.75,2.40) size=(3.40x1.40)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('راهنمای طراحی مداخلات هدفمند: شناختی\u200cـ\u200cرفتاری، طرحواره\u200cدرمانی و ACT', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A04_z_49b' pos=(8.90,4.25) size=(3.90x2.55)
+      fill=solid rgb=E6F2F1
+  [AUTO_SHAPE (1)] name='A04_z_50c' pos=(11.95,4.50) size=(0.62x0.62)
+      fill=solid rgb=2A9D8F
+  [PICTURE (13)] name='A04_z_50i' pos=(12.09,4.64) size=(0.35x0.35)
+      fill n/a
+  [TEXT_BOX (17)] name='A04_z_51' pos=(9.10,4.50) size=(2.75x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('کاربرد پیشگیرانه', 'Tahoma', 17.0, True, '2A9D8F')]
+  [TEXT_BOX (17)] name='A04_z_52' pos=(9.15,5.25) size=(3.40x1.40)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('برنامه\u200cریزی آموزش\u200cهای پیشگیرانه برای خانواده\u200cها، مدارس و نهادهای حمایتی', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A05_z_53b' pos=(4.70,4.25) size=(3.90x2.55)
+      fill=solid rgb=FBECE7
+  [AUTO_SHAPE (1)] name='A05_z_54c' pos=(7.75,4.50) size=(0.62x0.62)
+      fill=solid rgb=D9674A
+  [PICTURE (13)] name='A05_z_54i' pos=(7.89,4.64) size=(0.35x0.35)
+      fill n/a
+  [TEXT_BOX (17)] name='A05_z_55' pos=(4.90,4.50) size=(2.75x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('اختلالات شخصیت', 'Tahoma', 17.0, True, 'D9674A')]
+  [TEXT_BOX (17)] name='A05_z_56' pos=(4.95,5.25) size=(3.40x1.40)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('درک مسیر تروما ← حل تعارض ناکارآمد ← هویت؛ غنای تشخیص و درمان (مرزی، اجتنابی)', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A06_z_57b' pos=(0.50,4.25) size=(3.90x2.55)
+      fill=solid rgb=EFEAF3
+  [AUTO_SHAPE (1)] name='A06_z_58c' pos=(3.55,4.50) size=(0.62x0.62)
+      fill=solid rgb=6D597A
+  [PICTURE (13)] name='A06_z_58i' pos=(3.69,4.64) size=(0.35x0.35)
+      fill n/a
+  [TEXT_BOX (17)] name='A06_z_59' pos=(0.70,4.50) size=(2.75x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('خلأ نظری و تجربی', 'Tahoma', 17.0, True, '6D597A')]
+  [TEXT_BOX (17)] name='A06_z_60' pos=(0.75,5.25) size=(3.40x1.40)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('مدل\u200cهای سه\u200cمتغیره میانجی محدودند؛ حل تعارض، نقطه\u200cای قابل تغییر و مداخله\u200cپذیر است', 'Tahoma', 14.0, None, '263238')]
+======================================================================
+SLIDE 5  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.10,6.05) size=(2.60x2.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(1.15,6.70) size=(0.45x0.45)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.55,-0.35) size=(1.10x1.10)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(11.95,0.38) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='Image 0' pos=(12.11,0.54) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(0.60,0.36) size=(11.15x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('اهداف پژوهش', 'Tahoma', 28.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 5' pos=(0.50,7.02) size=(1.20x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۵ / ۱۹', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 6' pos=(6.30,7.02) size=(6.50x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دفاع از پایان\u200cنامه کارشناسی ارشد روانشناسی بالینی  |  پریسا باقری', 'Tahoma', 10.0, None, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A01_z_61b' pos=(2.40,1.40) size=(8.53x1.55)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='A01_z_62c' pos=(9.95,1.67) size=(0.80x0.80)
+      fill=solid rgb=FFFFFF
+  [PICTURE (13)] name='A01_z_62i' pos=(10.13,1.85) size=(0.45x0.45)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 9' pos=(2.70,1.55) size=(7.00x0.45)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('هدف اصلی', 'Tahoma', 15.0, True, 'CDE7E4')]
+  [TEXT_BOX (17)] name='A01_z_63' pos=(2.70,1.98) size=(7.05x0.85)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('تعیین نقش میانجی سبک\u200cهای حل تعارض در رابطه بین آسیب\u200cهای دوران کودکی و سبک\u200cهای هویتی در دانشجویان', 'Tahoma', 17.0, True, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A02_f_64' pos=(6.67,2.95) size=(0.00x0.45)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A02_wr_65' pos=(2.35,3.40) size=(8.63x0.00)
+      fill=typeBACKGROUND (5)
+  [TEXT_BOX (17)] name='A02_f_66' pos=(5.42,3.55) size=(2.53x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('اهداف   جزئی', 'Tahoma', 13.0, True, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A03_f_67' pos=(10.81,3.40) size=(0.00x0.50)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A03_z_68b' pos=(8.85,3.90) size=(3.93x2.75)
+      fill=solid rgb=F4F6F7
+  [TEXT_BOX (17)] name='A03_z_69' pos=(12.10,4.05) size=(0.50x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۱', 'Tahoma', 24.0, True, '0F5257')]
+  [AUTO_SHAPE (1)] name='A03_z_70x' pos=(10.80,4.12) size=(1.20x0.42)
+      fill=solid rgb=D9674A
+  [TEXT_BOX (17)] name='A03_z_71' pos=(10.80,4.12) size=(1.20x0.42)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('آسیب کودکی', 'Tahoma', 11.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A03_z_72' pos=(10.35,4.12) size=(0.45x0.42)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('⟷', 'Tahoma', 14.0, None, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A03_z_73y' pos=(9.10,4.12) size=(1.25x0.42)
+      fill=solid rgb=6D597A
+  [TEXT_BOX (17)] name='A03_z_74' pos=(9.10,4.12) size=(1.25x0.42)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('سبک هویتی', 'Tahoma', 11.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A03_z_75' pos=(9.10,4.85) size=(3.45x1.60)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('تعیین رابطه بین آسیب\u200cهای دوران کودکی و سبک\u200cهای هویتی در دانشجویان', 'Tahoma', 15.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A04_f_76' pos=(6.67,3.40) size=(0.00x0.50)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A04_z_77b' pos=(4.70,3.90) size=(3.93x2.75)
+      fill=solid rgb=F4F6F7
+  [TEXT_BOX (17)] name='A04_z_78' pos=(7.95,4.05) size=(0.50x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۲', 'Tahoma', 24.0, True, '0F5257')]
+  [AUTO_SHAPE (1)] name='A04_z_79x' pos=(6.65,4.12) size=(1.20x0.42)
+      fill=solid rgb=D9674A
+  [TEXT_BOX (17)] name='A04_z_80' pos=(6.65,4.12) size=(1.20x0.42)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('آسیب کودکی', 'Tahoma', 11.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A04_z_81' pos=(6.20,4.12) size=(0.45x0.42)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('⟷', 'Tahoma', 14.0, None, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A04_z_82y' pos=(4.95,4.12) size=(1.25x0.42)
+      fill=solid rgb=2A9D8F
+  [TEXT_BOX (17)] name='A04_z_83' pos=(4.95,4.12) size=(1.25x0.42)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('حل تعارض', 'Tahoma', 11.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A04_z_84' pos=(4.95,4.85) size=(3.45x1.60)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('تعیین رابطه بین آسیب\u200cهای دوران کودکی و سبک\u200cهای حل تعارض در دانشجویان', 'Tahoma', 15.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A05_f_85' pos=(2.52,3.40) size=(0.00x0.50)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A05_z_86b' pos=(0.55,3.90) size=(3.93x2.75)
+      fill=solid rgb=F4F6F7
+  [TEXT_BOX (17)] name='A05_z_87' pos=(3.80,4.05) size=(0.50x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۳', 'Tahoma', 24.0, True, '0F5257')]
+  [AUTO_SHAPE (1)] name='A05_z_88x' pos=(2.50,4.12) size=(1.20x0.42)
+      fill=solid rgb=6D597A
+  [TEXT_BOX (17)] name='A05_z_89' pos=(2.50,4.12) size=(1.20x0.42)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('سبک هویتی', 'Tahoma', 11.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A05_z_90' pos=(2.05,4.12) size=(0.45x0.42)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('⟷', 'Tahoma', 14.0, None, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A05_z_91y' pos=(0.80,4.12) size=(1.25x0.42)
+      fill=solid rgb=2A9D8F
+  [TEXT_BOX (17)] name='A05_z_92' pos=(0.80,4.12) size=(1.25x0.42)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('حل تعارض', 'Tahoma', 11.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A05_z_93' pos=(0.80,4.85) size=(3.45x1.60)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('تعیین رابطه بین سبک\u200cهای هویتی و سبک\u200cهای حل تعارض در دانشجویان', 'Tahoma', 15.0, None, '263238')]
+======================================================================
+SLIDE 6  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.10,6.05) size=(2.60x2.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(1.15,6.70) size=(0.45x0.45)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.55,-0.35) size=(1.10x1.10)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(11.95,0.38) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='Image 0' pos=(12.11,0.54) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(0.60,0.36) size=(11.15x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('فرضیه\u200cهای پژوهش', 'Vazir Black', 32.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 5' pos=(0.50,7.02) size=(1.20x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۶ / ۱۹', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 6' pos=(6.30,7.02) size=(6.50x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دفاع از پایان\u200cنامه کارشناسی ارشد روانشناسی بالینی  |  پریسا باقری', 'Tahoma', 10.0, None, '6B7B83')]
+  [AUTO_SHAPE (1)] name='Shape 7' pos=(0.50,1.35) size=(6.30x5.45)
+      fill=solid rgb=F4F6F7
+  [TEXT_BOX (17)] name='Text 8' pos=(0.70,1.45) size=(5.90x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('مدل مفهومی پژوهش', 'Tahoma', 20.0, True, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A01_z_94b' pos=(3.95,5.35) size=(2.60x0.95)
+      fill=solid rgb=D9674A
+  [TEXT_BOX (17)] name='A01_z_95' pos=(4.05,5.35) size=(2.40x0.95)
+      fill=typeBACKGROUND (5)
+      L0 align=None :: [('آسیب\u200cهای دوران کودکی', None, None, None, None)]
+  [AUTO_SHAPE (1)] name='A02_z_96b' pos=(2.35,2.15) size=(2.60x0.95)
+      fill=solid rgb=2A9D8F
+  [TEXT_BOX (17)] name='A02_z_97' pos=(2.45,2.15) size=(2.40x0.95)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('سبک\u200cهای حل تعارض', 'Tahoma', 20.0, True, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A03_z_98b' pos=(0.75,5.35) size=(2.60x0.95)
+      fill=solid rgb=6D597A
+  [TEXT_BOX (17)] name='A03_z_99' pos=(0.85,5.35) size=(2.40x0.95)
+      fill=typeBACKGROUND (5)
+      L0 align=None :: [('سبک\u200cهای', None, None, None, None), (' هویتی', None, None, None, None)]
+  [AUTO_SHAPE (1)] name='A04_f_100' pos=(4.10,3.12) size=(0.80x2.21)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A05_f_101' pos=(2.10,3.12) size=(0.85x2.21)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A06_f_102' pos=(3.37,5.82) size=(0.56x0.00)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A04_f_103t' pos=(4.75,3.95) size=(0.50x0.50)
+      fill=solid rgb=FFFFFF
+  [TEXT_BOX (17)] name='A04_f_104' pos=(4.75,3.95) size=(0.50x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('2H', 'Tahoma', 11.0, True, 'D9674A')]
+  [AUTO_SHAPE (1)] name='A05_f_105t' pos=(1.85,3.95) size=(0.50x0.50)
+      fill=solid rgb=FFFFFF
+  [TEXT_BOX (17)] name='A05_f_106' pos=(1.85,3.95) size=(0.50x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('H3', 'Tahoma', 11.0, True, '2A9D8F')]
+  [AUTO_SHAPE (1)] name='A06_f_107t' pos=(3.40,6.18) size=(0.50x0.50)
+      fill=solid rgb=FFFFFF
+  [TEXT_BOX (17)] name='A06_f_108' pos=(3.40,6.18) size=(0.50x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('H1', 'Tahoma', 11.0, True, '6D597A')]
+  [TEXT_BOX (17)] name='A05_f_109' pos=(2.30,3.14) size=(2.60x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('میانجی', 'Tahoma', 16.0, True, '2A9D8F')]
+  [AUTO_SHAPE (1)] name='A07_f_110b' pos=(7.15,1.35) size=(5.65x1.75)
+      fill=solid rgb=0F5257
+  [TEXT_BOX (17)] name='A07_f_111' pos=(7.40,1.48) size=(5.15x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('فرضیه اصلی', 'Vazir Black', 20.0, True, 'CDE7E4')]
+  [TEXT_BOX (17)] name='A07_f_112' pos=(7.40,1.90) size=(5.15x1.10)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('سبک\u200cهای حل تعارض در رابطه بین آسیب\u200cهای دوران کودکی و سبک\u200cهای هویتی نقش میانجی دارد', 'Vazir FD-WOL', None, None, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A08_f_113b' pos=(7.15,3.30) size=(5.65x1.03)
+      fill=solid rgb=EFEAF3
+  [AUTO_SHAPE (1)] name='A08_f_114c' pos=(12.07,3.55) size=(0.55x0.55)
+      fill=solid rgb=6D597A
+  [TEXT_BOX (17)] name='A08_f_115' pos=(12.07,3.55) size=(0.55x0.55)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('H1', 'Tahoma', 12.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A08_f_116' pos=(7.35,3.40) size=(4.55x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('فرضیه جزئی اول', 'Tahoma', 13.0, True, '6D597A')]
+  [TEXT_BOX (17)] name='A08_f_117' pos=(7.35,3.75) size=(4.55x0.52)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('آسیب\u200cهای دوران کودکی و سبک\u200cهای هویتی در دانشجویان رابطه معنادار دارند', 'Tahoma', 13.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A09_f_118b' pos=(7.15,4.48) size=(5.65x1.03)
+      fill=solid rgb=FBECE7
+  [AUTO_SHAPE (1)] name='A09_f_119c' pos=(12.07,4.73) size=(0.55x0.55)
+      fill=solid rgb=D9674A
+  [TEXT_BOX (17)] name='A09_f_120' pos=(12.07,4.73) size=(0.55x0.55)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('H2', 'Tahoma', 12.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A09_f_121' pos=(7.35,4.58) size=(4.55x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('فرضیه جزئی دوم', 'Tahoma', 13.0, True, 'D9674A')]
+  [TEXT_BOX (17)] name='A09_f_122' pos=(7.35,4.93) size=(4.55x0.52)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('آسیب\u200cهای دوران کودکی و سبک\u200cهای حل تعارض در دانشجویان رابطه معنادار دارند', 'Tahoma', 13.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A10_f_123b' pos=(7.15,5.66) size=(5.65x1.03)
+      fill=solid rgb=E6F2F1
+  [AUTO_SHAPE (1)] name='A10_f_124c' pos=(12.07,5.91) size=(0.55x0.55)
+      fill=solid rgb=2A9D8F
+  [TEXT_BOX (17)] name='A10_f_125' pos=(12.07,5.91) size=(0.55x0.55)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('H3', 'Tahoma', 12.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A10_f_126' pos=(7.35,5.76) size=(4.55x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('فرضیه جزئی سوم', 'Tahoma', 13.0, True, '2A9D8F')]
+  [TEXT_BOX (17)] name='A10_f_127' pos=(7.35,6.11) size=(4.55x0.52)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('سبک\u200cهای هویتی و سبک\u200cهای حل تعارض در دانشجویان رابطه معنادار دارند', 'Tahoma', 13.0, None, '263238')]
+======================================================================
+SLIDE 7  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.10,6.05) size=(2.60x2.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(1.15,6.70) size=(0.45x0.45)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.55,-0.35) size=(1.10x1.10)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(11.95,0.38) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='Image 0' pos=(12.11,0.54) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(0.60,0.36) size=(11.15x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('تعریف مفهومی و عملیاتی متغیرها', 'Tahoma', 28.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 5' pos=(0.50,7.02) size=(1.20x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۷ / ۱۹', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 6' pos=(6.30,7.02) size=(6.50x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دفاع از پایان\u200cنامه کارشناسی ارشد روانشناسی بالینی  |  پریسا باقری', 'Tahoma', 10.0, None, '6B7B83')]
+  [AUTO_SHAPE (1)] name='Shape 7' pos=(7.75,1.30) size=(5.05x0.50)
+      fill=solid rgb=0F5257
+  [TEXT_BOX (17)] name='Text 8' pos=(7.75,1.30) size=(5.05x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('تعریف مفهومی', 'Tahoma', 15.0, True, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='Shape 9' pos=(0.50,1.30) size=(4.95x0.50)
+      fill=solid rgb=2A9D8F
+  [TEXT_BOX (17)] name='Text 10' pos=(0.50,1.30) size=(4.95x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('تعریف عملیاتی', 'Tahoma', 15.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='Text 11' pos=(5.60,1.30) size=(2.00x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('متغیر', 'Tahoma', 13.0, True, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A01_z_128b' pos=(5.60,1.95) size=(2.00x1.55)
+      fill=solid rgb=D9674A
+  [PICTURE (13)] name='A01_z_129i' pos=(6.38,2.08) size=(0.44x0.44)
+      fill n/a
+  [TEXT_BOX (17)] name='A01_z_130' pos=(5.65,2.55) size=(1.90x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('آسیب\u200cهای دوران کودکی', 'Tahoma', 13.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A01_z_131' pos=(5.65,3.03) size=(1.90x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('متغیر مستقل (پیش\u200cبین)', 'Tahoma', 10.5, None, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A02_wl_132b' pos=(7.75,1.95) size=(5.05x1.55)
+      fill=solid rgb=FBECE7
+  [TEXT_BOX (17)] name='A02_wl_133' pos=(7.90,2.03) size=(4.75x1.39)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('رویدادها و تجربه\u200cهایی از تولد تا نوجوانی (معمولاً تا ۱۸ سالگی) که سلامت جسمی، روانی یا اجتماعی کودک را تهدید می\u200cکنند؛ شامل سوءاستفاده جسمی، عاطفی و جنسی، غفلت، مشاهده خشونت خانوادگی و بی\u200cثباتی خانواده (بولیر و بلیر، ۲۰۱۸)', 'Tahoma', 12.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A03_wr_134b' pos=(0.50,1.95) size=(4.95x1.55)
+      fill=solid rgb=F4F6F7
+  [TEXT_BOX (17)] name='A03_wr_135' pos=(0.60,2.10) size=(1.00x1.25)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۱۰', 'Tahoma', 30.0, True, 'D9674A')]
+      L0 align=CENTER (2) :: [('سؤال', 'Tahoma', 11.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='A03_wr_136' pos=(1.75,2.05) size=(3.55x1.35)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('نمره آزمودنی در پرسش\u200cنامه استاندارد آسیب\u200cهای دوران کودکی فلیتی (ACE، ۱۹۹۸)', 'Tahoma', 13.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A04_z_137b' pos=(5.60,3.63) size=(2.00x1.55)
+      fill=solid rgb=6D597A
+  [PICTURE (13)] name='A04_z_138i' pos=(6.38,3.76) size=(0.44x0.44)
+      fill n/a
+  [TEXT_BOX (17)] name='A04_z_139' pos=(5.65,4.23) size=(1.90x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('سبک\u200cهای هویتی', 'Tahoma', 13.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A04_z_140' pos=(5.65,4.71) size=(1.90x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('متغیر وابسته (ملاک)', 'Tahoma', 10.5, None, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A05_wl_141b' pos=(7.75,3.63) size=(5.05x1.55)
+      fill=solid rgb=EFEAF3
+  [TEXT_BOX (17)] name='A05_wl_142' pos=(7.90,3.71) size=(4.75x1.39)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('تمایزهای نسبتاً پایدار در راهبردهای اجتماعی\u200cـ\u200cشناختی برای پردازش، ارزیابی و مدیریت اطلاعات مرتبط با خود؛ نشان می\u200cدهد فرد چگونه با مسائل هویتی و تعارضات شخصی مواجه می\u200cشود (برزونسکی و نیمیر، ۱۹۸۸)', 'Tahoma', 12.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A06_wr_143b' pos=(0.50,3.63) size=(4.95x1.55)
+      fill=solid rgb=F4F6F7
+  [TEXT_BOX (17)] name='A06_wr_144' pos=(0.60,3.78) size=(1.00x1.25)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۴۰', 'Tahoma', 30.0, True, '6D597A')]
+      L0 align=CENTER (2) :: [('سؤال', 'Tahoma', 11.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='A06_wr_145' pos=(1.75,3.73) size=(3.55x1.35)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('نمره آزمودنی در پرسش\u200cنامه سبک\u200cهای هویتی برزونسکی (ISI-6G، ۱۹۸۸)', 'Tahoma', 13.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A07_z_146b' pos=(5.60,5.31) size=(2.00x1.55)
+      fill=solid rgb=2A9D8F
+  [PICTURE (13)] name='A07_z_147i' pos=(6.38,5.44) size=(0.44x0.44)
+      fill n/a
+  [TEXT_BOX (17)] name='A07_z_148' pos=(5.65,5.91) size=(1.90x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('سبک\u200cهای حل تعارض', 'Tahoma', 13.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A07_z_149' pos=(5.65,6.39) size=(1.90x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('متغیر میانجی', 'Tahoma', 10.5, None, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A08_wl_150b' pos=(7.75,5.31) size=(5.05x1.55)
+      fill=solid rgb=E6F2F1
+  [TEXT_BOX (17)] name='A08_wl_151' pos=(7.90,5.39) size=(4.75x1.39)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('راهکارها و الگوهای رفتاری متفاوت افراد در موقعیت\u200cهای تعارض بین\u200cفردی برای مدیریت، کاهش یا برطرف کردن اختلافات؛ بازتاب سطح همکاری، رقابت و مشارکت فعال در حل مسئله (رامیرز و همکاران، ۲۰۲۴)', 'Tahoma', 12.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A09_wr_152b' pos=(0.50,5.31) size=(4.95x1.55)
+      fill=solid rgb=F4F6F7
+  [TEXT_BOX (17)] name='A09_wr_153' pos=(0.60,5.46) size=(1.00x1.25)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۴۰', 'Tahoma', 30.0, True, '2A9D8F')]
+      L0 align=CENTER (2) :: [('سؤال', 'Tahoma', 11.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='A09_wr_154' pos=(1.75,5.41) size=(3.55x1.35)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('نمره آزمودنی در پرسش\u200cنامه حل تعارض ویکز (۱۹۹۴) و فیشر و اوری (۱۹۹۱)', 'Tahoma', 13.0, None, '263238')]
+======================================================================
+SLIDE 8  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.10,6.05) size=(2.60x2.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(1.15,6.70) size=(0.45x0.45)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.55,-0.35) size=(1.10x1.10)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(11.95,0.38) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='Image 0' pos=(12.11,0.54) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(0.60,0.36) size=(11.15x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('روش پژوهش: نوع پژوهش، جامعه و نمونه', 'Tahoma', 28.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 5' pos=(0.50,7.02) size=(1.20x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۸ / ۱۹', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 6' pos=(6.30,7.02) size=(6.50x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دفاع از پایان\u200cنامه کارشناسی ارشد روانشناسی بالینی  |  پریسا باقری', 'Tahoma', 10.0, None, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A01_z_155b' pos=(9.90,1.40) size=(2.90x2.15)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A01_z_156c' pos=(10.99,1.58) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='A01_z_156i' pos=(11.15,1.74) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='A01_z_157' pos=(10.00,2.40) size=(2.70x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('از نظر هدف', 'Tahoma', 12.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='A01_z_158' pos=(10.00,2.72) size=(2.70x0.78)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('بنیادی', 'Tahoma', 15.0, True, '0F5257')]
+  [AUTO_SHAPE (1)] name='A02_z_159b' pos=(6.82,1.40) size=(2.90x2.15)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A02_z_160c' pos=(7.91,1.58) size=(0.72x0.72)
+      fill=solid rgb=2A9D8F
+  [PICTURE (13)] name='A02_z_160i' pos=(8.07,1.74) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='A02_z_161' pos=(6.92,2.40) size=(2.70x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('از نظر روش', 'Tahoma', 12.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='A02_z_162' pos=(6.92,2.72) size=(2.70x0.78)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('توصیفی\u200cـ\u200cهمبستگی', 'Tahoma', 15.0, True, '2A9D8F')]
+  [AUTO_SHAPE (1)] name='A03_z_163b' pos=(3.74,1.40) size=(2.90x2.15)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A03_z_164c' pos=(4.83,1.58) size=(0.72x0.72)
+      fill=solid rgb=6D597A
+  [PICTURE (13)] name='A03_z_164i' pos=(4.99,1.74) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='A03_z_165' pos=(3.84,2.40) size=(2.70x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('روش تحلیل', 'Tahoma', 12.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='A03_z_166' pos=(3.84,2.72) size=(2.70x0.78)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('مدل\u200cیابی معادلات ساختاری', 'Tahoma', 15.0, True, '6D597A')]
+  [AUTO_SHAPE (1)] name='A04_z_167b' pos=(0.66,1.40) size=(2.90x2.15)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A04_z_168c' pos=(1.75,1.58) size=(0.72x0.72)
+      fill=solid rgb=D9674A
+  [PICTURE (13)] name='A04_z_168i' pos=(1.91,1.74) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='A04_z_169' pos=(0.76,2.40) size=(2.70x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('گردآوری داده\u200cها', 'Tahoma', 12.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='A04_z_170' pos=(0.76,2.72) size=(2.70x0.78)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('پیمایشی با پرسش\u200cنامه\u200cهای استاندارد', 'Tahoma', 15.0, True, 'D9674A')]
+  [AUTO_SHAPE (1)] name='A05_f_171b' pos=(7.05,3.85) size=(5.75x2.85)
+      fill=solid rgb=E6F2F1
+  [AUTO_SHAPE (1)] name='A05_f_172c' pos=(11.95,4.05) size=(0.62x0.62)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='A05_f_172i' pos=(12.09,4.19) size=(0.35x0.35)
+      fill n/a
+  [TEXT_BOX (17)] name='A05_f_173' pos=(7.30,4.05) size=(4.50x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('جامعه آماری', 'Tahoma', 17.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='A05_f_174' pos=(7.30,4.85) size=(5.25x1.60)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دانشجویان شاغل به تحصیل در شهر تهران', 'Tahoma', 15.0, None, '263238')]
+      L0 align=RIGHT (3) :: [('سال تحصیلی ۱۴۰۴ تا ۱۴۰۵', 'Tahoma', 15.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A06_f_175b' pos=(0.50,3.85) size=(6.30x2.85)
+      fill=solid rgb=FBECE7
+  [TEXT_BOX (17)] name='A06_z_176' pos=(4.10,4.00) size=(2.50x1.45)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۲۰۰', 'Tahoma', 66.0, True, 'D9674A')]
+  [TEXT_BOX (17)] name='A06_z_177' pos=(4.10,5.40) size=(2.50x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('نفر شرکت\u200cکننده', 'Tahoma', 14.0, True, '263238')]
+  [TEXT_BOX (17)] name='A07_f_178' pos=(0.75,4.05) size=(3.20x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('نمونه و نمونه\u200cگیری', 'Tahoma', 17.0, True, 'D9674A')]
+  [TEXT_BOX (17)] name='A07_f_179' pos=(0.75,4.85) size=(3.20x1.60)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('نمونه\u200cگیری در دسترس', 'Tahoma', 15.0, None, '263238')]
+      L0 align=RIGHT (3) :: [('انتشار پرسش\u200cنامه در بسترهای مجازی', 'Tahoma', 15.0, None, '263238')]
+======================================================================
+SLIDE 9  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.10,6.05) size=(2.60x2.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(1.15,6.70) size=(0.45x0.45)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.55,-0.35) size=(1.10x1.10)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(11.95,0.38) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='Image 0' pos=(12.11,0.54) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(0.60,0.36) size=(11.15x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('روش پژوهش: ابزارها و تحلیل داده\u200cها', 'Tahoma', 28.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 5' pos=(0.50,7.02) size=(1.20x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۹ / ۱۹', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 6' pos=(6.30,7.02) size=(6.50x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دفاع از پایان\u200cنامه کارشناسی ارشد روانشناسی بالینی  |  پریسا باقری', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 7' pos=(0.50,1.30) size=(12.30x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('ابزارهای گردآوری داده\u200cها', 'Tahoma', 16.0, True, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A01_z_180b' pos=(8.85,1.80) size=(3.95x2.35)
+      fill=solid rgb=FBECE7
+  [AUTO_SHAPE (1)] name='A01_z_181c' pos=(11.95,1.98) size=(0.62x0.62)
+      fill=solid rgb=D9674A
+  [PICTURE (13)] name='A01_z_181i' pos=(12.09,2.12) size=(0.35x0.35)
+      fill n/a
+  [TEXT_BOX (17)] name='A01_z_182' pos=(9.05,1.98) size=(2.80x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('پرسش\u200cنامه آسیب\u200cهای دوران کودکی', 'Tahoma', 15.0, True, 'D9674A')]
+  [TEXT_BOX (17)] name='A01_z_183' pos=(9.05,2.75) size=(3.55x0.38)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('فلیتی و همکاران (۱۹۹۸)', 'Tahoma', 13.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A01_z_184x' pos=(9.05,3.33) size=(1.25x0.50)
+      fill=solid rgb=D9674A
+  [TEXT_BOX (17)] name='A01_z_185' pos=(9.05,3.33) size=(1.25x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('ACE', 'Tahoma', 13.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A01_z_186' pos=(10.45,3.28) size=(2.10x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۱۰', 'Tahoma', 22.0, True, 'D9674A'), ('  سؤال', 'Tahoma', 13.0, None, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A02_z_187b' pos=(4.67,1.80) size=(3.95x2.35)
+      fill=solid rgb=EFEAF3
+  [AUTO_SHAPE (1)] name='A02_z_188c' pos=(7.78,1.98) size=(0.62x0.62)
+      fill=solid rgb=6D597A
+  [PICTURE (13)] name='A02_z_188i' pos=(7.91,2.12) size=(0.35x0.35)
+      fill n/a
+  [TEXT_BOX (17)] name='A02_z_189' pos=(4.88,1.98) size=(2.80x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('پرسش\u200cنامه سبک\u200cهای هویتی', 'Tahoma', 15.0, True, '6D597A')]
+  [TEXT_BOX (17)] name='A02_z_190' pos=(4.88,2.75) size=(3.55x0.38)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('برزونسکی (۱۹۸۸)', 'Tahoma', 13.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A02_z_191x' pos=(4.88,3.33) size=(1.25x0.50)
+      fill=solid rgb=6D597A
+  [TEXT_BOX (17)] name='A02_z_192' pos=(4.88,3.33) size=(1.25x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('ISI-6G', 'Tahoma', 13.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A02_z_193' pos=(6.28,3.28) size=(2.10x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۴۰', 'Tahoma', 22.0, True, '6D597A'), ('  سؤال', 'Tahoma', 13.0, None, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A03_z_194b' pos=(0.50,1.80) size=(3.95x2.35)
+      fill=solid rgb=E6F2F1
+  [AUTO_SHAPE (1)] name='A03_z_195c' pos=(3.60,1.98) size=(0.62x0.62)
+      fill=solid rgb=2A9D8F
+  [PICTURE (13)] name='A03_z_195i' pos=(3.74,2.12) size=(0.35x0.35)
+      fill n/a
+  [TEXT_BOX (17)] name='A03_z_196' pos=(0.70,1.98) size=(2.80x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('پرسش\u200cنامه سبک\u200cهای حل تعارض', 'Tahoma', 15.0, True, '2A9D8F')]
+  [TEXT_BOX (17)] name='A03_z_197' pos=(0.70,2.75) size=(3.55x0.38)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('ویکز (۱۹۹۴) و فیشر و اوری (۱۹۹۱)', 'Tahoma', 13.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A03_z_198x' pos=(0.70,3.33) size=(1.25x0.50)
+      fill=solid rgb=2A9D8F
+  [TEXT_BOX (17)] name='A03_z_199' pos=(0.70,3.33) size=(1.25x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('CRQ', 'Tahoma', 13.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A03_z_200' pos=(2.10,3.28) size=(2.10x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۴۰', 'Tahoma', 22.0, True, '2A9D8F'), ('  سؤال', 'Tahoma', 13.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='A04_f_201' pos=(0.50,4.40) size=(12.30x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('تجزیه و تحلیل داده\u200cها', 'Tahoma', 16.0, True, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A04_z_202b' pos=(0.50,4.95) size=(3.30x0.80)
+      fill=solid rgb=0F5257
+  [TEXT_BOX (17)] name='A04_z_203' pos=(0.50,4.95) size=(3.30x0.80)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('SPSS 27', 'Tahoma', 20.0, True, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A04_z_204b' pos=(0.50,5.90) size=(3.30x0.80)
+      fill=solid rgb=6D597A
+  [TEXT_BOX (17)] name='A04_z_205' pos=(0.50,5.90) size=(3.30x0.80)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('SmartPLS 3', 'Tahoma', 20.0, True, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A05_wl_206b' pos=(10.20,4.95) size=(2.60x1.75)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A05_wl_207c' pos=(11.20,5.07) size=(0.60x0.60)
+      fill=solid rgb=2A9D8F
+  [PICTURE (13)] name='A05_wl_207i' pos=(11.33,5.20) size=(0.34x0.34)
+      fill n/a
+  [TEXT_BOX (17)] name='A05_wl_208' pos=(12.30,5.05) size=(0.35x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۱', 'Tahoma', 16.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='A05_wl_209' pos=(10.30,5.75) size=(2.40x0.80)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('آمار توصیفی', 'Tahoma', 14.0, True, '263238')]
+  [AUTO_SHAPE (1)] name='A06_f_210' pos=(9.84,5.82) size=(0.30x0.00)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A06_wl_211b' pos=(7.18,4.95) size=(2.60x1.75)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A06_wl_212c' pos=(8.18,5.07) size=(0.60x0.60)
+      fill=solid rgb=2A9D8F
+  [PICTURE (13)] name='A06_wl_212i' pos=(8.31,5.20) size=(0.34x0.34)
+      fill n/a
+  [TEXT_BOX (17)] name='A06_wl_213' pos=(9.28,5.05) size=(0.35x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۲', 'Tahoma', 16.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='A06_wl_214' pos=(7.28,5.75) size=(2.40x0.80)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('ضریب همبستگی اسپیرمن', 'Tahoma', 14.0, True, '263238')]
+  [AUTO_SHAPE (1)] name='A07_f_215' pos=(6.82,5.82) size=(0.30x0.00)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A07_wl_216b' pos=(4.16,4.95) size=(2.60x1.75)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A07_wl_217c' pos=(5.16,5.07) size=(0.60x0.60)
+      fill=solid rgb=2A9D8F
+  [PICTURE (13)] name='A07_wl_217i' pos=(5.29,5.20) size=(0.34x0.34)
+      fill n/a
+  [TEXT_BOX (17)] name='A07_wl_218' pos=(6.26,5.05) size=(0.35x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۳', 'Tahoma', 16.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='A07_wl_219' pos=(4.26,5.75) size=(2.40x0.80)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('مدل\u200cیابی معادلات ساختاری', 'Tahoma', 14.0, True, '263238')]
+======================================================================
+SLIDE 10  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.10,6.05) size=(2.60x2.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(1.15,6.70) size=(0.45x0.45)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.55,-0.35) size=(1.10x1.10)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(11.95,0.38) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='Image 0' pos=(12.11,0.54) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(0.60,0.36) size=(11.15x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('مشخصات جمعیت\u200cشناختی پاسخگویان', 'Tahoma', 28.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 5' pos=(0.50,7.02) size=(1.20x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۱۰ / ۱۹', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 6' pos=(6.30,7.02) size=(6.50x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دفاع از پایان\u200cنامه کارشناسی ارشد روانشناسی بالینی  |  پریسا باقری', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 7' pos=(7.40,1.25) size=(5.40x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('جدول ۴-۱- مشخصات جمعیت\u200cشناختی پاسخگویان', 'Tahoma', 12.0, None, '6B7B83')]
+  [TABLE (19)] name='A01_f_220' pos=(7.50,1.62) size=(5.30x4.92)
+      fill n/a
+  [AUTO_SHAPE (1)] name='A02_z_221b' pos=(2.65,1.35) size=(2.20x0.75)
+      fill=solid rgb=0F5257
+  [TEXT_BOX (17)] name='A02_z_222' pos=(2.65,1.35) size=(2.20x0.75)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۲۰۰', 'Tahoma', 22.0, True, 'FFFFFF'), (' پاسخگو', 'Tahoma', 14.0, None, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A03_f_223' pos=(3.75,2.10) size=(0.00x0.25)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A03_f_224' pos=(1.45,2.35) size=(4.60x0.00)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A04_f_225' pos=(6.05,2.35) size=(0.00x0.25)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A04_z_226b' pos=(4.97,2.60) size=(2.16x0.55)
+      fill=solid rgb=D9674A
+  [PICTURE (13)] name='A04_z_227i' pos=(6.65,2.70) size=(0.34x0.34)
+      fill n/a
+  [TEXT_BOX (17)] name='A04_z_228' pos=(5.07,2.60) size=(1.51x0.55)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('جنسیت', 'Tahoma', 14.0, True, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A04_f_229p' pos=(4.97,3.25) size=(2.16x1.57)
+      fill=solid rgb=FBECE7
+  [TEXT_BOX (17)] name='A04_f_230' pos=(5.82,3.37) size=(1.19x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('زن', 'Tahoma', 12.0, True, '263238')]
+  [TEXT_BOX (17)] name='A04_f_231' pos=(5.09,3.37) size=(0.75x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۹۴٪', 'Tahoma', 13.0, True, 'D9674A')]
+  [AUTO_SHAPE (1)] name='A04_f_232t' pos=(5.09,3.71) size=(1.92x0.13)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A04_wl_233v' pos=(5.21,3.71) size=(1.80x0.13)
+      fill=solid rgb=D9674A
+  [TEXT_BOX (17)] name='A04_f_234' pos=(5.82,4.03) size=(1.19x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('مرد', 'Tahoma', 12.0, True, '263238')]
+  [TEXT_BOX (17)] name='A04_f_235' pos=(5.09,4.03) size=(0.75x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۶٪', 'Tahoma', 13.0, True, 'D9674A')]
+  [AUTO_SHAPE (1)] name='A04_f_236t' pos=(5.09,4.37) size=(1.92x0.13)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A04_wl_237v' pos=(6.89,4.37) size=(0.12x0.13)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='A05_f_238' pos=(3.75,2.35) size=(0.00x0.25)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A05_z_239b' pos=(2.67,2.60) size=(2.16x0.55)
+      fill=solid rgb=2A9D8F
+  [PICTURE (13)] name='A05_z_240i' pos=(4.35,2.70) size=(0.34x0.34)
+      fill n/a
+  [TEXT_BOX (17)] name='A05_z_241' pos=(2.77,2.60) size=(1.51x0.55)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('سن', 'Tahoma', 14.0, True, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A05_f_242p' pos=(2.67,3.25) size=(2.16x3.55)
+      fill=solid rgb=E6F2F1
+  [TEXT_BOX (17)] name='A05_f_243' pos=(3.52,3.37) size=(1.19x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۱۸ تا ۲۳', 'Tahoma', 12.0, True, '263238')]
+  [TEXT_BOX (17)] name='A05_f_244' pos=(2.79,3.37) size=(0.75x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۳۶٪', 'Tahoma', 13.0, True, '2A9D8F')]
+  [AUTO_SHAPE (1)] name='A05_f_245t' pos=(2.79,3.71) size=(1.92x0.13)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A05_wl_246v' pos=(4.02,3.71) size=(0.69x0.13)
+      fill=solid rgb=2A9D8F
+  [TEXT_BOX (17)] name='A05_f_247' pos=(3.52,4.03) size=(1.19x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۲۴ تا ۲۹', 'Tahoma', 12.0, True, '263238')]
+  [TEXT_BOX (17)] name='A05_f_248' pos=(2.79,4.03) size=(0.75x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۲۲٪', 'Tahoma', 13.0, True, '2A9D8F')]
+  [AUTO_SHAPE (1)] name='A05_f_249t' pos=(2.79,4.37) size=(1.92x0.13)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A05_wl_250v' pos=(4.29,4.37) size=(0.42x0.13)
+      fill=solid rgb=2A9D8F
+  [TEXT_BOX (17)] name='A05_f_251' pos=(3.52,4.69) size=(1.19x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۳۰ تا ۳۵', 'Tahoma', 12.0, True, '263238')]
+  [TEXT_BOX (17)] name='A05_f_252' pos=(2.79,4.69) size=(0.75x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۱۹٪', 'Tahoma', 13.0, True, '2A9D8F')]
+  [AUTO_SHAPE (1)] name='A05_f_253t' pos=(2.79,5.03) size=(1.92x0.13)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A05_wl_254v' pos=(4.35,5.03) size=(0.36x0.13)
+      fill=solid rgb=2A9D8F
+  [TEXT_BOX (17)] name='A05_f_255' pos=(3.52,5.35) size=(1.19x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۳۶ تا ۴۰', 'Tahoma', 12.0, True, '263238')]
+  [TEXT_BOX (17)] name='A05_f_256' pos=(2.79,5.35) size=(0.75x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۱۳٪', 'Tahoma', 13.0, True, '2A9D8F')]
+  [AUTO_SHAPE (1)] name='A05_f_257t' pos=(2.79,5.69) size=(1.92x0.13)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A05_wl_258v' pos=(4.46,5.69) size=(0.25x0.13)
+      fill=solid rgb=2A9D8F
+  [TEXT_BOX (17)] name='A05_f_259' pos=(3.52,6.01) size=(1.19x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۴۱ تا ۵۰', 'Tahoma', 12.0, True, '263238')]
+  [TEXT_BOX (17)] name='A05_f_260' pos=(2.79,6.01) size=(0.75x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۱۰٪', 'Tahoma', 13.0, True, '2A9D8F')]
+  [AUTO_SHAPE (1)] name='A05_f_261t' pos=(2.79,6.35) size=(1.92x0.13)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A05_wl_262v' pos=(4.52,6.35) size=(0.19x0.13)
+      fill=solid rgb=2A9D8F
+  [AUTO_SHAPE (1)] name='A06_f_263' pos=(1.45,2.35) size=(0.00x0.25)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A06_z_264b' pos=(0.37,2.60) size=(2.16x0.55)
+      fill=solid rgb=6D597A
+  [PICTURE (13)] name='A06_z_265i' pos=(2.05,2.70) size=(0.34x0.34)
+      fill n/a
+  [TEXT_BOX (17)] name='A06_z_266' pos=(0.47,2.60) size=(1.51x0.55)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('تحصیلات', 'Tahoma', 14.0, True, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A06_f_267p' pos=(0.37,3.25) size=(2.16x2.23)
+      fill=solid rgb=EFEAF3
+  [TEXT_BOX (17)] name='A06_f_268' pos=(1.22,3.37) size=(1.19x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('کارشناسی', 'Tahoma', 12.0, True, '263238')]
+  [TEXT_BOX (17)] name='A06_f_269' pos=(0.49,3.37) size=(0.75x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۶۵٪', 'Tahoma', 13.0, True, '6D597A')]
+  [AUTO_SHAPE (1)] name='A06_f_270t' pos=(0.49,3.71) size=(1.92x0.13)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A06_wl_271v' pos=(1.15,3.71) size=(1.26x0.13)
+      fill=solid rgb=6D597A
+  [TEXT_BOX (17)] name='A06_f_272' pos=(1.22,4.03) size=(1.19x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('ارشد', 'Tahoma', 12.0, True, '263238')]
+  [TEXT_BOX (17)] name='A06_f_273' pos=(0.49,4.03) size=(0.75x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۲۰٪', 'Tahoma', 13.0, True, '6D597A')]
+  [AUTO_SHAPE (1)] name='A06_f_274t' pos=(0.49,4.37) size=(1.92x0.13)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A06_wl_275v' pos=(2.03,4.37) size=(0.38x0.13)
+      fill=solid rgb=6D597A
+  [TEXT_BOX (17)] name='A06_f_276' pos=(1.22,4.69) size=(1.19x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دکتری+', 'Tahoma', 12.0, True, '263238')]
+  [TEXT_BOX (17)] name='A06_f_277' pos=(0.49,4.69) size=(0.75x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۱۵٪', 'Tahoma', 13.0, True, '6D597A')]
+  [AUTO_SHAPE (1)] name='A06_f_278t' pos=(0.49,5.03) size=(1.92x0.13)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A06_wl_279v' pos=(2.15,5.03) size=(0.26x0.13)
+      fill=solid rgb=6D597A
+======================================================================
+SLIDE 11  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.10,6.05) size=(2.60x2.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(1.15,6.70) size=(0.45x0.45)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.55,-0.35) size=(1.10x1.10)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(11.95,0.38) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='Image 0' pos=(12.11,0.54) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(0.60,0.36) size=(11.15x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('فرضیه اصلی', 'Tahoma', 28.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 5' pos=(0.50,7.02) size=(1.20x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۱۱ / ۱۹', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 6' pos=(6.30,7.02) size=(6.50x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دفاع از پایان\u200cنامه کارشناسی ارشد روانشناسی بالینی  |  پریسا باقری', 'Tahoma', 10.0, None, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A01_z_280b' pos=(8.95,1.35) size=(3.45x0.70)
+      fill=solid rgb=D9674A
+  [PICTURE (13)] name='A01_z_281i' pos=(11.90,1.50) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='A01_z_282' pos=(9.05,1.35) size=(2.80x0.70)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('آسیب\u200cهای دوران کودکی', 'Tahoma', 14.0, True, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A02_f_283' pos=(8.50,1.70) size=(0.40x0.00)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A02_z_284b' pos=(4.95,1.35) size=(3.45x0.70)
+      fill=solid rgb=2A9D8F
+  [PICTURE (13)] name='A02_z_285i' pos=(7.90,1.50) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='A02_z_286' pos=(5.05,1.35) size=(2.80x0.70)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('سبک\u200cهای حل تعارض (میانجی)', 'Tahoma', 14.0, True, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A03_f_287' pos=(4.50,1.70) size=(0.40x0.00)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A03_z_288b' pos=(0.95,1.35) size=(3.45x0.70)
+      fill=solid rgb=6D597A
+  [PICTURE (13)] name='A03_z_289i' pos=(3.90,1.50) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='A03_z_290' pos=(1.05,1.35) size=(2.80x0.70)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('سبک\u200cهای هویتی', 'Tahoma', 14.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='Text 15' pos=(6.20,2.35) size=(6.60x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('جدول ۴-۱۳- ضرایب مسیر و آماره\u200cهای مربوط به روابط غیرمستقیم', 'Tahoma', 12.0, None, '6B7B83')]
+  [TABLE (19)] name='A04_f_291' pos=(6.20,2.75) size=(6.60x3.10)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 16' pos=(0.50,2.35) size=(5.40x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('ضرایب مسیر غیرمستقیم (β)', 'Tahoma', 13.0, True, '6B7B83')]
+  [AUTO_SHAPE (1)] name='Shape 17' pos=(2.15,2.80) size=(0.00x2.58)
+      fill=typeBACKGROUND (5)
+  [TEXT_BOX (17)] name='Text 18' pos=(0.50,5.40) size=(1.55x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('منفی', 'Tahoma', 10.0, None, 'D9674A')]
+  [TEXT_BOX (17)] name='Text 19' pos=(2.25,5.40) size=(1.55x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('مثبت', 'Tahoma', 10.0, None, '2A9D8F')]
+  [TEXT_BOX (17)] name='A05_f_292' pos=(3.95,2.90) size=(1.95x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('هویت اطلاعاتی', 'Tahoma', 13.0, True, '263238')]
+  [AUTO_SHAPE (1)] name='A05_wl_293' pos=(1.25,3.06) size=(0.90x0.31)
+      fill=solid rgb=D9674A
+  [TEXT_BOX (17)] name='A05_f_294' pos=(0.63,3.02) size=(0.56x0.39)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۰/۱۸-', 'Tahoma', 13.0, True, 'D9674A')]
+  [TEXT_BOX (17)] name='A06_f_295' pos=(3.95,3.52) size=(1.95x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('هویت هنجاری', 'Tahoma', 13.0, True, '263238')]
+  [AUTO_SHAPE (1)] name='A06_wl_296' pos=(1.65,3.67) size=(0.50x0.31)
+      fill=solid rgb=D9674A
+  [TEXT_BOX (17)] name='A06_f_297' pos=(1.03,3.63) size=(0.56x0.39)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۰/۱۰-', 'Tahoma', 13.0, True, 'D9674A')]
+  [TEXT_BOX (17)] name='A07_f_298' pos=(3.95,4.14) size=(1.95x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('هویت سردرگمی/اجتنابی', 'Tahoma', 13.0, True, '263238')]
+  [AUTO_SHAPE (1)] name='A07_wr_299' pos=(2.15,4.29) size=(0.65x0.31)
+      fill=solid rgb=2A9D8F
+  [TEXT_BOX (17)] name='A07_f_300' pos=(2.86,4.25) size=(0.56x0.39)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۰/۱۳', 'Tahoma', 13.0, True, '2A9D8F')]
+  [TEXT_BOX (17)] name='A08_f_301' pos=(3.95,4.76) size=(1.95x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('تعهد هویتی', 'Tahoma', 13.0, True, '263238')]
+  [AUTO_SHAPE (1)] name='A08_wl_302' pos=(1.50,4.92) size=(0.65x0.31)
+      fill=solid rgb=D9674A
+  [TEXT_BOX (17)] name='A08_f_303' pos=(0.88,4.88) size=(0.56x0.39)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۰/۱۳-', 'Tahoma', 13.0, True, 'D9674A')]
+  [AUTO_SHAPE (1)] name='A09_z_304b' pos=(0.50,6.05) size=(12.30x0.72)
+      fill=solid rgb=E6F2F1
+  [PICTURE (13)] name='A09_z_305i' pos=(12.20,6.20) size=(0.42x0.42)
+      fill n/a
+  [TEXT_BOX (17)] name='A09_z_306' pos=(0.80,6.05) size=(11.25x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('تأیید فرضیه: ', 'Tahoma', 15.0, True, '0F5257'), ('هر ۴ مسیر غیرمستقیم معنادار ', 'Tahoma', 15.0, None, '263238'), ('    ', 'Tahoma', 15.0, None, '263238'), ('p ۰/۰۵', 'Tahoma', 15.0, None, '263238'), (' ', 'Tahoma', 15.0, None, '263238'), ('و', 'Tahoma', 15.0, None, '263238'), ('  ', 'Tahoma', 15.0, None, '263238'), (' ', 'Tahoma', 15.0, None, '263238'), ('|', 'Tahoma', 15.0, None, '263238'), ('t', 'Tahoma', 15.0, None, '263238'), ('|', 'Tahoma', 15.0, None, '263238'), (' > ۱/۹۶', 'Tahoma', 15.0, None, '263238')]
+  [TEXT_BOX (17)] name='TextBox 42' pos=(7.48,6.26) size=(0.46x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=None :: [('>', 'Tahoma', 15.0, None, '263238')]
+======================================================================
+SLIDE 12  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.10,6.05) size=(2.60x2.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(1.15,6.70) size=(0.45x0.45)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.55,-0.35) size=(1.10x1.10)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(11.95,0.38) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='Image 0' pos=(12.11,0.54) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(0.60,0.36) size=(11.15x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('فرضیه جزئی اول', 'Tahoma', 28.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 5' pos=(0.50,7.02) size=(1.20x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۱۲ / ۱۹', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 6' pos=(6.30,7.02) size=(6.50x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دفاع از پایان\u200cنامه کارشناسی ارشد روانشناسی بالینی  |  پریسا باقری', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 7' pos=(0.50,1.20) size=(12.30x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('آسیب\u200cهای دوران کودکی و سبک\u200cهای هویتی در دانشجویان رابطه معنادار دارند', 'Tahoma', 15.0, True, '6D597A')]
+  [AUTO_SHAPE (1)] name='A01_z_307c' pos=(10.75,3.10) size=(1.95x1.95)
+      fill=solid rgb=D9674A
+  [PICTURE (13)] name='A01_z_308i' pos=(11.47,3.30) size=(0.50x0.50)
+      fill n/a
+  [TEXT_BOX (17)] name='A01_z_309' pos=(10.85,3.85) size=(1.75x0.90)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('آسیب\u200cهای دوران کودکی', 'Tahoma', 13.0, True, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A02_z_310b' pos=(6.85,1.85) size=(2.00x0.75)
+      fill=solid rgb=EFEAF3
+  [TEXT_BOX (17)] name='A02_z_311' pos=(6.90,1.85) size=(1.90x0.75)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('هویت اطلاعاتی', 'Tahoma', 13.0, True, '6D597A')]
+  [AUTO_SHAPE (1)] name='A02_f_312' pos=(8.89,2.23) size=(2.01x1.32)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A02_f_313t' pos=(9.51,2.68) size=(0.76x0.40)
+      fill=solid rgb=FFFFFF
+  [TEXT_BOX (17)] name='A02_f_314' pos=(9.51,2.68) size=(0.76x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('-', 'Tahoma', 12.0, True, 'D9674A'), ('\u200e۰/۲۳', 'Tahoma', 12.0, True, 'D9674A')]
+  [AUTO_SHAPE (1)] name='A03_z_315b' pos=(6.85,3.05) size=(2.00x0.75)
+      fill=solid rgb=EFEAF3
+  [TEXT_BOX (17)] name='A03_z_316' pos=(6.90,3.05) size=(1.90x0.75)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('هویت هنجاری', 'Tahoma', 13.0, True, '6D597A')]
+  [AUTO_SHAPE (1)] name='A03_f_317' pos=(8.89,3.42) size=(1.88x0.43)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A03_f_318t' pos=(9.44,3.44) size=(0.76x0.40)
+      fill=solid rgb=FFFFFF
+  [TEXT_BOX (17)] name='A03_f_319' pos=(9.44,3.44) size=(0.76x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('-', 'Tahoma', 12.0, True, 'D9674A'), ('\u200e۰/۲۲', 'Tahoma', 12.0, True, 'D9674A')]
+  [AUTO_SHAPE (1)] name='A04_z_320b' pos=(6.85,4.25) size=(2.00x0.75)
+      fill=solid rgb=EFEAF3
+  [TEXT_BOX (17)] name='A04_z_321' pos=(6.90,4.25) size=(1.90x0.75)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('هویت سردرگمی/', 'Tahoma', 13.0, True, '6D597A'), ('اجتنابی', 'Tahoma', 13.0, True, '6D597A')]
+  [AUTO_SHAPE (1)] name='A04_f_322' pos=(8.89,4.26) size=(1.87x0.37)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A04_f_323t' pos=(9.44,4.24) size=(0.76x0.40)
+      fill=solid rgb=FFFFFF
+  [TEXT_BOX (17)] name='A04_f_324' pos=(9.44,4.24) size=(0.76x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۰/۱۱', 'Tahoma', 12.0, True, '2A9D8F')]
+  [AUTO_SHAPE (1)] name='A05_z_325b' pos=(6.85,5.45) size=(2.00x0.75)
+      fill=solid rgb=EFEAF3
+  [TEXT_BOX (17)] name='A05_z_326' pos=(6.90,5.45) size=(1.90x0.75)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('تعهد', 'Tahoma', 13.0, True, '6D597A')]
+  [AUTO_SHAPE (1)] name='A05_f_327' pos=(8.89,4.59) size=(2.00x1.24)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A05_f_328t' pos=(9.50,5.01) size=(0.76x0.40)
+      fill=solid rgb=FFFFFF
+  [TEXT_BOX (17)] name='A05_f_329' pos=(9.50,5.01) size=(0.76x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('-', 'Tahoma', 12.0, True, 'D9674A'), ('\u200e۰/۱۵', 'Tahoma', 12.0, True, 'D9674A')]
+  [TEXT_BOX (17)] name='Text 30' pos=(0.50,1.85) size=(6.00x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('جدول ۴-۱۴- نتایج بخش ساختاری مدل پژوهش برای مسیرهای مستقیم', 'Tahoma', 12.0, None, '6B7B83')]
+  [TABLE (19)] name='A06_f_330' pos=(0.50,2.25) size=(6.00x3.10)
+      fill n/a
+  [AUTO_SHAPE (1)] name='A07_z_331b' pos=(0.50,5.60) size=(6.00x0.72)
+      fill=solid rgb=E6F2F1
+  [PICTURE (13)] name='A07_z_332i' pos=(5.90,5.75) size=(0.42x0.42)
+      fill n/a
+  [TEXT_BOX (17)] name='A07_z_333' pos=(0.75,5.60) size=(5.00x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('تأیید فرضیه: ', 'Tahoma', 14.0, True, '0F5257'), ('هر ۴ مسیر معنادار (', 'Tahoma', 14.0, None, '263238'), ('   ', 'Tahoma', 14.0, None, '263238'), ('p ۰/۰۵)', 'Tahoma', 14.0, None, '263238')]
+  [TEXT_BOX (17)] name='TextBox 39' pos=(2.43,5.82) size=(0.46x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=None :: [('>', 'Tahoma', 15.0, None, '263238')]
+======================================================================
+SLIDE 13  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.10,6.05) size=(2.60x2.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(1.15,6.70) size=(0.45x0.45)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.55,-0.35) size=(1.10x1.10)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(11.95,0.38) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='Image 0' pos=(12.11,0.54) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(0.60,0.36) size=(11.15x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('فرضیه جزئی دوم', 'Tahoma', 28.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 5' pos=(0.50,7.02) size=(1.20x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۱۳ / ۱۹', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 6' pos=(6.30,7.02) size=(6.50x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دفاع از پایان\u200cنامه کارشناسی ارشد روانشناسی بالینی  |  پریسا باقری', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 7' pos=(0.50,1.20) size=(12.30x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('آسیب\u200cهای دوران کودکی و سبک\u200cهای حل تعارض در دانشجویان رابطه معنادار دارند', 'Tahoma', 15.0, True, 'D9674A')]
+  [AUTO_SHAPE (1)] name='A01_z_334b' pos=(8.90,2.15) size=(3.60x1.55)
+      fill=solid rgb=D9674A
+  [PICTURE (13)] name='A01_z_335i' pos=(10.45,2.30) size=(0.50x0.50)
+      fill n/a
+  [TEXT_BOX (17)] name='A01_z_336' pos=(9.00,2.85) size=(3.40x0.70)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('آسیب\u200cهای دوران کودکی', 'Tahoma', 17.0, True, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A03_z_337b' pos=(0.83,2.15) size=(3.60x1.55)
+      fill=solid rgb=2A9D8F
+  [PICTURE (13)] name='A03_z_338i' pos=(2.38,2.30) size=(0.50x0.50)
+      fill n/a
+  [TEXT_BOX (17)] name='A03_z_339' pos=(0.93,2.85) size=(3.40x0.70)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('سبک\u200cهای حل تعارض', 'Tahoma', 17.0, True, 'FFFFFF')]
+  [AUTO_SHAPE (1)] name='A02_wl_340' pos=(4.48,2.93) size=(4.37x0.00)
+      fill=typeBACKGROUND (5)
+  [AUTO_SHAPE (1)] name='A02_z_341t' pos=(5.42,1.95) size=(2.50x0.78)
+      fill=solid rgb=FFFFFF
+  [TEXT_BOX (17)] name='A02_z_342' pos=(5.42,1.95) size=(2.50x0.78)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('β = ', 'Tahoma', 24.0, None, '6B7B83'), ('۰/۳۵-', 'Tahoma', 24.0, True, 'D9674A')]
+  [TEXT_BOX (17)] name='A02_z_343' pos=(5.00,3.12) size=(3.33x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('رابطه منفی و معنادار', 'Tahoma', 13.0, True, 'D9674A')]
+  [AUTO_SHAPE (1)] name='A04_z_344b' pos=(8.90,4.00) size=(3.60x1.00)
+      fill=solid rgb=F4F6F7
+  [TEXT_BOX (17)] name='A04_z_345' pos=(10.90,4.00) size=(1.45x1.00)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('آماره t', 'Tahoma', 13.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='A04_z_346' pos=(9.10,4.00) size=(1.80x1.00)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۳/۸۷', 'Tahoma', 24.0, True, '0F5257')]
+  [AUTO_SHAPE (1)] name='A05_z_347b' pos=(4.86,4.00) size=(3.60x1.00)
+      fill=solid rgb=F4F6F7
+  [TEXT_BOX (17)] name='A05_z_348' pos=(6.86,4.00) size=(1.45x1.00)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('انحراف معیار', 'Tahoma', 13.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='A05_z_349' pos=(5.06,4.00) size=(1.80x1.00)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۰/۰۹', 'Tahoma', 24.0, True, '0F5257')]
+  [AUTO_SHAPE (1)] name='A06_z_350b' pos=(0.82,4.00) size=(3.60x1.00)
+      fill=solid rgb=F4F6F7
+  [TEXT_BOX (17)] name='A06_z_351' pos=(2.82,4.00) size=(1.45x1.00)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('مقدار معناداری', 'Tahoma', 13.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='A06_z_352' pos=(1.02,4.00) size=(1.80x1.00)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('\u200e<۰/۰۰۱', 'Tahoma', 24.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 25' pos=(0.50,5.20) size=(12.30x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('جدول ۴-۱۵- نتایج بخش ساختاری مدل پژوهش برای مسیرهای مستقیم', 'Tahoma', 12.0, None, '6B7B83')]
+  [TABLE (19)] name='A07_f_353' pos=(0.50,5.60) size=(12.30x1.00)
+      fill n/a
+======================================================================
+SLIDE 14  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.10,6.05) size=(2.60x2.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(1.15,6.70) size=(0.45x0.45)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.55,-0.35) size=(1.10x1.10)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(11.95,0.38) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='Image 0' pos=(12.11,0.54) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(0.60,0.36) size=(11.15x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('فرضیه جزئی سوم', 'Tahoma', 28.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 5' pos=(0.50,7.02) size=(1.20x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۱۴ / ۱۹', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 6' pos=(6.30,7.02) size=(6.50x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دفاع از پایان\u200cنامه کارشناسی ارشد روانشناسی بالینی  |  پریسا باقری', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 7' pos=(0.50,1.20) size=(12.30x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('سبک\u200cهای حل تعارض و سبک\u200cهای هویتی در دانشجویان رابطه معنادار دارند', 'Tahoma', 15.0, True, '2A9D8F')]
+  [TEXT_BOX (17)] name='Text 8' pos=(0.50,1.72) size=(12.30x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('جدول ۴-۱۶- نتایج بخش ساختاری مدل پژوهش برای مسیرهای مستقیم', 'Tahoma', 12.0, None, '6B7B83')]
+  [TABLE (19)] name='A01_f_354' pos=(0.50,2.10) size=(12.30x2.30)
+      fill n/a
+  [AUTO_SHAPE (1)] name='A02_z_355b' pos=(9.90,4.90) size=(2.90x1.95)
+      fill=solid rgb=E6F2F1
+  [TEXT_BOX (17)] name='A02_z_356' pos=(10.05,4.97) size=(2.60x0.42)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('هویت اطلاعاتی', 'Tahoma', 13.0, True, '6D597A')]
+  [TEXT_BOX (17)] name='A02_z_357' pos=(10.05,5.38) size=(2.60x0.75)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۰/۵۱', 'Tahoma', 34.0, True, '2A9D8F')]
+  [AUTO_SHAPE (1)] name='A02_z_358t' pos=(10.20,6.20) size=(2.30x0.14)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A02_wl_359v' pos=(10.54,6.20) size=(1.96x0.14)
+      fill=solid rgb=2A9D8F
+  [TEXT_BOX (17)] name='A02_z_360' pos=(10.05,6.42) size=(2.60x0.32)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('مثبت و معنادار', 'Tahoma', 11.0, None, '2A9D8F')]
+  [AUTO_SHAPE (1)] name='A03_z_361b' pos=(6.77,4.90) size=(2.90x1.95)
+      fill=solid rgb=E6F2F1
+  [TEXT_BOX (17)] name='A03_z_362' pos=(6.92,4.97) size=(2.60x0.42)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('هویت هنجاری', 'Tahoma', 13.0, True, '6D597A')]
+  [TEXT_BOX (17)] name='A03_z_363' pos=(6.92,5.38) size=(2.60x0.75)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۰/۲۸', 'Tahoma', 34.0, True, '2A9D8F')]
+  [AUTO_SHAPE (1)] name='A03_z_364t' pos=(7.07,6.20) size=(2.30x0.14)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A03_wl_365v' pos=(8.29,6.20) size=(1.07x0.14)
+      fill=solid rgb=2A9D8F
+  [TEXT_BOX (17)] name='A03_z_366' pos=(6.92,6.42) size=(2.60x0.32)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('مثبت و معنادار', 'Tahoma', 11.0, None, '2A9D8F')]
+  [AUTO_SHAPE (1)] name='A04_z_367b' pos=(3.63,4.90) size=(2.90x1.95)
+      fill=solid rgb=FBECE7
+  [TEXT_BOX (17)] name='A04_z_368' pos=(3.78,4.97) size=(2.60x0.42)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('هویت سردرگمی/اجتنابی', 'Tahoma', 13.0, True, '6D597A')]
+  [TEXT_BOX (17)] name='A04_z_369' pos=(3.78,5.38) size=(2.60x0.75)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('\u200e۰/۳۷-', 'Tahoma', 34.0, True, 'D9674A')]
+  [AUTO_SHAPE (1)] name='A04_z_370t' pos=(3.93,6.20) size=(2.30x0.14)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A04_wl_371v' pos=(4.82,6.20) size=(1.42x0.14)
+      fill=solid rgb=D9674A
+  [TEXT_BOX (17)] name='A04_z_372' pos=(3.78,6.42) size=(2.60x0.32)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('منفی و معنادار', 'Tahoma', 11.0, None, 'D9674A')]
+  [AUTO_SHAPE (1)] name='A05_z_373b' pos=(0.50,4.90) size=(2.90x1.95)
+      fill=solid rgb=E6F2F1
+  [TEXT_BOX (17)] name='A05_z_374' pos=(0.65,4.97) size=(2.60x0.42)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('تعهد', 'Tahoma', 13.0, True, '6D597A')]
+  [TEXT_BOX (17)] name='A05_z_375' pos=(0.65,5.38) size=(2.60x0.75)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۰/۳۷', 'Tahoma', 34.0, True, '2A9D8F')]
+  [AUTO_SHAPE (1)] name='A05_z_376t' pos=(0.80,6.20) size=(2.30x0.14)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A05_wl_377v' pos=(1.68,6.20) size=(1.42x0.14)
+      fill=solid rgb=2A9D8F
+  [TEXT_BOX (17)] name='A05_z_378' pos=(0.65,6.42) size=(2.60x0.32)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('مثبت و معنادار', 'Tahoma', 11.0, None, '2A9D8F')]
+  [TEXT_BOX (17)] name='Text 33' pos=(0.50,4.50) size=(12.30x0.35)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('ضریب مسیر (β) هر بعد هویت', 'Tahoma', 13.0, True, '6B7B83')]
+======================================================================
+SLIDE 15  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.10,6.05) size=(2.60x2.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(1.15,6.70) size=(0.45x0.45)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.55,-0.35) size=(1.10x1.10)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(11.95,0.38) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='Image 0' pos=(12.11,0.54) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(0.60,0.36) size=(11.15x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('خلاصه نتایج آزمون فرضیه\u200cهای پژوهش', 'Tahoma', 28.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 5' pos=(0.50,7.02) size=(1.20x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۱۵ / ۱۹', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 6' pos=(6.30,7.02) size=(6.50x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دفاع از پایان\u200cنامه کارشناسی ارشد روانشناسی بالینی  |  پریسا باقری', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 7' pos=(0.50,1.20) size=(12.30x0.32)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('جدول ۴-۱۷- خلاصه نتایج آزمون فرضیات پژوهش', 'Tahoma', 12.0, None, '6B7B83')]
+  [TABLE (19)] name='A01_f_379' pos=(6.75,1.60) size=(6.05x4.84)
+      fill n/a
+  [TABLE (19)] name='A02_f_380' pos=(0.50,1.60) size=(5.95x3.52)
+      fill n/a
+  [AUTO_SHAPE (1)] name='A03_z_381b' pos=(3.55,5.30) size=(2.90x1.35)
+      fill=solid rgb=F4F6F7
+  [TEXT_BOX (17)] name='A03_z_382' pos=(3.65,5.38) size=(2.70x0.70)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۴ از ۴', 'Tahoma', 28.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='A03_z_383' pos=(3.65,6.06) size=(2.70x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('فرضیه تأیید شد', 'Tahoma', 13.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A04_z_384b' pos=(0.50,5.30) size=(2.90x1.35)
+      fill=solid rgb=F4F6F7
+  [TEXT_BOX (17)] name='A04_z_385' pos=(0.60,5.38) size=(2.70x0.70)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۱۳ از ۱۳', 'Tahoma', 28.0, True, '2A9D8F')]
+  [TEXT_BOX (17)] name='A04_z_386' pos=(0.60,6.06) size=(2.70x0.40)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('مسیر معنادار', 'Tahoma', 13.0, None, '263238')]
+======================================================================
+SLIDE 16  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.10,6.05) size=(2.60x2.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(1.15,6.70) size=(0.45x0.45)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.55,-0.35) size=(1.10x1.10)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(11.95,0.38) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='Image 0' pos=(12.11,0.54) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(0.60,0.36) size=(11.15x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('محدودیت\u200cهای پژوهش', 'Tahoma', 28.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 5' pos=(0.50,7.02) size=(1.20x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۱۶ / ۱۹', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 6' pos=(6.30,7.02) size=(6.50x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دفاع از پایان\u200cنامه کارشناسی ارشد روانشناسی بالینی  |  پریسا باقری', 'Tahoma', 10.0, None, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A01_wl_387b' pos=(6.80,1.40) size=(6.00x1.60)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A01_wl_388c' pos=(11.75,1.75) size=(0.85x0.85)
+      fill=solid rgb=D9674A
+  [PICTURE (13)] name='A01_wl_389i' pos=(11.97,1.97) size=(0.42x0.42)
+      fill n/a
+  [TEXT_BOX (17)] name='A01_wl_390' pos=(7.05,1.60) size=(4.50x0.45)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۱. سنجش گذشته\u200cنگر', 'Tahoma', 16.0, True, 'D9674A')]
+  [TEXT_BOX (17)] name='A01_wl_391' pos=(7.05,2.10) size=(4.50x0.80)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('سنجش آسیب\u200cها بر اساس یادآوری؛ احتمال خطا، فراموشی یا بازسازی ذهنی تجربه\u200cها', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A02_wl_392b' pos=(0.50,1.40) size=(6.00x1.60)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A02_wl_393c' pos=(5.45,1.75) size=(0.85x0.85)
+      fill=solid rgb=6D597A
+  [PICTURE (13)] name='A02_wl_394i' pos=(5.67,1.97) size=(0.42x0.42)
+      fill n/a
+  [TEXT_BOX (17)] name='A02_wl_395' pos=(0.75,1.60) size=(4.50x0.45)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۲. نامتوازن بودن ترکیب جنسیتی', 'Tahoma', 16.0, True, '6D597A')]
+  [TEXT_BOX (17)] name='A02_wl_396' pos=(0.75,2.10) size=(4.50x0.80)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۹۴٪ نمونه زن؛ عدم امکان مقایسه جنسیتی و احتیاط در تعمیم به مردان', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A03_wl_397b' pos=(6.80,3.20) size=(6.00x1.60)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A03_wl_398c' pos=(11.75,3.55) size=(0.85x0.85)
+      fill=solid rgb=2A9D8F
+  [PICTURE (13)] name='A03_wl_399i' pos=(11.97,3.77) size=(0.42x0.42)
+      fill n/a
+  [TEXT_BOX (17)] name='A03_wl_400' pos=(7.05,3.40) size=(4.50x0.45)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۳. بررسی نشدن برخی متغیرهای مؤثر', 'Tahoma', 16.0, True, '2A9D8F')]
+  [TEXT_BOX (17)] name='A03_wl_401' pos=(7.05,3.90) size=(4.50x0.80)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('ویژگی\u200cهای شخصیتی، سبک دلبستگی، حمایت اجتماعی، وضعیت اقتصادی\u200cـ\u200cاجتماعی', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A04_wl_402b' pos=(0.50,3.20) size=(6.00x1.60)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A04_wl_403c' pos=(5.45,3.55) size=(0.85x0.85)
+      fill=solid rgb=D9674A
+  [PICTURE (13)] name='A04_wl_404i' pos=(5.67,3.77) size=(0.42x0.42)
+      fill n/a
+  [TEXT_BOX (17)] name='A04_wl_405' pos=(0.75,3.40) size=(4.50x0.45)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۴. مقطعی بودن پژوهش', 'Tahoma', 16.0, True, 'D9674A')]
+  [TEXT_BOX (17)] name='A04_wl_406' pos=(0.75,3.90) size=(4.50x0.80)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('گردآوری داده در یک مقطع زمانی؛ عدم امکان بررسی تغییرات در طول زمان', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A05_wl_407b' pos=(6.80,5.00) size=(6.00x1.60)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A05_wl_408c' pos=(11.75,5.35) size=(0.85x0.85)
+      fill=solid rgb=6D597A
+  [PICTURE (13)] name='A05_wl_409i' pos=(11.97,5.57) size=(0.42x0.42)
+      fill n/a
+  [TEXT_BOX (17)] name='A05_wl_410' pos=(7.05,5.20) size=(4.50x0.45)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۵. محدودیت در تعمیم یافته\u200cها', 'Tahoma', 16.0, True, '6D597A')]
+  [TEXT_BOX (17)] name='A05_wl_411' pos=(7.05,5.70) size=(4.50x0.80)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('احتیاط در تعمیم به غیردانشجویان و جمعیت\u200cهایی با ویژگی\u200cهای متفاوت', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A06_wl_412b' pos=(0.50,5.00) size=(6.00x1.60)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A06_wl_413c' pos=(5.45,5.35) size=(0.85x0.85)
+      fill=solid rgb=2A9D8F
+  [PICTURE (13)] name='A06_wl_414i' pos=(5.67,5.57) size=(0.42x0.42)
+      fill n/a
+  [TEXT_BOX (17)] name='A06_wl_415' pos=(0.75,5.20) size=(4.50x0.45)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('۶. تفسیر غیرعلّی روابط', 'Tahoma', 16.0, True, '2A9D8F')]
+  [TEXT_BOX (17)] name='A06_wl_416' pos=(0.75,5.70) size=(4.50x0.80)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('روابط همبستگی\u200cاند نه علّی؛ نیاز به پژوهش\u200cهای طولی و آزمایشی', 'Tahoma', 14.0, None, '263238')]
+======================================================================
+SLIDE 17  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.10,6.05) size=(2.60x2.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(1.15,6.70) size=(0.45x0.45)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.55,-0.35) size=(1.10x1.10)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(11.95,0.38) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='Image 0' pos=(12.11,0.54) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(0.60,0.36) size=(11.15x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('پیشنهادهای پژوهشی', 'Tahoma', 28.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 5' pos=(0.50,7.02) size=(1.20x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۱۷ / ۱۹', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 6' pos=(6.30,7.02) size=(6.50x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دفاع از پایان\u200cنامه کارشناسی ارشد روانشناسی بالینی  |  پریسا باقری', 'Tahoma', 10.0, None, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A01_wl_417b' pos=(6.80,1.35) size=(6.00x0.95)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A01_wl_418c' pos=(12.00,1.52) size=(0.60x0.60)
+      fill=solid rgb=0F5257
+  [TEXT_BOX (17)] name='A01_wl_419' pos=(12.00,1.52) size=(0.60x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۱', 'Tahoma', 16.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A01_wl_420' pos=(7.00,1.40) size=(4.85x0.85)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('بررسی روابط در نمونه\u200cهای متوازن\u200cتر از نظر جنسیت برای مقایسه زنان و مردان', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A02_wl_421b' pos=(6.80,2.45) size=(6.00x0.95)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A02_wl_422c' pos=(12.00,2.62) size=(0.60x0.60)
+      fill=solid rgb=2A9D8F
+  [TEXT_BOX (17)] name='A02_wl_423' pos=(12.00,2.62) size=(0.60x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۲', 'Tahoma', 16.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A02_wl_424' pos=(7.00,2.50) size=(4.85x0.85)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('طرح\u200cهای طولی برای بررسی تغییرات سبک\u200cهای هویتی و حل تعارض در طول زمان', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A03_wl_425b' pos=(6.80,3.55) size=(6.00x0.95)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A03_wl_426c' pos=(12.00,3.72) size=(0.60x0.60)
+      fill=solid rgb=6D597A
+  [TEXT_BOX (17)] name='A03_wl_427' pos=(12.00,3.72) size=(0.60x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۳', 'Tahoma', 16.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A03_wl_428' pos=(7.00,3.60) size=(4.85x0.85)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('بررسی سایر میانجی\u200cها یا تعدیل\u200cگرها: سبک دلبستگی، تنظیم هیجان، حمایت اجتماعی، ذهنی\u200cسازی', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A04_wl_429b' pos=(6.80,4.65) size=(6.00x0.95)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A04_wl_430c' pos=(12.00,4.82) size=(0.60x0.60)
+      fill=solid rgb=D9674A
+  [TEXT_BOX (17)] name='A04_wl_431' pos=(12.00,4.82) size=(0.60x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۴', 'Tahoma', 16.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A04_wl_432' pos=(7.00,4.70) size=(4.85x0.85)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('استفاده از روش\u200cهای چندمنبعی (مصاحبه بالینی، گزارش نزدیکان) در کنار خودگزارشی', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A05_wl_433b' pos=(6.80,5.75) size=(6.00x0.95)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A05_wl_434c' pos=(12.00,5.92) size=(0.60x0.60)
+      fill=solid rgb=E9B44C
+  [TEXT_BOX (17)] name='A05_wl_435' pos=(12.00,5.92) size=(0.60x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۵', 'Tahoma', 16.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A05_wl_436' pos=(7.00,5.80) size=(4.85x0.85)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('بررسی جداگانه رابطه آسیب\u200cهای کودکی با هر یک از سبک\u200cهای هویتی', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A06_wl_437b' pos=(0.50,1.35) size=(6.00x0.95)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A06_wl_438c' pos=(5.70,1.52) size=(0.60x0.60)
+      fill=solid rgb=0F5257
+  [TEXT_BOX (17)] name='A06_wl_439' pos=(5.70,1.52) size=(0.60x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۶', 'Tahoma', 16.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A06_wl_440' pos=(0.70,1.40) size=(4.85x0.85)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('بررسی بیشتر رابطه آسیب\u200cهای کودکی با هویت هنجاری و سازوکارهای احتمالی آن', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A07_wl_441b' pos=(0.50,2.45) size=(6.00x0.95)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A07_wl_442c' pos=(5.70,2.62) size=(0.60x0.60)
+      fill=solid rgb=2A9D8F
+  [TEXT_BOX (17)] name='A07_wl_443' pos=(5.70,2.62) size=(0.60x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۷', 'Tahoma', 16.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A07_wl_444' pos=(0.70,2.50) size=(4.85x0.85)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('بررسی جداگانه نقش هر یک از سبک\u200cهای حل تعارض در ارتباط با سبک\u200cهای هویتی', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A08_wl_445b' pos=(0.50,3.55) size=(6.00x0.95)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A08_wl_446c' pos=(5.70,3.72) size=(0.60x0.60)
+      fill=solid rgb=6D597A
+  [TEXT_BOX (17)] name='A08_wl_447' pos=(5.70,3.72) size=(0.60x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۸', 'Tahoma', 16.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A08_wl_448' pos=(0.70,3.60) size=(4.85x0.85)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('آزمون مدل در گروه\u200cهای دیگر: نوجوانان، زوج\u200cها، شاغلان و جمعیت\u200cهای بالینی', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A09_wl_449b' pos=(0.50,4.65) size=(6.00x0.95)
+      fill=solid rgb=F4F6F7
+  [AUTO_SHAPE (1)] name='A09_wl_450c' pos=(5.70,4.82) size=(0.60x0.60)
+      fill=solid rgb=D9674A
+  [TEXT_BOX (17)] name='A09_wl_451' pos=(5.70,4.82) size=(0.60x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۹', 'Tahoma', 16.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A09_wl_452' pos=(0.70,4.70) size=(4.85x0.85)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('طرح\u200cهای مداخله\u200cای: اثر آموزش حل تعارض سازنده بر کاهش سردرگمی/اجتناب و تقویت تعهد هویتی', 'Tahoma', 14.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A10_wl_453b' pos=(0.50,5.75) size=(6.00x0.95)
+      fill=solid rgb=FFFFFF
+  [AUTO_SHAPE (1)] name='A10_wl_454c' pos=(5.70,5.92) size=(0.60x0.60)
+      fill=solid rgb=E9B44C
+  [TEXT_BOX (17)] name='A10_wl_455' pos=(5.70,5.92) size=(0.60x0.60)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('۱۰', 'Tahoma', 16.0, True, 'FFFFFF')]
+  [TEXT_BOX (17)] name='A10_wl_456' pos=(0.70,5.80) size=(4.85x0.85)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('افزودن تنظیم هیجان، سبک دلبستگی و طرحواره\u200cهای ناسازگار اولیه به مدل\u200cهای میانجی', 'Tahoma', 14.0, None, '263238')]
+======================================================================
+SLIDE 18  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.10,6.05) size=(2.60x2.60)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(1.15,6.70) size=(0.45x0.45)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(12.55,-0.35) size=(1.10x1.10)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(11.95,0.38) size=(0.72x0.72)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='Image 0' pos=(12.11,0.54) size=(0.40x0.40)
+      fill n/a
+  [TEXT_BOX (17)] name='Text 4' pos=(0.60,0.36) size=(11.15x0.72)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('پیشنهادهای کاربردی', 'Tahoma', 28.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='Text 5' pos=(0.50,7.02) size=(1.20x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=LEFT (1) :: [('۱۸ / ۱۹', 'Tahoma', 10.0, None, '6B7B83')]
+  [TEXT_BOX (17)] name='Text 6' pos=(6.30,7.02) size=(6.50x0.30)
+      fill=typeBACKGROUND (5)
+      L0 align=RIGHT (3) :: [('دفاع از پایان\u200cنامه کارشناسی ارشد روانشناسی بالینی  |  پریسا باقری', 'Tahoma', 10.0, None, '6B7B83')]
+  [AUTO_SHAPE (1)] name='A01_z_457b' pos=(9.88,1.40) size=(2.92x2.60)
+      fill=solid rgb=E6F2F1
+  [AUTO_SHAPE (1)] name='A01_z_458c' pos=(11.01,1.58) size=(0.66x0.66)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='A01_z_458i' pos=(11.16,1.73) size=(0.37x0.37)
+      fill n/a
+  [TEXT_BOX (17)] name='A01_z_459' pos=(10.03,2.30) size=(2.62x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('مراکز مشاوره دانشجویی', 'Tahoma', 14.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='A01_z_460' pos=(10.08,2.95) size=(2.52x0.95)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('ارزیابی سابقه تجربه\u200cهای نامطلوب کودکی در بررسی مشکلات بین\u200cفردی', 'Tahoma', 13.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A02_z_461b' pos=(6.75,1.40) size=(2.92x2.60)
+      fill=solid rgb=FBECE7
+  [AUTO_SHAPE (1)] name='A02_z_462c' pos=(7.88,1.58) size=(0.66x0.66)
+      fill=solid rgb=D9674A
+  [PICTURE (13)] name='A02_z_462i' pos=(8.03,1.73) size=(0.37x0.37)
+      fill n/a
+  [TEXT_BOX (17)] name='A02_z_463' pos=(6.90,2.30) size=(2.62x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('آموزش حل تعارض سازنده', 'Tahoma', 14.0, True, 'D9674A')]
+  [TEXT_BOX (17)] name='A02_z_464' pos=(6.95,2.95) size=(2.52x0.95)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('گفت\u200cوگوی مؤثر، روشن\u200cسازی برداشت\u200cها و راه\u200cحل\u200cهای سودمند متقابل', 'Tahoma', 13.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A03_z_465b' pos=(3.63,1.40) size=(2.92x2.60)
+      fill=solid rgb=EFEAF3
+  [AUTO_SHAPE (1)] name='A03_z_466c' pos=(4.76,1.58) size=(0.66x0.66)
+      fill=solid rgb=6D597A
+  [PICTURE (13)] name='A03_z_466i' pos=(4.90,1.73) size=(0.37x0.37)
+      fill n/a
+  [TEXT_BOX (17)] name='A03_z_467' pos=(3.78,2.30) size=(2.62x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('توجه به مسائل هویتی', 'Tahoma', 14.0, True, '6D597A')]
+  [TEXT_BOX (17)] name='A03_z_468' pos=(3.83,2.95) size=(2.52x0.95)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('اجتناب از تصمیم\u200cگیری و دشواری تعهد در دانشجویان دارای سابقه آسیب', 'Tahoma', 13.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A04_z_469b' pos=(0.50,1.40) size=(2.92x2.60)
+      fill=solid rgb=E6F2F1
+  [AUTO_SHAPE (1)] name='A04_z_470c' pos=(1.63,1.58) size=(0.66x0.66)
+      fill=solid rgb=2A9D8F
+  [PICTURE (13)] name='A04_z_470i' pos=(1.77,1.73) size=(0.37x0.37)
+      fill n/a
+  [TEXT_BOX (17)] name='A04_z_471' pos=(0.65,2.30) size=(2.62x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('تقویت فرایندهای هویتی', 'Tahoma', 14.0, True, '2A9D8F')]
+  [TEXT_BOX (17)] name='A04_z_472' pos=(0.70,2.95) size=(2.52x0.95)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('خودآگاهی، بررسی ارزش\u200cها و اهداف و تصمیم\u200cهای پایدار', 'Tahoma', 13.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A05_z_473b' pos=(9.88,4.25) size=(2.92x2.60)
+      fill=solid rgb=E6F2F1
+  [AUTO_SHAPE (1)] name='A05_z_474c' pos=(11.01,4.43) size=(0.66x0.66)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='A05_z_474i' pos=(11.16,4.58) size=(0.37x0.37)
+      fill n/a
+  [TEXT_BOX (17)] name='A05_z_475' pos=(10.03,5.15) size=(2.62x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('پیشگیری و ارتقای سلامت روان', 'Tahoma', 14.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='A05_z_476' pos=(10.08,5.80) size=(2.52x0.95)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('گنجاندن آموزش حل تعارض در برنامه\u200cهای مراکز مشاوره دانشگاه\u200cها', 'Tahoma', 13.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A06_z_477b' pos=(6.75,4.25) size=(2.92x2.60)
+      fill=solid rgb=FBECE7
+  [AUTO_SHAPE (1)] name='A06_z_478c' pos=(7.88,4.43) size=(0.66x0.66)
+      fill=solid rgb=D9674A
+  [PICTURE (13)] name='A06_z_478i' pos=(8.03,4.58) size=(0.37x0.37)
+      fill n/a
+  [TEXT_BOX (17)] name='A06_z_479' pos=(6.90,5.15) size=(2.62x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('فراتر از پیامدهای هیجانی', 'Tahoma', 14.0, True, 'D9674A')]
+  [TEXT_BOX (17)] name='A06_z_480' pos=(6.95,5.80) size=(2.52x0.95)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('توجه به مهارت\u200cهای ارتباطی در مداخلات افراد دارای سابقه آسیب', 'Tahoma', 13.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A07_z_481b' pos=(3.63,4.25) size=(2.92x2.60)
+      fill=solid rgb=EFEAF3
+  [AUTO_SHAPE (1)] name='A07_z_482c' pos=(4.76,4.43) size=(0.66x0.66)
+      fill=solid rgb=6D597A
+  [PICTURE (13)] name='A07_z_482i' pos=(4.90,4.58) size=(0.37x0.37)
+      fill n/a
+  [TEXT_BOX (17)] name='A07_z_483' pos=(3.78,5.15) size=(2.62x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('جایگزینی الگوهای اجتنابی', 'Tahoma', 14.0, True, '6D597A')]
+  [TEXT_BOX (17)] name='A07_z_484' pos=(3.83,5.80) size=(2.52x0.95)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('گفت\u200cوگوی سازنده، بررسی نیازهای طرفین و حل مسئله به جای کناره\u200cگیری', 'Tahoma', 13.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A08_z_485b' pos=(0.50,4.25) size=(2.92x2.60)
+      fill=solid rgb=E6F2F1
+  [AUTO_SHAPE (1)] name='A08_z_486c' pos=(1.63,4.43) size=(0.66x0.66)
+      fill=solid rgb=2A9D8F
+  [PICTURE (13)] name='A08_z_486i' pos=(1.77,4.58) size=(0.37x0.37)
+      fill n/a
+  [TEXT_BOX (17)] name='A08_z_487' pos=(0.65,5.15) size=(2.62x0.62)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('کارگاه\u200cهای مهارت\u200cهای زندگی', 'Tahoma', 14.0, True, '2A9D8F')]
+  [TEXT_BOX (17)] name='A08_z_488' pos=(0.70,5.80) size=(2.52x0.95)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('آموزش توأم حل تعارض، تصمیم\u200cگیری، خودشناسی و ارزش\u200cها', 'Tahoma', 13.0, None, '263238')]
+======================================================================
+SLIDE 19  layout=DEFAULT
+  BG type: SOLID (1) FFFFFF
+  [AUTO_SHAPE (1)] name='Shape 0' pos=(-1.40,-1.40) size=(4.20x4.20)
+      fill=solid rgb=0F5257
+  [AUTO_SHAPE (1)] name='Shape 1' pos=(10.80,4.60) size=(4.00x4.00)
+      fill=solid rgb=D9674A
+  [AUTO_SHAPE (1)] name='Shape 2' pos=(11.60,1.00) size=(0.70x0.70)
+      fill=solid rgb=6D597A
+  [AUTO_SHAPE (1)] name='Shape 3' pos=(1.60,6.20) size=(0.45x0.45)
+      fill=solid rgb=E9B44C
+  [AUTO_SHAPE (1)] name='A01_z_489c' pos=(6.12,1.20) size=(1.10x1.10)
+      fill=solid rgb=0F5257
+  [PICTURE (13)] name='A01_z_489i' pos=(6.36,1.44) size=(0.62x0.62)
+      fill n/a
+  [TEXT_BOX (17)] name='A02_z_490' pos=(1.50,2.55) size=(10.33x1.20)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('سپاس از توجه شما', 'Tahoma', 48.0, True, '0F5257')]
+  [TEXT_BOX (17)] name='A03_f_491' pos=(1.50,3.95) size=(10.33x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('با تشکر و قدردانی از استاد راهنمای گرامی، سرکار خانم دکتر فاطمه حسنی', 'Tahoma', 18.0, None, '263238')]
+  [TEXT_BOX (17)] name='A03_f_492' pos=(1.50,4.45) size=(10.33x0.50)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('و اساتید محترم داور و همه حاضران ارجمند', 'Tahoma', 18.0, None, '263238')]
+  [AUTO_SHAPE (1)] name='A04_z_493b' pos=(3.67,5.45) size=(6.00x0.70)
+      fill=solid rgb=E6F2F1
+  [TEXT_BOX (17)] name='A04_z_494' pos=(3.67,5.45) size=(6.00x0.70)
+      fill=typeBACKGROUND (5)
+      L0 align=CENTER (2) :: [('آماده پاسخگویی به پرسش\u200cهای شما هستم', 'Tahoma', 15.0, True, '0F5257')]
